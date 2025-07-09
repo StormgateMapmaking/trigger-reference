@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Start Timer",
+    "grammar_text":  "Start {timer} as a {repeating|One Shot/Repeating} timer that will expire in {duration} seconds",
+    "id":  "Timer_StartTimer",
+    "script_id":  "start",
+    "type":  "Action"
+}

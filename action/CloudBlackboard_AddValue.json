@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Add Value",
+    "grammar_text":  "Add {value} to {key} in cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_AddValue",
+    "script_id":  "Shim::CloudBlackboard::add_value",
+    "type":  "Action"
+}

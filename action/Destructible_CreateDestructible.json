@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Create Destructible",
+    "grammar_text":  "Create {count|1} destructible(s) of type {type} at {position} facing {facing|0} degrees",
+    "id":  "Destructible_CreateDestructible",
+    "script_id":  "Shim::Destructible::create_destructibles",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Show In-World UI",
+    "grammar_text":  "{show} In-World UI for {players}",
+    "id":  "UI_ShowInWorldUI",
+    "script_id":  "Shim::UI::show_in_world_ui",
+    "type":  "Action"
+}

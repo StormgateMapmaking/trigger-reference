@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Set Duration",
+    "grammar_text":  "Set duration of {ping} to {duration} seconds",
+    "id":  "Ping_SetDuration",
+    "script_id":  "set_duration",
+    "type":  "Action"
+}

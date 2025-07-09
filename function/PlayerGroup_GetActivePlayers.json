@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Active players",
+    "grammar_text":  "Active players",
+    "id":  "PlayerGroup_GetActivePlayers",
+    "script_id":  "Shim::PlayerGroup::get_active_players",
+    "type":  "Function"
+}

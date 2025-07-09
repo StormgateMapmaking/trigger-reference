@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Is Seeking Goal",
+    "grammar_text":  "Entity {entity} is seeking goal",
+    "id":  "Entity_IsSeekingGoal",
+    "script_id":  "is_seeking_goal",
+    "type":  "Function"
+}

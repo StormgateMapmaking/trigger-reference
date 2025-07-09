@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Play Animation",
+    "grammar_text":  "Play {animation} for {destructible}",
+    "id":  "Destructible_PlayAnimation",
+    "script_id":  "play_animation",
+    "type":  "Action"
+}

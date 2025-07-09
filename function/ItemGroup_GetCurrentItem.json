@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Current Item (For Each)",
+    "grammar_text":  "Current Item",
+    "id":  "ItemGroup_GetCurrentItem",
+    "script_id":  "",
+    "type":  "Function"
+}

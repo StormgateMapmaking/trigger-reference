@@ -1,0 +1,7 @@
+﻿{
+    "name":  "String - Time To String",
+    "grammar_text":  "Convert {value} to string",
+    "id":  "String_TimeToString",
+    "script_id":  "String::to_string",
+    "type":  "Function"
+}

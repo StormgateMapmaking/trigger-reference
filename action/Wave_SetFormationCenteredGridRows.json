@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Set Grid Formation Max Length",
+    "grammar_text":  "Set {wave} to the centered grid formation at most {rows} long",
+    "id":  "Wave_SetFormationCenteredGridRows",
+    "script_id":  "set_rows",
+    "type":  "Action"
+}

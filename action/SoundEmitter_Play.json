@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Play",
+    "grammar_text":  "Play {sound_emitter}",
+    "id":  "SoundEmitter_Play",
+    "script_id":  "play",
+    "type":  "Action"
+}

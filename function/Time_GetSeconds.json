@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Time - Seconds",
+    "grammar_text":  "Seconds of {time}",
+    "id":  "Time_GetSeconds",
+    "script_id":  "get_seconds",
+    "type":  "Function"
+}

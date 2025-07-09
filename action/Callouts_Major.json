@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Major Callout",
+    "grammar_text":  "Display {message} in Major Callout Box with Color {r} {g} {b} for {lifetime} seconds for {group} ",
+    "id":  "Callouts_Major",
+    "script_id":  "Shim::UI::major_callout",
+    "type":  "Action"
+}

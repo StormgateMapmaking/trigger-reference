@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Revealer - Last Created Revealer",
+    "grammar_text":  "Last created revealer",
+    "id":  "Revealer_GetLastCreatedRevealer",
+    "script_id":  "Shim::Revealer::get_last_created_revealer",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Count Points",
+    "grammar_text":  "Number of points in {group}",
+    "id":  "PointGroup_CountPoints",
+    "script_id":  "size",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Widget - Last Created Widget",
+    "grammar_text":  "Last created widget",
+    "id":  "Widget_GetLastCreatedWidget",
+    "script_id":  "Shim::Widgets::get_last_created_widget",
+    "type":  "Function"
+}

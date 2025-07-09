@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Count Completed Units Of Alias",
+    "grammar_text":  "Count {alias} completed by {player}",
+    "id":  "Player_CountCompletedUnitsOfAlias",
+    "script_id":  "Shim::Player::count_completed_units_of_type",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Max Energy",
+    "grammar_text":  "Max energy of {unit}",
+    "id":  "Unit_GetMaxEnergy",
+    "script_id":  "get_max_energy",
+    "type":  "Function"
+}

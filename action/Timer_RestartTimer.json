@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Restart Timer",
+    "grammar_text":  "Restart {timer}",
+    "id":  "Timer_RestartTimer",
+    "script_id":  "restart",
+    "type":  "Action"
+}

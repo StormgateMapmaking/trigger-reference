@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Current Index (For Each)",
+    "grammar_text":  "Current index (For Each)",
+    "id":  "UnitGroup_GetCurrentIndex",
+    "script_id":  "",
+    "type":  "Function"
+}

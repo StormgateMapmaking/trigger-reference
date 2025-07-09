@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Remaining Periodic Times of Buff",
+    "grammar_text":  "Remaining periodic effect times of {buff} on {entity} from {source}",
+    "id":  "Entity_GetBuffRemainingPeriodicTimes",
+    "script_id":  "Buffs::entity_buff_remainning_periodic",
+    "type":  "Function"
+}

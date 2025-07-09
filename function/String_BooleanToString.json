@@ -1,0 +1,7 @@
+﻿{
+    "name":  "String - Boolean To String",
+    "grammar_text":  "Convert {value} to string",
+    "id":  "String_BooleanToString",
+    "script_id":  "String::to_string",
+    "type":  "Function"
+}

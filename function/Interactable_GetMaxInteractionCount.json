@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Max Interaction Count",
+    "grammar_text":  "Maximum number of times {interactable} can be interacted with",
+    "id":  "Interactable_GetMaxInteractionCount",
+    "script_id":  "",
+    "type":  "Function"
+}

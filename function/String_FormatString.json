@@ -1,0 +1,7 @@
+﻿{
+    "name":  "String - Format String (Multiple)",
+    "grammar_text":  "Format string {format} with {args}",
+    "id":  "String_FormatString",
+    "script_id":  "String::format",
+    "type":  "Function"
+}

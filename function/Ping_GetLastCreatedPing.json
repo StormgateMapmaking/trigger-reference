@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Last Created Ping",
+    "grammar_text":  "Last Created Ping",
+    "id":  "Ping_GetLastCreatedPing",
+    "script_id":  "Shim::Ping::get_last_created_ping",
+    "type":  "Function"
+}

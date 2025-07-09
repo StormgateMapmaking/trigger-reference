@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Falloff Distance",
+    "grammar_text":  "Set falloff distance of {sound_emitter} to {falloff_distance}",
+    "id":  "SoundEmitter_SetFalloffDistance",
+    "script_id":  "set_falloff_distance",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Target Sorting - Sorted Entity",
+    "grammar_text":  "Sorted Entity",
+    "id":  "TargetSorting_GetSortedEntity",
+    "script_id":  "TargetSorting::sorted_entity",
+    "type":  "Function"
+}

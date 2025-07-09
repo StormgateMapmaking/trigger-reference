@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - Add Objectives List",
+    "grammar_text":  "Add objectives list {list}",
+    "id":  "Objectives_Panel_AddList",
+    "script_id":  "Shim::Objectives::add_objectives_list",
+    "type":  "Action"
+}

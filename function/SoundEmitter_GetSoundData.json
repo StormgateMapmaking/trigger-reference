@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - SoundData",
+    "grammar_text":  "SoundData of {sound_emitter}",
+    "id":  "SoundEmitter_GetSoundData",
+    "script_id":  "get_sound_data",
+    "type":  "Function"
+}

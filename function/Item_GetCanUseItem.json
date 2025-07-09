@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Can be Used",
+    "grammar_text":  "{item} can be used by {unit}",
+    "id":  "Item_GetCanUseItem",
+    "script_id":  "can_use_item",
+    "type":  "Function"
+}

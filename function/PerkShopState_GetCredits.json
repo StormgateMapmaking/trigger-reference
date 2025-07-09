@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Get Credits",
+    "grammar_text":  "Get the credits of perk shop state {state}.",
+    "id":  "PerkShopState_GetCredits",
+    "script_id":  "get_credits",
+    "type":  "Function"
+}

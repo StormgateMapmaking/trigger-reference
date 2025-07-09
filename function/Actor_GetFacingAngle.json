@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Facing Angle",
+    "grammar_text":  "Facing angle of {actor}",
+    "id":  "Actor_GetFacingAngle",
+    "script_id":  "get_facing_angle",
+    "type":  "Function"
+}

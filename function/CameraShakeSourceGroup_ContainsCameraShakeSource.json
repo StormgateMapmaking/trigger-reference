@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Camera Shake Source In Camera Shake Source Group",
+    "grammar_text":  "{camerashakesource} is in {group}",
+    "id":  "CameraShakeSourceGroup_ContainsCameraShakeSource",
+    "script_id":  "contains",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "ResourceNodeGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

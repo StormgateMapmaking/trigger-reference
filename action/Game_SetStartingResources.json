@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Set Default Starting Resources",
+    "grammar_text":  "Set default starting resources for {player_group}",
+    "id":  "Game_SetStartingResources",
+    "script_id":  "GameWorld::set_default_player_resources",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Maximum",
+    "grammar_text":  "Maximum of {values}",
+    "id":  "Math_Max",
+    "script_id":  "max",
+    "type":  "Function"
+}

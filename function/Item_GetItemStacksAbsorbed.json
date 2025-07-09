@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Item Stacks Absorbed",
+    "grammar_text":  "Number of item stacks absorbed",
+    "id":  "Item_GetItemStacksAbsorbed",
+    "script_id":  "Events::EventData::get_item_stacks_absorbed",
+    "type":  "Function"
+}

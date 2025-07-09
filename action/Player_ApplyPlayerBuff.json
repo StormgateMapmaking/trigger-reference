@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Apply Player Buff",
+    "grammar_text":  "Apply {stacks} stacks of {buff} to player {player}",
+    "id":  "Player_ApplyPlayerBuff",
+    "script_id":  "PlayerTask::apply_player_buff",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Run",
+    "grammar_text":  "Run {trigger} ({conditions|Check/Ignore Conditions}, {wait|Wait/Don\u0027t Wait} until it finishes)",
+    "id":  "Trigger_Run",
+    "script_id":  "",
+    "type":  "Action"
+}

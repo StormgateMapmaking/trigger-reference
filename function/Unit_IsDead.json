@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Is Dead",
+    "grammar_text":  "{unit} is dead",
+    "id":  "Unit_IsDead",
+    "script_id":  "is_dead",
+    "type":  "Function"
+}

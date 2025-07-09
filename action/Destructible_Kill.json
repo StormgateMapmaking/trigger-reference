@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Kill",
+    "grammar_text":  "Kill {destructible}",
+    "id":  "Destructible_Kill",
+    "script_id":  "kill",
+    "type":  "Action"
+}

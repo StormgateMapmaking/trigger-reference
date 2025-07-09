@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Remove Camera Shake Sources",
+    "grammar_text":  "Remove {source} from {destination}",
+    "id":  "CameraShakeSourceGroup_RemoveCameraShakeSources",
+    "script_id":  "remove_group",
+    "type":  "Action"
+}

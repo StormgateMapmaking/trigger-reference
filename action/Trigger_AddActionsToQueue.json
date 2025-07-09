@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Add Action(s) to Queue",
+    "grammar_text":  "Add action(s) to queue",
+    "id":  "Trigger_AddActionsToQueue",
+    "script_id":  "",
+    "type":  "Action"
+}

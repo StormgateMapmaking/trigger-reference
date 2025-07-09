@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Item Stacks Gained or Lost",
+    "grammar_text":  "Item Stacks Gained or Lost",
+    "id":  "Item_GetItemStacksGainedOrLost",
+    "script_id":  "Events::EventData::get_item_stacks_gained_or_lost",
+    "type":  "Function"
+}

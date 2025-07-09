@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Set Is Auto Unlock Enabled",
+    "grammar_text":  "Set that perk shop state {state} automatically unlocks next tier to {enabled}",
+    "id":  "PerkShopState_SetIsAutoUnlockEnabled",
+    "script_id":  "set_is_auto_unlock_enabled",
+    "type":  "Action"
+}

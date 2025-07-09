@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Decrease Score",
+    "grammar_text":  "Decrease {score} for player {player} by {value}",
+    "id":  "Player_DecreaseScore",
+    "script_id":  "Shim::Player::decrease_score_value",
+    "type":  "Action"
+}

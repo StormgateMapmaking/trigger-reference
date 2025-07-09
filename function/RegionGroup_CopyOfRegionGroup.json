@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Copy Of Region Group",
+    "grammar_text":  "Copy of {group}",
+    "id":  "RegionGroup_CopyOfRegionGroup",
+    "script_id":  "Shim::RegionGroup::get_copy_of_region_group",
+    "type":  "Function"
+}

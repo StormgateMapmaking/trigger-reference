@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Hint Callout",
+    "grammar_text":  "Display {message} in Hint Callout Box with icon {icon} for {lifetime} seconds",
+    "id":  "Callouts_Hint",
+    "script_id":  "Shim::UI::hint_callout",
+    "type":  "Action"
+}

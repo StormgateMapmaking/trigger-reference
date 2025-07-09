@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Resource Generators Of Type",
+    "grammar_text":  "Resource generators owned by player {player} of type {resource_type}",
+    "id":  "ResourceGeneratorGroup_GetResourceGeneratorsOfType",
+    "script_id":  "Shim::ResourceGeneratorGroup::get_resource_generators_of_type",
+    "type":  "Function"
+}

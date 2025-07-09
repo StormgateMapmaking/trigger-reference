@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Get Tiers",
+    "grammar_text":  "Get the number of tiers of perk shop state {state}.",
+    "id":  "PerkShopState_GetTiers",
+    "script_id":  "get_tiers",
+    "type":  "Function"
+}

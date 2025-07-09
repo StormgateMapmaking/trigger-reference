@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity VM Event - Data as \u003c\u003cType\u003e\u003e",
+    "grammar_text":  "Triggering Entity VM event data as \u003c\u003cType\u003e\u003e",
+    "id":  "EntityVM_GetTriggeringEventData_Template",
+    "script_id":  "Events::EventData::get_triggering_entity_vm_event_data\u003c\u003c\u003cNativeType\u003e\u003e\u003e",
+    "type":  "Function"
+}

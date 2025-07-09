@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Last Created State Machine",
+    "grammar_text":  "Last created state machine",
+    "id":  "FSM_GetLastCreatedStateMachine",
+    "script_id":  "Shim::FSM::get_last_created_state_machine",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Get Team Victory Points",
+    "grammar_text":  "Get victory points for team {team}",
+    "id":  "Game_GetVictoryPoints",
+    "script_id":  "VictoryPointsManager::get_victory_points",
+    "type":  "Function"
+}

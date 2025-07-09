@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Grant Perk",
+    "grammar_text":  "Grant {perk} to player {player}",
+    "id":  "Player_GrantPerk",
+    "script_id":  "Shim::Player::grant_perk",
+    "type":  "Action"
+}

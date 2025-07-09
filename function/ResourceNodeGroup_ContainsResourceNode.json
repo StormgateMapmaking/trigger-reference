@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Resource Node In Resource Node Group",
+    "grammar_text":  "{resourcenode} is in {group}",
+    "id":  "ResourceNodeGroup_ContainsResourceNode",
+    "script_id":  "contains",
+    "type":  "Function"
+}

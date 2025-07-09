@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Time - Total Minutes",
+    "grammar_text":  "Total minutes of {time}",
+    "id":  "Time_GetTotalMinutes",
+    "script_id":  "get_total_minutes",
+    "type":  "Function"
+}

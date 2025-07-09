@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Damage - Target Of Damage (Entity)",
+    "grammar_text":  "Target of {damage}",
+    "id":  "Damage_GetTargetEntity",
+    "script_id":  "get_target_entity",
+    "type":  "Function"
+}

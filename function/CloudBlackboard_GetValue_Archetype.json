@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Get Archetype",
+    "grammar_text":  "Get Archetype value as {key} from cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_GetValue_Archetype",
+    "script_id":  "Shim::CloudBlackboard::get_value_as\u003cArchetypeRef\u003e",
+    "type":  "Function"
+}

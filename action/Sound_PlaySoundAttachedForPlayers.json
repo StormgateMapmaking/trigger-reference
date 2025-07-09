@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound - Play 3D Sound Attached",
+    "grammar_text":  "Play {sound} for {players} attached to {actor}",
+    "id":  "Sound_PlaySoundAttachedForPlayers",
+    "script_id":  "SoundPlayer::play_3D",
+    "type":  "Action"
+}

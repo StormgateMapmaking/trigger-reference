@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Map - Set Playable Bounds",
+    "grammar_text":  "Set playable bounds to ({min}, {max})",
+    "id":  "Map_SetPlayableBounds",
+    "script_id":  "Shim::Map::set_playable_bounds",
+    "type":  "Action"
+}

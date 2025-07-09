@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Release Camera Shake Source",
+    "grammar_text":  "Release {camera_shake_source}",
+    "id":  "CameraShake_Release",
+    "script_id":  "release",
+    "type":  "Action"
+}

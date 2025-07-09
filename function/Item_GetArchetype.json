@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Archetype",
+    "grammar_text":  "Archetype of {item}",
+    "id":  "Item_GetArchetype",
+    "script_id":  "get_archetype",
+    "type":  "Function"
+}

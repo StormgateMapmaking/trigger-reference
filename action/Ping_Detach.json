@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Detach",
+    "grammar_text":  "Detach {ping}",
+    "id":  "Ping_Detach",
+    "script_id":  "detach",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Execute Game Effect",
+    "grammar_text":  "Execute effect {effect} on {target} from {source}. ",
+    "id":  "Effect_ExecuteEffectFromUnitToUnit",
+    "script_id":  "Shim::Effect::execute",
+    "type":  "Action"
+}

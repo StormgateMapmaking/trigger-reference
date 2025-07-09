@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Get X",
+    "grammar_text":  "X of {vector}",
+    "id":  "Vector_GetCoordX",
+    "script_id":  "",
+    "type":  "Function"
+}

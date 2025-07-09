@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Copy Of Resource Node Group",
+    "grammar_text":  "Copy of {group}",
+    "id":  "ResourceNodeGroup_CopyOfResourceNodeGroup",
+    "script_id":  "Shim::ResourceNodeGroup::get_copy_of_resource_node_group",
+    "type":  "Function"
+}

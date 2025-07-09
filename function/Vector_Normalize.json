@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Normalize",
+    "grammar_text":  "{vec} normalized",
+    "id":  "Vector_Normalize",
+    "script_id":  "Vec::normalize",
+    "type":  "Function"
+}

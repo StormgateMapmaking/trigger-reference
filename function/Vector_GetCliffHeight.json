@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Cliff Height of Position",
+    "grammar_text":  "Cliff height of {position}",
+    "id":  "Vector_GetCliffHeight",
+    "script_id":  "::get_ground_height",
+    "type":  "Function"
+}

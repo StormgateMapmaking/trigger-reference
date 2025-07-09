@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Trigger by Name",
+    "grammar_text":  "Find trigger named {name}",
+    "id":  "Trigger_GetTriggerByName",
+    "script_id":  "Triggers::Trigger::get_trigger_archetype_by_name",
+    "type":  "Function"
+}

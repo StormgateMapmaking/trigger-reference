@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Source Player",
+    "grammar_text":  "Source player of effect {effect_parent}",
+    "id":  "Effect_GetSourcePlayer",
+    "script_id":  "Shim::Effect::get_source_player_slot",
+    "type":  "Function"
+}

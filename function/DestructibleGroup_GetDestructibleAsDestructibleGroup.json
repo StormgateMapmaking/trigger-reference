@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Destructible As Destructible Group",
+    "grammar_text":  "{destructible} as a Destructible Group",
+    "id":  "DestructibleGroup_GetDestructibleAsDestructibleGroup",
+    "script_id":  "Shim::DestructibleGroup::get_destructible_as_destructible_group",
+    "type":  "Function"
+}

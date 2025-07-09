@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Pan Camera to Location",
+    "grammar_text":  "Pan player {player}\u0027s camera to {pos} over {duration} seconds",
+    "id":  "Camera_PanCameraToLocation",
+    "script_id":  "pan_camera_to_location",
+    "type":  "Action"
+}

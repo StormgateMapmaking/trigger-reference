@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Attach to VIP",
+    "grammar_text":  "Attach {wave} to {vip} and begin escorting it",
+    "id":  "Wave_AttachToVIP",
+    "script_id":  "attach_to_vip",
+    "type":  "Action"
+}

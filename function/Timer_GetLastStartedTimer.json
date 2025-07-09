@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Last Started Timer",
+    "grammar_text":  "Last started timer",
+    "id":  "Timer_GetLastStartedTimer",
+    "script_id":  "Timer::get_last_started_timer",
+    "type":  "Function"
+}

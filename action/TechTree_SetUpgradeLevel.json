@@ -1,0 +1,7 @@
+﻿{
+    "name":  "TechTree - Set Upgrade Level of an Upgrade ",
+    "grammar_text":  "Apply the upgrade {upgrade_data} of level {level} to  player {player}",
+    "id":  "TechTree_SetUpgradeLevel",
+    "script_id":  "Shim::TechTree::set_upgrade_level",
+    "type":  "Action"
+}

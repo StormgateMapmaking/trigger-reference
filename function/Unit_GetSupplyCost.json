@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Supply Cost",
+    "grammar_text":  "Supply Cost of {unit}",
+    "id":  "Unit_GetSupplyCost",
+    "script_id":  "",
+    "type":  "Function"
+}

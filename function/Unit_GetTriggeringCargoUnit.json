@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Cargo Unit",
+    "grammar_text":  "Triggering Cargo Unit",
+    "id":  "Unit_GetTriggeringCargoUnit",
+    "script_id":  "Events::EventData::get_triggering_cargo_unit",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Target Unit of Order",
+    "grammar_text":  "Target unit of {order}",
+    "id":  "Order_GetTargetUnit",
+    "script_id":  "get_target_actor_as\u003cUnit\u003e",
+    "type":  "Function"
+}

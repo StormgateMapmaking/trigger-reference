@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Activate Win Condition",
+    "grammar_text":  "Activate win condition {win_condition} with {toggle_structure_elimination}",
+    "id":  "Game_ActivateEliminationWinCondition",
+    "script_id":  "GameWorld::activate_end_condition",
+    "type":  "Action"
+}

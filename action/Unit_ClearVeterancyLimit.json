@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Clear Veterancy Limit",
+    "grammar_text":  "Clear veterancy limit for {unit}",
+    "id":  "Unit_ClearVeterancyLimit",
+    "script_id":  "clear_veterancy_limit",
+    "type":  "Action"
+}

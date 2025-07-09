@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Respawn",
+    "grammar_text":  "Make {unit} respawn at {respawn_position} in {respawn_time} seconds.",
+    "id":  "Unit_SetRespawn",
+    "script_id":  "Shim::Unit::set_respawn",
+    "type":  "Action"
+}

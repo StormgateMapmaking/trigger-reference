@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Add Resource Node",
+    "grammar_text":  "Add {resourcenode} to {group}",
+    "id":  "ResourceNodeGroup_AddResourceNode",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

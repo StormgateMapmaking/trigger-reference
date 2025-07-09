@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Purchase Army Progression Perk",
+    "grammar_text":  "Purchase perk {perk} for player {player} with key {key} in state {state}",
+    "id":  "PerkShopState_PurchaseArmyProgressionPerk",
+    "script_id":  "purchase_armyprogression_perk",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Set Enabled",
+    "grammar_text":  "{state|Enable/Disable} {trigger}",
+    "id":  "Trigger_SetEnabled",
+    "script_id":  "Triggers::Trigger::set_trigger_enabled",
+    "type":  "Action"
+}

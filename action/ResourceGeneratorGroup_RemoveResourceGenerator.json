@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Remove Resource Generator",
+    "grammar_text":  "Remove {resourcegenerator} from {group}",
+    "id":  "ResourceGeneratorGroup_RemoveResourceGenerator",
+    "script_id":  "remove",
+    "type":  "Action"
+}

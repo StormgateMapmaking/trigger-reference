@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Current Damage Amount Being Dealt",
+    "grammar_text":  "Current damage amount being dealt",
+    "id":  "Damage_GetCurrentDamageAmouyntBeingDealt",
+    "script_id":  "Shim::Damage::get_triggering_damage_amount",
+    "type":  "Function"
+}

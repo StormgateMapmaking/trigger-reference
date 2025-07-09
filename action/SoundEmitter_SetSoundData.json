@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set SoundData",
+    "grammar_text":  "Set SoundData of {sound_emitter} to {sound_data}",
+    "id":  "SoundEmitter_SetSoundData",
+    "script_id":  "set_sound_data",
+    "type":  "Action"
+}

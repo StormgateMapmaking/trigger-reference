@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Stop Animation",
+    "grammar_text":  "Stop {animation} for {destructible}",
+    "id":  "Destructible_StopAnimation",
+    "script_id":  "stop_animation",
+    "type":  "Action"
+}

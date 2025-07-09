@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Ability Command",
+    "grammar_text":  "AbilityCommand({ability}, {index})",
+    "id":  "Order_CreateAbilityCommand",
+    "script_id":  "AbilityOrderCommand",
+    "type":  "Function"
+}

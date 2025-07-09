@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Unit Of Player Selection",
+    "grammar_text":  "Target unit of player selection",
+    "id":  "Player_GetTargetUnitOfPlayerSelection",
+    "script_id":  "Events::EventData::get_target_unit_of_player_selection",
+    "type":  "Function"
+}

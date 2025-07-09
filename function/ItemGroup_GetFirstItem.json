@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - First Item in Item Group",
+    "grammar_text":  "First Item of {group}",
+    "id":  "ItemGroup_GetFirstItem",
+    "script_id":  "first",
+    "type":  "Function"
+}

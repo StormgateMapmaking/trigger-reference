@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Remove Composition Unit",
+    "grammar_text":  "Remove unit {unit_descriptor} from {bot}\u0027s unit composition.",
+    "id":  "Bot_RemoveCompositionUnit",
+    "script_id":  "remove_composition_unit",
+    "type":  "Action"
+}

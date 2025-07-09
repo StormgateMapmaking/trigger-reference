@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Broadcast Signal",
+    "grammar_text":  "Broadcast signal {signal} to {entity} and {signal_behavior}",
+    "id":  "FSM_BroadcastSignal",
+    "script_id":  "",
+    "type":  "Action"
+}

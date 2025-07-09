@@ -1,0 +1,7 @@
+﻿{
+    "name":  "PlayerGroup - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "PlayerGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

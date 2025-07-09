@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Minimum",
+    "grammar_text":  "Minimum of {values}",
+    "id":  "Math_Min",
+    "script_id":  "min",
+    "type":  "Function"
+}

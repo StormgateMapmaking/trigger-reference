@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Count Resource Generators",
+    "grammar_text":  "Number of resourcegenerators in {group}",
+    "id":  "ResourceGeneratorGroup_CountResourceGenerators",
+    "script_id":  "size",
+    "type":  "Function"
+}

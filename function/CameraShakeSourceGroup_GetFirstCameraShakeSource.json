@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - First Camera Shake Source in Camera Shake Source Group",
+    "grammar_text":  "First Camera Shake Source of {group}",
+    "id":  "CameraShakeSourceGroup_GetFirstCameraShakeSource",
+    "script_id":  "first",
+    "type":  "Function"
+}

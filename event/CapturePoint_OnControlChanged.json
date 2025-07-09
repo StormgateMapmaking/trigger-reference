@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Capture Point - Team Gains/Loses Control",
+    "grammar_text":  "Team {team} {gains} control of {capturepoint|Any Capture Point}",
+    "id":  "CapturePoint_OnControlChanged",
+    "script_id":  "",
+    "type":  "Event"
+}

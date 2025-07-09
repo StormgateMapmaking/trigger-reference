@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Clear Interaction Range Override",
+    "grammar_text":  "Clear interaction range override of {interactable}",
+    "id":  "Interactable_ClearInteractionRange",
+    "script_id":  "",
+    "type":  "Action"
+}

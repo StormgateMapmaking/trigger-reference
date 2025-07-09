@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Order Wave to Patrol",
+    "grammar_text":  "Order {wave} to patrol its waypoints in a {pattern|Ping-Pong/Continuous} pattern after {delay} seconds",
+    "id":  "Wave_Patrol",
+    "script_id":  "patrol",
+    "type":  "Action"
+}

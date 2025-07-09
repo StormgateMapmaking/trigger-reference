@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Set Outer Attenuation Radius",
+    "grammar_text":  "Set the outer attenuation radius of {camera_shake_source} to {radius}",
+    "id":  "CameraShake_SetOuterAttenuationRadius",
+    "script_id":  "set_outer_attenuation_radius",
+    "type":  "Action"
+}

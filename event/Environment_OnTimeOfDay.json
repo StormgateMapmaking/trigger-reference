@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Time of Day",
+    "grammar_text":  "The in-game time of day becomes {compare_op} {time_of_day}",
+    "id":  "Environment_OnTimeOfDay",
+    "script_id":  "",
+    "type":  "Event"
+}

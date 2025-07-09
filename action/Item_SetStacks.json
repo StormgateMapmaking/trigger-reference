@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Set Number of Stacks",
+    "grammar_text":  "Set number of stacks of {item} to {stacks}",
+    "id":  "Item_SetStacks",
+    "script_id":  "set_stacks",
+    "type":  "Action"
+}

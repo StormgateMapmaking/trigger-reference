@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Add Sub State Machine",
+    "grammar_text":  "Add {sub_state} as child of {state_machine}",
+    "id":  "FSM_AddSubState",
+    "script_id":  "add_sub_state",
+    "type":  "Action"
+}

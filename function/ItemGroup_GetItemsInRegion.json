@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Items In Region",
+    "grammar_text":  "Items in {region}",
+    "id":  "ItemGroup_GetItemsInRegion",
+    "script_id":  "Shim::ItemGroup::get_items_in_region",
+    "type":  "Function"
+}

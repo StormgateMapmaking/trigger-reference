@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Sequence Custom Event Location",
+    "grammar_text":  "Sequence Custom Event Location",
+    "id":  "Sequence_GetCustomEventLocation",
+    "script_id":  "Events::EventData::get_triggering_event_location",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Toggle Enabled",
+    "grammar_text":  "Toggle the enabled state of {trigger}",
+    "id":  "Trigger_ToggleEnabled",
+    "script_id":  "Triggers::Trigger::toggle_trigger_enabled",
+    "type":  "Action"
+}

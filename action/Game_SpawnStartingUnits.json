@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Spawn Default Starting Units",
+    "grammar_text":  "Spawn default starting units for {player_group}",
+    "id":  "Game_SpawnStartingUnits",
+    "script_id":  "GameWorld::spawn_default_player_starting_units",
+    "type":  "Action"
+}

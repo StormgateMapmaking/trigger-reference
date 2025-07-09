@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - For Each Destructible In Group",
+    "grammar_text":  "For each unit in {group} do (Actions)",
+    "id":  "DestructibleGroup_ForEachDestructibleInGroup",
+    "script_id":  "",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Units Owned by Player with Ability",
+    "grammar_text":  "Units of player {player} with {ability}",
+    "id":  "UnitGroup_GetUnitsOfPlayerWithAbility",
+    "script_id":  "Shim::UnitGroup::get_units_with_ability",
+    "type":  "Function"
+}

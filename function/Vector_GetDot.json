@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Dot Product",
+    "grammar_text":  "Dot product of {a} and {b}",
+    "id":  "Vector_GetDot",
+    "script_id":  "Vec::dot",
+    "type":  "Function"
+}

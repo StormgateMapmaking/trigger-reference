@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Root of State Machine",
+    "grammar_text":  "Root state machine of {state_machine}",
+    "id":  "FSM_GetRootStateMachine",
+    "script_id":  "get_root",
+    "type":  "Function"
+}

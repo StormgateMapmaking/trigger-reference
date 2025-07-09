@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Time - From Minutes",
+    "grammar_text":  "Minutes({minutes})",
+    "id":  "Time_FromMinutes",
+    "script_id":  "",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Configure as a Capsule",
+    "grammar_text":  "Set the shape of {sound_emitter} to a capsule with a half height of {half_height} and radius of {radius}",
+    "id":  "SoundEmitter_SetCapsuleShape",
+    "script_id":  "set_capsule_attenuation_shape",
+    "type":  "Action"
+}

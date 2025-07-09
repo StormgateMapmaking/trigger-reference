@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Map - Reset Playable Bounds",
+    "grammar_text":  "Reset playable bounds",
+    "id":  "Map_ResetPlayableBounds",
+    "script_id":  "set_playable_bounds_from_map_settings",
+    "type":  "Action"
+}

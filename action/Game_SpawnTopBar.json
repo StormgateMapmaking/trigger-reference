@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Spawn Default Topbar",
+    "grammar_text":  "Spawn default topbars for {player_group}",
+    "id":  "Game_SpawnTopBar",
+    "script_id":  "GameWorld::spawn_default_player_topbars",
+    "type":  "Action"
+}

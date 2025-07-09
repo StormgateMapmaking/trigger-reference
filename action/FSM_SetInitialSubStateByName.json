@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Set Initial Sub State By Name",
+    "grammar_text":  "Set initial sub state of {state_machine} to sub state named {sub_state_name}",
+    "id":  "FSM_SetInitialSubStateByName",
+    "script_id":  "set_initial_sub_state_by_name",
+    "type":  "Action"
+}

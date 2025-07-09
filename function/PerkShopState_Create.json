@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Create",
+    "grammar_text":  "Creates a new perk shop state for player {player}.",
+    "id":  "PerkShopState_Create",
+    "script_id":  "UI::PerkShopState::create",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Blackboard - Clear All Values",
+    "grammar_text":  "Clear all values from {blackboard}",
+    "id":  "Blackboard_Clear",
+    "script_id":  "Shim::Blackboard::clear",
+    "type":  "Action"
+}

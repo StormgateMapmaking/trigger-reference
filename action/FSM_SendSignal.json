@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Send Signal",
+    "grammar_text":  "Send signal {signal} to {state_machine} and {signal_behavior}",
+    "id":  "FSM_SendSignal",
+    "script_id":  "",
+    "type":  "Action"
+}

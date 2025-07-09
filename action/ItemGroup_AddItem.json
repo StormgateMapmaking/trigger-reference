@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Add Item",
+    "grammar_text":  "Add {item} to {group}",
+    "id":  "ItemGroup_AddItem",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

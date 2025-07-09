@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Get Value (Vector)",
+    "grammar_text":  "Get value {key} from cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_GetValue_Vector",
+    "script_id":  "Shim::CloudBlackboard::get_value_as\u003cVec\u003e",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Zoom Camera to Distance (%)",
+    "grammar_text":  "Zoom player {player}\u0027s camera to {percentage}% over {duration} seconds",
+    "id":  "Camera_ZoomCameraToDistancePercentage",
+    "script_id":  "zoom_camera_to_distance_percentage",
+    "type":  "Action"
+}

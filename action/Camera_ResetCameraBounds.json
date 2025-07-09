@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Reset Camera Bounds",
+    "grammar_text":  "Reset camera bounds for {players}",
+    "id":  "Camera_ResetCameraBounds",
+    "script_id":  "Shim::Camera::reset_camera_bounds_for_players",
+    "type":  "Action"
+}

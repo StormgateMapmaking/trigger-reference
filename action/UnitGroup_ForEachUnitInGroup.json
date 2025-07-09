@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UnitGroup - For Each Unit In Group",
+    "grammar_text":  "For each unit in {units} do (Actions)",
+    "id":  "UnitGroup_ForEachUnitInGroup",
+    "script_id":  "",
+    "type":  "Action"
+}

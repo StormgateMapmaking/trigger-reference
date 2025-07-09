@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Has Value",
+    "grammar_text":  "Cloud blackboard for player {player} has key {key}",
+    "id":  "CloudBlackboard_HasValue",
+    "script_id":  "Shim::CloudBlackboard::has_key",
+    "type":  "Function"
+}

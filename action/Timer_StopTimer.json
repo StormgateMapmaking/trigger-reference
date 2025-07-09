@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Stop Timer",
+    "grammar_text":  "Stop {timer}",
+    "id":  "Timer_StopTimer",
+    "script_id":  "stop",
+    "type":  "Action"
+}

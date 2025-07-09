@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - For Each Resource Generator In Group",
+    "grammar_text":  "For each unit in {group} do (Actions)",
+    "id":  "ResourceGeneratorGroup_ForEachResourceGeneratorInGroup",
+    "script_id":  "",
+    "type":  "Action"
+}

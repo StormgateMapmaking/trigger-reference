@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Add Goal(s)",
+    "grammar_text":  "Add goal(s) {goal} to {bot}",
+    "id":  "Bot_AddGoal",
+    "script_id":  "add_goals",
+    "type":  "Action"
+}

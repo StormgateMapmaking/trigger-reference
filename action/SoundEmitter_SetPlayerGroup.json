@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Listening Players",
+    "grammar_text":  "Set listening players of {sound_emitter} to {player_group}",
+    "id":  "SoundEmitter_SetPlayerGroup",
+    "script_id":  "Shim::SoundEmitter::set_player_group",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Clear Interaction Position Overrides",
+    "grammar_text":  "Clear interaction position override of {interactable}",
+    "id":  "Interactable_ClearInteractionPositionOverrides",
+    "script_id":  "",
+    "type":  "Action"
+}

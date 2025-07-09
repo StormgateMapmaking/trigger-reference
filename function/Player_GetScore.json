@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Score",
+    "grammar_text":  "Get {score} for player {player}",
+    "id":  "Player_GetScore",
+    "script_id":  "Shim::Player::get_score_value",
+    "type":  "Function"
+}

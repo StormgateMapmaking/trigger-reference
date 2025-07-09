@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Detach Camera Shake Source",
+    "grammar_text":  "Detach {camera_shake_source}",
+    "id":  "CameraShake_DetachCameraShakeSource",
+    "script_id":  "detach",
+    "type":  "Action"
+}

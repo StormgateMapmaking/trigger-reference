@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objective - Previous Message",
+    "grammar_text":  "Show the previous objective message",
+    "id":  "Objective_PreviousMessage",
+    "script_id":  "previous_screen_message",
+    "type":  "Action"
+}

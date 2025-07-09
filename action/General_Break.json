@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Break",
+    "grammar_text":  "Break",
+    "id":  "General_Break",
+    "script_id":  "Break",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - New Timer",
+    "grammar_text":  "New timer",
+    "id":  "Timer_GetNewTimer",
+    "script_id":  "Shim::Timer::create",
+    "type":  "Function"
+}

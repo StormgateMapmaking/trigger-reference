@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - All players",
+    "grammar_text":  "All players",
+    "id":  "PlayerGroup_GetAllPlayers",
+    "script_id":  "Shim::PlayerGroup::get_all_players",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Count Units",
+    "grammar_text":  "Number of units in {group}",
+    "id":  "UnitGroup_CountUnits",
+    "script_id":  "size",
+    "type":  "Function"
+}

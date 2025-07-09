@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Remove Conversation From Queue",
+    "grammar_text":  "Remove {conversation} from the {player}",
+    "id":  "Transmission_DequeueConversation",
+    "script_id":  "dequeue",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Copy Of Player Group",
+    "grammar_text":  "Copy of {player_group}",
+    "id":  "PlayerGroup_CopyOfPlayerGroup",
+    "script_id":  "Shim::PlayerGroup::get_copy_of_player_group",
+    "type":  "Function"
+}

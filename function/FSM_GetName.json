@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Name of State Machine",
+    "grammar_text":  "Name of {state_machine}",
+    "id":  "FSM_GetName",
+    "script_id":  "get_name",
+    "type":  "Function"
+}

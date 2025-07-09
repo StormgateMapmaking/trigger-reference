@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Unit As Unit Group",
+    "grammar_text":  "{unit} as a unit group",
+    "id":  "UnitGroup_GetUnitAsUnitGroup",
+    "script_id":  "Shim::UnitGroup::get_unit_as_unit_group",
+    "type":  "Function"
+}

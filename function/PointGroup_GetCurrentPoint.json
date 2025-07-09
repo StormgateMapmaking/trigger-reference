@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Current Point (For Each)",
+    "grammar_text":  "Current Point",
+    "id":  "PointGroup_GetCurrentPoint",
+    "script_id":  "",
+    "type":  "Function"
+}

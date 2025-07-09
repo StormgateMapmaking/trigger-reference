@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Load Item",
+    "grammar_text":  "Load the item stored as {key} in cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_LoadItem",
+    "script_id":  "Shim::CloudBlackboard::load_item",
+    "type":  "Function"
+}

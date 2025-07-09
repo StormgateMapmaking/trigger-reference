@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Placed Name",
+    "grammar_text":  "Placed name of {destructible}",
+    "id":  "Destructible_GetPlacedName",
+    "script_id":  "get_placed_name",
+    "type":  "Function"
+}

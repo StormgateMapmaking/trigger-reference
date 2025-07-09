@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Distance",
+    "grammar_text":  "Distance between {a} and {b}",
+    "id":  "Vector_GetDistance",
+    "script_id":  "Vec::distance",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Widget - Set Enabled",
+    "grammar_text":  "{state|Enable/Disable} {widget}",
+    "id":  "Widget_SetEnabled",
+    "script_id":  "set_enabled",
+    "type":  "Action"
+}

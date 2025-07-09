@@ -1,0 +1,1237 @@
+﻿{
+    "__base_type": "Trigger",
+    "actions": [
+        {
+            "function_id": "Timer_StartTimer",
+            "guid": "D54F531DECAF334E955FD0DF0B2B2C03",
+            "is_enabled": true,
+            "parameters": [
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "008D5A5EF3F631F9B07096EA27E6333A",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Variable",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "47481DA8AA253725AD3C63DEC2C6FAED",
+                                "indices": [],
+                                "variable_id": "StormgatePrepareTimer"
+                            }
+                        }
+                    ],
+                    "guid": "2F2BEF6204A035279744CF3195C13184",
+                    "id": "timer"
+                },
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "A0A5077E4456C23265CE6E902A0BA340",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Value",
+                            "value": {
+                                "guid": "B71DA6284AF69E77C9513E8E27CE1879",
+                                "type": {
+                                    "directive": "FunctionType",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": "Time"
+                                },
+                                "value": "194.0"
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "C2EC372792B93FA4BE56345F0C6B63C3",
+                    "id": "duration"
+                },
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "7C71956EB46539D98CED080CE3C6AC9B",
+                            "preset": {
+                                "guid": "7497BCCC9D4E36018704BDDF9CB12E34",
+                                "preset_id": "Timer_RepeatingOption",
+                                "value_id": "oneshot"
+                            },
+                            "script": "",
+                            "type": "Preset",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "A34573D21B03399CBEE53CACE7182A8A",
+                    "id": "repeating"
+                }
+            ],
+            "sub_functions": []
+        },
+        {
+            "function_id": "Environment_SetTimeOfDayScale",
+            "guid": "01CDC1B249C01C119DD53E92E3B307F2",
+            "is_enabled": true,
+            "parameters": [
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "967144854F96A70E3D392096BDC497D6",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Value",
+                            "value": {
+                                "guid": "47D5F7FE47419DEBC5F28AAA45C757B2",
+                                "type": {
+                                    "directive": "FunctionType",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": "Value"
+                                },
+                                "value": "0.5"
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "4A2BBC064ED642494854EA8485CC78BF",
+                    "id": "scale"
+                }
+            ],
+            "sub_functions": []
+        },
+        {
+            "function_id": "Variable_SetVariable",
+            "guid": "E5D44AF20B2C3723B02B3AC1FE930EDC",
+            "is_enabled": true,
+            "parameters": [
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "DEB6242BB0493C7D8CAE111A36EFD1D6",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Variable",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "3DDD48812CD938A29568CF667CEF48A6",
+                                "indices": [
+                                    {
+                                        "function": {
+                                            "function_id": "",
+                                            "guid": "",
+                                            "is_enabled": true,
+                                            "parameters": [],
+                                            "sub_functions": []
+                                        },
+                                        "guid": "A984EEDA4D2C359FAB10264994D58A0C",
+                                        "preset": {
+                                            "guid": "",
+                                            "preset_id": "",
+                                            "value_id": ""
+                                        },
+                                        "script": "",
+                                        "type": "Value",
+                                        "value": {
+                                            "guid": "8816BBF76504398BBF4CB26049A1D5D8",
+                                            "type": {
+                                                "directive": "FunctionType",
+                                                "implements": "",
+                                                "inner_type": "",
+                                                "param_id": "",
+                                                "sub_directive": "None",
+                                                "tags": [],
+                                                "type": "Integer"
+                                            },
+                                            "value": "0"
+                                        },
+                                        "variable": {
+                                            "guid": "",
+                                            "indices": [],
+                                            "variable_id": ""
+                                        }
+                                    }
+                                ],
+                                "variable_id": "StormgateGroup"
+                            }
+                        }
+                    ],
+                    "guid": "1D28AC135C193E82A09526E310A4809E",
+                    "id": "variable"
+                },
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "Unit_GetUnitFromPlacedName",
+                                "guid": "391519AA84A63AC1ACFBC2506471344A",
+                                "is_enabled": true,
+                                "parameters": [
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "F52CD296847B322794DC30A4743F4B92",
+                                                "preset": {
+                                                    "guid": "36A94EE5361E353281BEA6931A9E21EF",
+                                                    "preset_id": "Player_AnyPlayer",
+                                                    "value_id": "any"
+                                                },
+                                                "script": "",
+                                                "type": "Preset",
+                                                "value": {
+                                                    "guid": "",
+                                                    "type": {
+                                                        "directive": "None",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": ""
+                                                    },
+                                                    "value": ""
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "C5412715563A3E28968E12912F1C7081",
+                                        "id": "player"
+                                    },
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "BC26C8FE1B673073A0F17013A4A28071",
+                                                "preset": {
+                                                    "guid": "",
+                                                    "preset_id": "",
+                                                    "value_id": ""
+                                                },
+                                                "script": "",
+                                                "type": "Value",
+                                                "value": {
+                                                    "guid": "F61DECA8C7EB341FBBF0B4D5E00A8261",
+                                                    "type": {
+                                                        "directive": "FunctionType",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": "String"
+                                                    },
+                                                    "value": "StormgateSubmerged1"
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "74D33D2B208231FDA692A3E0D8C38D41",
+                                        "id": "name"
+                                    }
+                                ],
+                                "sub_functions": []
+                            },
+                            "guid": "2DBB0D7944203C00B6C1735B01FEDEE6",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Function",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "20EDCF24F56C325690A5FCBEE6ADCEBE",
+                    "id": "value"
+                }
+            ],
+            "sub_functions": []
+        },
+        {
+            "function_id": "Variable_SetVariable",
+            "guid": "F70725AA311A35508119D85568E009FE",
+            "is_enabled": true,
+            "parameters": [
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "C8D5EF55DC8539D39090FE3E63BB4C55",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Variable",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "ADED22CDA3B933F38404EC2C30C31182",
+                                "indices": [
+                                    {
+                                        "function": {
+                                            "function_id": "",
+                                            "guid": "",
+                                            "is_enabled": true,
+                                            "parameters": [],
+                                            "sub_functions": []
+                                        },
+                                        "guid": "A5C41F685ACD3C32B37CC4A8281FFE4F",
+                                        "preset": {
+                                            "guid": "",
+                                            "preset_id": "",
+                                            "value_id": ""
+                                        },
+                                        "script": "",
+                                        "type": "Value",
+                                        "value": {
+                                            "guid": "A0A1959A8E9F36929A616AFE8DF61FB2",
+                                            "type": {
+                                                "directive": "FunctionType",
+                                                "implements": "",
+                                                "inner_type": "",
+                                                "param_id": "",
+                                                "sub_directive": "None",
+                                                "tags": [],
+                                                "type": "Integer"
+                                            },
+                                            "value": "1"
+                                        },
+                                        "variable": {
+                                            "guid": "",
+                                            "indices": [],
+                                            "variable_id": ""
+                                        }
+                                    }
+                                ],
+                                "variable_id": "StormgateGroup"
+                            }
+                        }
+                    ],
+                    "guid": "8E3014F831CE30C9A65A2846D33D7338",
+                    "id": "variable"
+                },
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "Unit_GetUnitFromPlacedName",
+                                "guid": "1668CA244D203B75B4028ABD7485E6F6",
+                                "is_enabled": true,
+                                "parameters": [
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "F1B5C009E27E3C17B052F0C15FAB5195",
+                                                "preset": {
+                                                    "guid": "B06E3C731EFB31F4A93C1711CEB5B88C",
+                                                    "preset_id": "Player_AnyPlayer",
+                                                    "value_id": "any"
+                                                },
+                                                "script": "",
+                                                "type": "Preset",
+                                                "value": {
+                                                    "guid": "",
+                                                    "type": {
+                                                        "directive": "None",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": ""
+                                                    },
+                                                    "value": ""
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "E104ACAC708E3511B021F54A1A309B0B",
+                                        "id": "player"
+                                    },
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "536205B42AF133028F55BB0885DD753D",
+                                                "preset": {
+                                                    "guid": "",
+                                                    "preset_id": "",
+                                                    "value_id": ""
+                                                },
+                                                "script": "",
+                                                "type": "Value",
+                                                "value": {
+                                                    "guid": "08F4F1A5B8DC383B9FB7FFADD3336021",
+                                                    "type": {
+                                                        "directive": "FunctionType",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": "String"
+                                                    },
+                                                    "value": "StormgateSubmerged2"
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "25F721299F063470A2B54288E3D41325",
+                                        "id": "name"
+                                    }
+                                ],
+                                "sub_functions": []
+                            },
+                            "guid": "9EB8344024AE308BA9D002CCE60F6E4F",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Function",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "58B290F62CA93EF69DEC627E78E621B6",
+                    "id": "value"
+                }
+            ],
+            "sub_functions": []
+        },
+        {
+            "function_id": "Variable_SetVariable",
+            "guid": "5C55CD14F26A30F0977CACE279EA626A",
+            "is_enabled": true,
+            "parameters": [
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "9F757F59558235F2A090E2AC0E84D595",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Variable",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "AC2EB3E154693FD3AE9C757EC80FE30C",
+                                "indices": [
+                                    {
+                                        "function": {
+                                            "function_id": "",
+                                            "guid": "",
+                                            "is_enabled": true,
+                                            "parameters": [],
+                                            "sub_functions": []
+                                        },
+                                        "guid": "82A3B8DF4BB63457AB7A8BF3B7BB9EE2",
+                                        "preset": {
+                                            "guid": "",
+                                            "preset_id": "",
+                                            "value_id": ""
+                                        },
+                                        "script": "",
+                                        "type": "Value",
+                                        "value": {
+                                            "guid": "3173179DECDF3EABA4554465CB7B693E",
+                                            "type": {
+                                                "directive": "FunctionType",
+                                                "implements": "",
+                                                "inner_type": "",
+                                                "param_id": "",
+                                                "sub_directive": "None",
+                                                "tags": [],
+                                                "type": "Integer"
+                                            },
+                                            "value": "2"
+                                        },
+                                        "variable": {
+                                            "guid": "",
+                                            "indices": [],
+                                            "variable_id": ""
+                                        }
+                                    }
+                                ],
+                                "variable_id": "StormgateGroup"
+                            }
+                        }
+                    ],
+                    "guid": "B66FB381AED833B8951B235DF2C0B164",
+                    "id": "variable"
+                },
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "Unit_GetUnitFromPlacedName",
+                                "guid": "72B20F87C2193F22A0C46914C7EAEA33",
+                                "is_enabled": true,
+                                "parameters": [
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "E8EA92471CB434CF8DDFAFB662676647",
+                                                "preset": {
+                                                    "guid": "4D504F0E9B74369C930C798B62A6A5A0",
+                                                    "preset_id": "Player_AnyPlayer",
+                                                    "value_id": "any"
+                                                },
+                                                "script": "",
+                                                "type": "Preset",
+                                                "value": {
+                                                    "guid": "",
+                                                    "type": {
+                                                        "directive": "None",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": ""
+                                                    },
+                                                    "value": ""
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "7F75BB500F50312BB81C66CDA073792E",
+                                        "id": "player"
+                                    },
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "06F8262F799538FAB7451797F226DAEA",
+                                                "preset": {
+                                                    "guid": "",
+                                                    "preset_id": "",
+                                                    "value_id": ""
+                                                },
+                                                "script": "",
+                                                "type": "Value",
+                                                "value": {
+                                                    "guid": "E22643A6C15A30448CD451603C081A5E",
+                                                    "type": {
+                                                        "directive": "FunctionType",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": "String"
+                                                    },
+                                                    "value": "StormgateSubmerged3"
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "75C54852F7D334F58E7FE81F83903E7D",
+                                        "id": "name"
+                                    }
+                                ],
+                                "sub_functions": []
+                            },
+                            "guid": "F17CFFB7FBCB3B359DC6E179300BB1A2",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Function",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "A95DDC347AA532F5A58C9C848AC053BB",
+                    "id": "value"
+                }
+            ],
+            "sub_functions": []
+        },
+        {
+            "function_id": "Variable_SetVariable",
+            "guid": "4025E6241F313CDCAEBFC0793E0660D0",
+            "is_enabled": true,
+            "parameters": [
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "7FB1CD86D56632D59E366304278B0D94",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Variable",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "3D349E7FF620305EA7F0BD5395737B6A",
+                                "indices": [
+                                    {
+                                        "function": {
+                                            "function_id": "",
+                                            "guid": "",
+                                            "is_enabled": true,
+                                            "parameters": [],
+                                            "sub_functions": []
+                                        },
+                                        "guid": "2BD9533BB3233DF7AC34170B20A20EE9",
+                                        "preset": {
+                                            "guid": "",
+                                            "preset_id": "",
+                                            "value_id": ""
+                                        },
+                                        "script": "",
+                                        "type": "Value",
+                                        "value": {
+                                            "guid": "E5A271DECED33B749E56884FF0907E56",
+                                            "type": {
+                                                "directive": "FunctionType",
+                                                "implements": "",
+                                                "inner_type": "",
+                                                "param_id": "",
+                                                "sub_directive": "None",
+                                                "tags": [],
+                                                "type": "Integer"
+                                            },
+                                            "value": "3"
+                                        },
+                                        "variable": {
+                                            "guid": "",
+                                            "indices": [],
+                                            "variable_id": ""
+                                        }
+                                    }
+                                ],
+                                "variable_id": "StormgateGroup"
+                            }
+                        }
+                    ],
+                    "guid": "2F75DA4F96793F51AA5012663EB62E24",
+                    "id": "variable"
+                },
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "Unit_GetUnitFromPlacedName",
+                                "guid": "C70197D046293C6083E85546BA65401B",
+                                "is_enabled": true,
+                                "parameters": [
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "9BF8143472313346A20506FD435DD61D",
+                                                "preset": {
+                                                    "guid": "F0DA48530CDA3AEABA78FCA8D9DF8C8C",
+                                                    "preset_id": "Player_AnyPlayer",
+                                                    "value_id": "any"
+                                                },
+                                                "script": "",
+                                                "type": "Preset",
+                                                "value": {
+                                                    "guid": "",
+                                                    "type": {
+                                                        "directive": "None",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": ""
+                                                    },
+                                                    "value": ""
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "59DF6FDA11643B4381CB6418400B4E13",
+                                        "id": "player"
+                                    },
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "43B0F0A36DFD373AAC1BB03CCD6C6A47",
+                                                "preset": {
+                                                    "guid": "",
+                                                    "preset_id": "",
+                                                    "value_id": ""
+                                                },
+                                                "script": "",
+                                                "type": "Value",
+                                                "value": {
+                                                    "guid": "8746D9842BED38E681359D63D66A4BA1",
+                                                    "type": {
+                                                        "directive": "FunctionType",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": "String"
+                                                    },
+                                                    "value": "StormgateSubmerged4"
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "264F24259163330FA813FCA6081A0EA8",
+                                        "id": "name"
+                                    }
+                                ],
+                                "sub_functions": []
+                            },
+                            "guid": "49709231399739E28599614DFF2089CD",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Function",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "C7AF3F1C0261395E9E8470F8301CF48A",
+                    "id": "value"
+                }
+            ],
+            "sub_functions": []
+        },
+        {
+            "function_id": "Variable_SetVariable",
+            "guid": "2055C6587B64300FBEB2509F0D0A3E0A",
+            "is_enabled": true,
+            "parameters": [
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "",
+                                "guid": "",
+                                "is_enabled": true,
+                                "parameters": [],
+                                "sub_functions": []
+                            },
+                            "guid": "37018C2B195131509238BA76517D18F3",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Variable",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "046FB15798B631BC8DCCB9AE18488D63",
+                                "indices": [
+                                    {
+                                        "function": {
+                                            "function_id": "",
+                                            "guid": "",
+                                            "is_enabled": true,
+                                            "parameters": [],
+                                            "sub_functions": []
+                                        },
+                                        "guid": "2965F20BC8503B7F9AEEDD2F80D6E0C6",
+                                        "preset": {
+                                            "guid": "",
+                                            "preset_id": "",
+                                            "value_id": ""
+                                        },
+                                        "script": "",
+                                        "type": "Value",
+                                        "value": {
+                                            "guid": "8AFEF32E4015359A8DADC9E7E5B4BD0D",
+                                            "type": {
+                                                "directive": "FunctionType",
+                                                "implements": "",
+                                                "inner_type": "",
+                                                "param_id": "",
+                                                "sub_directive": "None",
+                                                "tags": [],
+                                                "type": "Integer"
+                                            },
+                                            "value": "4"
+                                        },
+                                        "variable": {
+                                            "guid": "",
+                                            "indices": [],
+                                            "variable_id": ""
+                                        }
+                                    }
+                                ],
+                                "variable_id": "StormgateGroup"
+                            }
+                        }
+                    ],
+                    "guid": "B070CC821CCB35CF9ADDFB67691CF026",
+                    "id": "variable"
+                },
+                {
+                    "expressions": [
+                        {
+                            "function": {
+                                "function_id": "Unit_GetUnitFromPlacedName",
+                                "guid": "2E7BF5F8E8F331ED84E94FE13E613B5B",
+                                "is_enabled": true,
+                                "parameters": [
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "613C6CD684A939A2BD4C5DB23A9296C7",
+                                                "preset": {
+                                                    "guid": "F55FEE1A7D063EBC8D8AE84FA219B8FC",
+                                                    "preset_id": "Player_AnyPlayer",
+                                                    "value_id": "any"
+                                                },
+                                                "script": "",
+                                                "type": "Preset",
+                                                "value": {
+                                                    "guid": "",
+                                                    "type": {
+                                                        "directive": "None",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": ""
+                                                    },
+                                                    "value": ""
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "AF15DF4F332F30C88894B7953F4AC441",
+                                        "id": "player"
+                                    },
+                                    {
+                                        "expressions": [
+                                            {
+                                                "function": {
+                                                    "function_id": "",
+                                                    "guid": "",
+                                                    "is_enabled": true,
+                                                    "parameters": [],
+                                                    "sub_functions": []
+                                                },
+                                                "guid": "545C0EC2729134E3A80C8741D24FBC12",
+                                                "preset": {
+                                                    "guid": "",
+                                                    "preset_id": "",
+                                                    "value_id": ""
+                                                },
+                                                "script": "",
+                                                "type": "Value",
+                                                "value": {
+                                                    "guid": "7E35C69BDF0A381992243DFDF478A21A",
+                                                    "type": {
+                                                        "directive": "FunctionType",
+                                                        "implements": "",
+                                                        "inner_type": "",
+                                                        "param_id": "",
+                                                        "sub_directive": "None",
+                                                        "tags": [],
+                                                        "type": "String"
+                                                    },
+                                                    "value": "StormgateSubmerged5"
+                                                },
+                                                "variable": {
+                                                    "guid": "",
+                                                    "indices": [],
+                                                    "variable_id": ""
+                                                }
+                                            }
+                                        ],
+                                        "guid": "3F719EC00AED371686B09B1B13681C25",
+                                        "id": "name"
+                                    }
+                                ],
+                                "sub_functions": []
+                            },
+                            "guid": "14F80B5C92583E9DA3120A78FCB1610E",
+                            "preset": {
+                                "guid": "",
+                                "preset_id": "",
+                                "value_id": ""
+                            },
+                            "script": "",
+                            "type": "Function",
+                            "value": {
+                                "guid": "",
+                                "type": {
+                                    "directive": "None",
+                                    "implements": "",
+                                    "inner_type": "",
+                                    "param_id": "",
+                                    "sub_directive": "None",
+                                    "tags": [],
+                                    "type": ""
+                                },
+                                "value": ""
+                            },
+                            "variable": {
+                                "guid": "",
+                                "indices": [],
+                                "variable_id": ""
+                            }
+                        }
+                    ],
+                    "guid": "E84BA49F1CED383F88877843343BC230",
+                    "id": "value"
+                }
+            ],
+            "sub_functions": []
+        }
+    ],
+    "based_on": "Trigger",
+    "conditions": [],
+    "dev_only": false,
+    "enabled": true,
+    "events": [],
+    "id": "Init_StormgateObjectives",
+    "variables": []
+}

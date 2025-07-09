@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Issued Ability Command",
+    "grammar_text":  "Issued ability command",
+    "id":  "Order_GetIssuedAbilityCommand",
+    "script_id":  "Events::EventData::get_issued_ability_command",
+    "type":  "Function"
+}

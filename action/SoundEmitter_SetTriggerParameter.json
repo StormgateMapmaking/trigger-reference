@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Trigger Parameter",
+    "grammar_text":  "Set trigger parameter of {sound_emitter} to {value}",
+    "id":  "SoundEmitter_SetTriggerParameter",
+    "script_id":  "set_trigger_parameter",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Get Value (Boolean)",
+    "grammar_text":  "Get value {key} from cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_GetValue_Boolean",
+    "script_id":  "Shim::CloudBlackboard::get_value_as\u003cbool\u003e",
+    "type":  "Function"
+}

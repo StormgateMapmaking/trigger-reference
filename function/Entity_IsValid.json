@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Is Valid",
+    "grammar_text":  "{entity} is valid",
+    "id":  "Entity_IsValid",
+    "script_id":  "is_valid",
+    "type":  "Function"
+}

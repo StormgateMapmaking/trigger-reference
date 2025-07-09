@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Turn Victory Points On/Off",
+    "grammar_text":  "Turn victory points {on}",
+    "id":  "Game_EnableVictoryPoints",
+    "script_id":  "VictoryPointsManager::enable_victory_points",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Remove Player Buff",
+    "grammar_text":  "Remove {stacks} stacks of {buff} from player {player}",
+    "id":  "Player_RemovePlayerBuff",
+    "script_id":  "PlayerTask::remove_player_buff",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Region As Region Group",
+    "grammar_text":  "{region} as a Region Group",
+    "id":  "RegionGroup_GetRegionAsRegionGroup",
+    "script_id":  "Shim::RegionGroup::get_region_as_region_group",
+    "type":  "Function"
+}

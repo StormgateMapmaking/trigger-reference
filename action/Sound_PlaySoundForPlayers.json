@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound - Play 2D Sound",
+    "grammar_text":  "Play {sound} for {players}",
+    "id":  "Sound_PlaySoundForPlayers",
+    "script_id":  "SoundPlayer::play_2D",
+    "type":  "Action"
+}

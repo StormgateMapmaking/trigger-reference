@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Camera Shake Sources In Region",
+    "grammar_text":  "Camera Shake Sources in {region}",
+    "id":  "CameraShakeSourceGroup_GetCameraShakeSourcesInRegion",
+    "script_id":  "Shim::CameraShakeSourceGroup::get_camera_shake_sources_in_region",
+    "type":  "Function"
+}

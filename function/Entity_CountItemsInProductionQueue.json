@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Count Items In Production Queue",
+    "grammar_text":  "Count items in {entity} production queue",
+    "id":  "Entity_CountItemsInProductionQueue",
+    "script_id":  "ProductionQueue::count_items_in_queue",
+    "type":  "Function"
+}

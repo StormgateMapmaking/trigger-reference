@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Map Initialization",
+    "grammar_text":  "Map initialization",
+    "id":  "Game_OnMapInitialization",
+    "script_id":  "",
+    "type":  "Event"
+}

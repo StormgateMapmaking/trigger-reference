@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Clear Parameter",
+    "grammar_text":  "Clear parameter {param} of {sound_emitter}",
+    "id":  "SoundEmitter_ClearParameter",
+    "script_id":  "clear_parameter",
+    "type":  "Action"
+}

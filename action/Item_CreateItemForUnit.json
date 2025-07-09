@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Create Item(s) for Unit",
+    "grammar_text":  "Create {count|1} item(s) of type {type} for {unit}",
+    "id":  "Item_CreateItemForUnit",
+    "script_id":  "Shim::Item::create_items",
+    "type":  "Action"
+}

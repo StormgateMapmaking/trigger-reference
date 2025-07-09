@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Has Army Progression Perk",
+    "grammar_text":  "Does player {player} in state {state} have {perk}",
+    "id":  "PerkShopState_HasArmyProgressionPerk",
+    "script_id":  "UI::PerkShopState::has_armyprogression_perk",
+    "type":  "Function"
+}

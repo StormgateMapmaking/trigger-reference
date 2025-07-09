@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region - Get Min Extents",
+    "grammar_text":  "Min Extents of {region}",
+    "id":  "Region_GetMinExtents",
+    "script_id":  "get_min_extents",
+    "type":  "Function"
+}

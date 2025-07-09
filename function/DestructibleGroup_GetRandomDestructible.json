@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Random Destructible",
+    "grammar_text":  "Random Destructible from {group}",
+    "id":  "DestructibleGroup_GetRandomDestructible",
+    "script_id":  "random",
+    "type":  "Function"
+}

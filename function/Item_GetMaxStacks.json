@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Maximum Number of Stacks",
+    "grammar_text":  "Maximum number of stacks of {item}",
+    "id":  "Item_GetMaxStacks",
+    "script_id":  "get_max_stacks",
+    "type":  "Function"
+}

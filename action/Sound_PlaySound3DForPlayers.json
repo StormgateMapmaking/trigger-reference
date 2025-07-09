@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound - Play 3D Sound at Position",
+    "grammar_text":  "Play {sound} for {players} at {position}",
+    "id":  "Sound_PlaySound3DForPlayers",
+    "script_id":  "SoundPlayer::play_3D",
+    "type":  "Action"
+}

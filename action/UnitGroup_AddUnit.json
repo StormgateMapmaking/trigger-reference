@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UnitGroup - Add Unit",
+    "grammar_text":  "Add {unit} to {group}",
+    "id":  "UnitGroup_AddUnit",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

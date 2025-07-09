@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Property Changed",
+    "grammar_text":  "Player {player|Any Player} {property} changes",
+    "id":  "Player_OnPropertyChanged",
+    "script_id":  "",
+    "type":  "Event"
+}

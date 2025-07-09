@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Name of Unit Type",
+    "grammar_text":  "Name of {unit_type}",
+    "id":  "Unit_GetNameOfUnitType",
+    "script_id":  "Shim::Unit::get_name_of_unit_type",
+    "type":  "Function"
+}

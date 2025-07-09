@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - First Destructible in Destructible Group",
+    "grammar_text":  "First Destructible of {group}",
+    "id":  "DestructibleGroup_GetFirstDestructible",
+    "script_id":  "first",
+    "type":  "Function"
+}

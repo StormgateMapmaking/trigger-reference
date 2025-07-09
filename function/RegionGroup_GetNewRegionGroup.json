@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Empty Region Group",
+    "grammar_text":  "Empty Region Group",
+    "id":  "RegionGroup_GetNewRegionGroup",
+    "script_id":  "Shim::RegionGroup::create",
+    "type":  "Function"
+}

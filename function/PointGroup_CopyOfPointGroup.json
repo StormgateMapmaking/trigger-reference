@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Copy Of Point Group",
+    "grammar_text":  "Copy of {group}",
+    "id":  "PointGroup_CopyOfPointGroup",
+    "script_id":  "Shim::PointGroup::get_copy_of_point_group",
+    "type":  "Function"
+}

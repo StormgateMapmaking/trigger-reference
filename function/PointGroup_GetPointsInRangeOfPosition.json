@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Point In Range Of Position",
+    "grammar_text":  "Points within {radius} of {position}",
+    "id":  "PointGroup_GetPointsInRangeOfPosition",
+    "script_id":  "Shim::PointGroup::get_points_in_range_of_position",
+    "type":  "Function"
+}

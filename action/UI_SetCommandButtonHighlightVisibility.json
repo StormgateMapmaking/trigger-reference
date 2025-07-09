@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Show/Hide Highlight on Command Button",
+    "grammar_text":  "{state} highlight on command {command} with index {index} for {players}",
+    "id":  "UI_SetCommandButtonHighlightVisibility",
+    "script_id":  "Shim::UI::set_command_highlight_visibility",
+    "type":  "Action"
+}

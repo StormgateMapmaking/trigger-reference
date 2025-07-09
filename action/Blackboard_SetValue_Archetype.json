@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Blackboard - Set Archetype",
+    "grammar_text":  "Set {value} as {key} in {blackboard}",
+    "id":  "Blackboard_SetValue_Archetype",
+    "script_id":  "Shim::Blackboard::set_value_as\u003cArchetypeRef\u003e",
+    "type":  "Action"
+}

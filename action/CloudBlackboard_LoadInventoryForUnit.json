@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Load Inventory for Unit",
+    "grammar_text":  "Load inventory for {unit} stored as {key} in cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_LoadInventoryForUnit",
+    "script_id":  "Shim::CloudBlackboard::load_inventory_for_unit",
+    "type":  "Action"
+}

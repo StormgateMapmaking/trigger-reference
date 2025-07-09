@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Count Players",
+    "grammar_text":  "Number of players in {group}",
+    "id":  "PlayerGroup_CountPlayers",
+    "script_id":  "size",
+    "type":  "Function"
+}

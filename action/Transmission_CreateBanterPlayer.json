@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Create Banter Player",
+    "grammar_text":  "Create new banter player",
+    "id":  "Transmission_CreateBanterPlayer",
+    "script_id":  "Shim::Transmission::create_banter_player",
+    "type":  "Action"
+}

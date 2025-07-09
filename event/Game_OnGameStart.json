@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Game Start",
+    "grammar_text":  "Game start",
+    "id":  "Game_OnGameStart",
+    "script_id":  "",
+    "type":  "Event"
+}

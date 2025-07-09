@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Set Power Produced",
+    "grammar_text":  "Set power currently produced by player\u0027s units.",
+    "id":  "Player_SetPowerProduced",
+    "script_id":  "PlayerTask::set_power_produced",
+    "type":  "Action"
+}

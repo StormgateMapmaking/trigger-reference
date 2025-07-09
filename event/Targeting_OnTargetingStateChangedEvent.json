@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Targeting - Targeting State Changed",
+    "grammar_text":  "Player {player} {state} targeting {ability_command}",
+    "id":  "Targeting_OnTargetingStateChangedEvent",
+    "script_id":  "",
+    "type":  "Event"
+}

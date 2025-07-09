@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Vector With Polar Offset",
+    "grammar_text":  "{position} offset by {distance} towards {angle} degrees",
+    "id":  "Vector_GetVectorWithPolarOffset",
+    "script_id":  "Shim::Vector::get_vector_with_polar_offset",
+    "type":  "Function"
+}

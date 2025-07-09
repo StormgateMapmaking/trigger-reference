@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Last Sent Signal Was Consumed",
+    "grammar_text":  "Last sent signal was consumed",
+    "id":  "FSM_GetLastSignalConsumed",
+    "script_id":  "Shim::FSM::get_last_signal_was_consumed",
+    "type":  "Function"
+}

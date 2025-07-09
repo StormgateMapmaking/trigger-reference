@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Actor Cliff Height",
+    "grammar_text":  "Cliff height of {actor}",
+    "id":  "Actor_GetCliffHeight",
+    "script_id":  "get_cliff_height",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Capsule Half Height",
+    "grammar_text":  "Set capsule half height of {sound_emitter} to {half_height}",
+    "id":  "SoundEmitter_SetCapsuleHalfHeight",
+    "script_id":  "set_capsule_half_height",
+    "type":  "Action"
+}

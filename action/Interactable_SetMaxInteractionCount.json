@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Set Max Interaction Count",
+    "grammar_text":  "Set the maximum number of times an {interactable} can be interacted with to {count}",
+    "id":  "Interactable_SetMaxInteractionCount",
+    "script_id":  "",
+    "type":  "Action"
+}

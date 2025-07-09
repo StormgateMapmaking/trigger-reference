@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Units In Region",
+    "grammar_text":  "Units in {region}",
+    "id":  "UnitGroup_GetUnitsInRegion",
+    "script_id":  "Shim::UnitGroup::get_units_in_region",
+    "type":  "Function"
+}

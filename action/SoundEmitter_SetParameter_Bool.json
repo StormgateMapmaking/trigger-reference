@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Parameter (Boolean)",
+    "grammar_text":  "Set parameter {param} of {sound_emitter} to {value}",
+    "id":  "SoundEmitter_SetParameter_Bool",
+    "script_id":  "set_parameter_as\u003cbool\u003e",
+    "type":  "Action"
+}

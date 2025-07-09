@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Count Buff Stacks",
+    "grammar_text":  "Count {buff} stacks on entity {entity} from {source}",
+    "id":  "Entity_CountBuffStacks",
+    "script_id":  "Buffs::entity_get_buff_stack_count",
+    "type":  "Function"
+}

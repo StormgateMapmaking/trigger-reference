@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Create Camera Shake Source",
+    "grammar_text":  "Spawn a {lifetime} camera shake source {archetype} at {location}",
+    "id":  "CameraShake_CreateCameraShakeSource",
+    "script_id":  "Shim::CameraShake::create_camera_shake_source",
+    "type":  "Action"
+}

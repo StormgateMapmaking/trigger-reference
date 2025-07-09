@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Set Camera Bounds",
+    "grammar_text":  "Set camera bounds at {lower_bound}, {upper_bound} for {players}",
+    "id":  "Camera_SetCameraBounds",
+    "script_id":  "Shim::Camera::set_camera_bounds_for_players",
+    "type":  "Action"
+}

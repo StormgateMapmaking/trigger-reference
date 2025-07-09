@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Max Shield",
+    "grammar_text":  "Max shield of {unit}",
+    "id":  "Unit_GetMaxShield",
+    "script_id":  "get_max_shield",
+    "type":  "Function"
+}

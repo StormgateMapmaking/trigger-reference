@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Set Health Bar Visibility",
+    "grammar_text":  "Set {actor} health bar to show {health_bar_mode}",
+    "id":  "Actor_SetHealthBarVisibility",
+    "script_id":  "set_health_bar_visibility",
+    "type":  "Action"
+}

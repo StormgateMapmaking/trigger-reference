@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Get VIP Escort of Wave",
+    "grammar_text":  "Escorted unit of {wave}",
+    "id":  "Wave_GetVIP",
+    "script_id":  "get_vip",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Health (Percentage)",
+    "grammar_text":  "Health % of {unit}",
+    "id":  "Unit_GetHealthPercentage",
+    "script_id":  "get_health_percentage",
+    "type":  "Function"
+}

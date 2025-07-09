@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Last Created Timer",
+    "grammar_text":  "Last created timer",
+    "id":  "Timer_GetLastCreatedTimer",
+    "script_id":  "Shim::Timer::get_last_created_timer",
+    "type":  "Function"
+}

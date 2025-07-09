@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Units In Cargo",
+    "grammar_text":  "Units in cargo of {transport}",
+    "id":  "UnitGroup_GetUnitsInCargo",
+    "script_id":  "Shim::UnitGroup::get_units_in_transport",
+    "type":  "Function"
+}

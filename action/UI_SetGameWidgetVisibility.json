@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Show/Hide Game Widget",
+    "grammar_text":  "{state} game widget named {name} for {players}",
+    "id":  "UI_SetGameWidgetVisibility",
+    "script_id":  "Shim::UI::set_game_widget_visibility",
+    "type":  "Action"
+}

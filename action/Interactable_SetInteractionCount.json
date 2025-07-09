@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Set Interaction Count",
+    "grammar_text":  "Set the number of times an {interactable} has been interacted with to {count}",
+    "id":  "Interactable_SetInteractionCount",
+    "script_id":  "",
+    "type":  "Action"
+}

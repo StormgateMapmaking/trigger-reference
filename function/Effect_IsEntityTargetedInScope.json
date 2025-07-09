@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Entity Is Targeted In Scope",
+    "grammar_text":  "{entity} is targeted in its entity scope",
+    "id":  "Effect_IsEntityTargetedInScope",
+    "script_id":  "Shim::Effect::is_entity_targeted_in_scope",
+    "type":  "Function"
+}

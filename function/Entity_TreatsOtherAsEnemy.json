@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Entity Treats Other As Enemy",
+    "grammar_text":  "{entity} treats {other} as enemy",
+    "id":  "Entity_TreatsOtherAsEnemy",
+    "script_id":  "treats_as_enemy",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Widget - Create Widget (Standalone)",
+    "grammar_text":  "Create a standalone widget {widget} named {name}",
+    "id":  "Widget_CreateWidgetStandalone",
+    "script_id":  "Shim::Widgets::create_standalone",
+    "type":  "Action"
+}

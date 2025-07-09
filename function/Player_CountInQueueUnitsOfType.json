@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Count In Queue Units Of Type",
+    "grammar_text":  "Count {unit_type} in queue by {player}",
+    "id":  "Player_CountInQueueUnitsOfType",
+    "script_id":  "Shim::Player::count_in_queue_units_of_type",
+    "type":  "Function"
+}

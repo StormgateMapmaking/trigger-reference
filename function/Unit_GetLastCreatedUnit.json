@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Last Created Unit",
+    "grammar_text":  "Last created unit",
+    "id":  "Unit_GetLastCreatedUnit",
+    "script_id":  "Shim::Unit::get_last_created_unit",
+    "type":  "Function"
+}

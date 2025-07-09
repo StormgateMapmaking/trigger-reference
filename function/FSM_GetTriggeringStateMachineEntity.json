@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Triggering State Machine Entity",
+    "grammar_text":  "Triggering state machine entity",
+    "id":  "FSM_GetTriggeringStateMachineEntity",
+    "script_id":  "Events::EventData::get_triggering_state_machine_entity",
+    "type":  "Function"
+}

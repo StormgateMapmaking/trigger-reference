@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Start Camera Shake Source",
+    "grammar_text":  "Start {camera_shake_source}",
+    "id":  "CameraShake_StartCameraShakeSource",
+    "script_id":  "start",
+    "type":  "Action"
+}

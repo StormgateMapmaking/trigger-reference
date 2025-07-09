@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Current Resource Generator (For Each)",
+    "grammar_text":  "Current Resource Generator",
+    "id":  "ResourceGeneratorGroup_GetCurrentResourceGenerator",
+    "script_id":  "",
+    "type":  "Function"
+}

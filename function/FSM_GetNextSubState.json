@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Next Sub State",
+    "grammar_text":  "Current sub state of {state_machine}",
+    "id":  "FSM_GetNextSubState",
+    "script_id":  "get_next_sub_state",
+    "type":  "Function"
+}

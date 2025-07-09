@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Store Item",
+    "grammar_text":  "Store {item} as {key} in cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_StoreItem",
+    "script_id":  "Shim::CloudBlackboard::save_item",
+    "type":  "Action"
+}

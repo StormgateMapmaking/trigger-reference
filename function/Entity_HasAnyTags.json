@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Has Any Tags",
+    "grammar_text":  "Check {who} has any {tags}",
+    "id":  "Entity_HasAnyTags",
+    "script_id":  "has_any_tags",
+    "type":  "Function"
+}

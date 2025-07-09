@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Text - To Uppercase",
+    "grammar_text":  "{text} to uppercase",
+    "id":  "Text_ToUpper",
+    "script_id":  "Text::to_upper",
+    "type":  "Function"
+}

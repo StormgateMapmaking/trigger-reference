@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Default Faction Worker",
+    "grammar_text":  "Default worker of {faction}",
+    "id":  "Player_GetFactionWorker",
+    "script_id":  "Shim::Faction::get_faction_worker",
+    "type":  "Function"
+}

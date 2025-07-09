@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Show Player Card",
+    "grammar_text":  "{show} Player Card for {players}",
+    "id":  "UI_ShowPlayerCard",
+    "script_id":  "Shim::UI::show_player_card",
+    "type":  "Action"
+}

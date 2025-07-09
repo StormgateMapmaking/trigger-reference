@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Stop Animation",
+    "grammar_text":  "Stop {animation} for {unit}",
+    "id":  "Unit_StopAnimation",
+    "script_id":  "stop_animation",
+    "type":  "Action"
+}

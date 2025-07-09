@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Give Item",
+    "grammar_text":  "Give {item} to {unit}",
+    "id":  "Unit_GiveItem",
+    "script_id":  "give_item",
+    "type":  "Action"
+}

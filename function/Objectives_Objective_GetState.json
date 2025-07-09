@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - Objective State",
+    "grammar_text":  "Get state for objective {objective}",
+    "id":  "Objectives_Objective_GetState",
+    "script_id":  "Shim::Objectives::get_objective_state",
+    "type":  "Function"
+}

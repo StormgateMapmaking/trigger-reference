@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Set Exit Trigger",
+    "grammar_text":  "Set {trigger} as Exit trigger of {state_machine}",
+    "id":  "FSM_SetExitTrigger",
+    "script_id":  "set_on_exit",
+    "type":  "Action"
+}

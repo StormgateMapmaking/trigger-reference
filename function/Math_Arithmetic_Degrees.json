@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Arithmetic (Degrees)",
+    "grammar_text":  "{value1} {op} {value2}",
+    "id":  "Math_Arithmetic_Degrees",
+    "script_id":  "Math_Arithmetic_Degrees",
+    "type":  "Function"
+}

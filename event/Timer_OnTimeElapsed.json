@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Time Elapsed",
+    "grammar_text":  "Elapsed game time is {duration} seconds",
+    "id":  "Timer_OnTimeElapsed",
+    "script_id":  "",
+    "type":  "Event"
+}

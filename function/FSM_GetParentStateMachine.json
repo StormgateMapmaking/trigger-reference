@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Parent of State Machine",
+    "grammar_text":  "Parent state machine of {state_machine}",
+    "id":  "FSM_GetParentStateMachine",
+    "script_id":  "get_parent",
+    "type":  "Function"
+}

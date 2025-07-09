@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Blackboard - Copy All Values To Blackboard",
+    "grammar_text":  "Copy values from {source} to {destination}",
+    "id":  "Blackboard_CopyToBlackboard",
+    "script_id":  "Shim::Blackboard::copy_to",
+    "type":  "Action"
+}

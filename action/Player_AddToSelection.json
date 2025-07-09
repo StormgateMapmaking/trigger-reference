@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Add To Selection",
+    "grammar_text":  "Add {unit} to player {player} selection.",
+    "id":  "Player_AddToSelection",
+    "script_id":  "",
+    "type":  "Action"
+}

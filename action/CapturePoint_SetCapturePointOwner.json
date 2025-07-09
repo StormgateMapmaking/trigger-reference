@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Capture Point - Set Owning Team of Capture Point",
+    "grammar_text":  "Set the owning team of {capturepoint} to team {team}",
+    "id":  "CapturePoint_SetCapturePointOwner",
+    "script_id":  "transfer_ownership",
+    "type":  "Action"
+}

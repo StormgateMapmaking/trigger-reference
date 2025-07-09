@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Pause Fidgeting",
+    "grammar_text":  "{pause} fidgeting for {unit}",
+    "id":  "Unit_PauseFidgeting",
+    "script_id":  "pause_fidgeting",
+    "type":  "Action"
+}

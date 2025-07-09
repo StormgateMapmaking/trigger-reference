@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Angle Between",
+    "grammar_text":  "Angle between {pos1} and {pos2}",
+    "id":  "Vector_AngleBetween",
+    "script_id":  "angle_between_360",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Triggering Sequence Player",
+    "grammar_text":  "Triggering sequence player",
+    "id":  "Sequence_GetTriggeringSequencePlayer",
+    "script_id":  "Events::EventData::get_triggering_sequence_player",
+    "type":  "Function"
+}

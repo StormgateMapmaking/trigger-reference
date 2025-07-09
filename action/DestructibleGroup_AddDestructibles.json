@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Add Destructibles",
+    "grammar_text":  "Add {source} to {destination}",
+    "id":  "DestructibleGroup_AddDestructibles",
+    "script_id":  "add_group",
+    "type":  "Action"
+}

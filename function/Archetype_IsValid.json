@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Archetype - Is Valid",
+    "grammar_text":  "{archetype} is valid",
+    "id":  "Archetype_IsValid",
+    "script_id":  "is_valid",
+    "type":  "Function"
+}

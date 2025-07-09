@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - In Combat",
+    "grammar_text":  "Entity {entity} is in combat",
+    "id":  "Entity_InCombat",
+    "script_id":  "is_in_combat",
+    "type":  "Function"
+}

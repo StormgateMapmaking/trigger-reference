@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Actor of Item Being Used",
+    "grammar_text":  "Target actor of item being used",
+    "id":  "Item_GetTargetActorOfItemBeingUsed",
+    "script_id":  "Events::EventData::get_target_actor_of_item_used",
+    "type":  "Function"
+}

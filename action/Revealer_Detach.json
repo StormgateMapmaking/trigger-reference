@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Revealer - Detach from Actor",
+    "grammar_text":  "Detach {revealer}",
+    "id":  "Revealer_Detach",
+    "script_id":  "detach",
+    "type":  "Action"
+}

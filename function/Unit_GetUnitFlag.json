@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Has Unit Flag",
+    "grammar_text":  "{unit} is {flag}",
+    "id":  "Unit_GetUnitFlag",
+    "script_id":  "get_flag",
+    "type":  "Function"
+}

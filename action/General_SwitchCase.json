@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Switch Case",
+    "grammar_text":  "Case ({value})",
+    "id":  "General_SwitchCase",
+    "script_id":  "SwitchCase",
+    "type":  "Action"
+}

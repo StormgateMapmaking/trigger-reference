@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Caster Player",
+    "grammar_text":  "Casting player",
+    "id":  "Effect_GetCasterPlayer",
+    "script_id":  "Shim::Effect::get_caster_player_slot",
+    "type":  "Function"
+}

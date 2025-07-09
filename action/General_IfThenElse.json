@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - If Then Else",
+    "grammar_text":  "If (Conditions) then do (Actions) else do (Actions)",
+    "id":  "General_IfThenElse",
+    "script_id":  "",
+    "type":  "Action"
+}

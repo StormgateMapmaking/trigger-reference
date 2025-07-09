@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Add Waypoint",
+    "grammar_text":  "Add waypoint {waypoint} to {Wave}",
+    "id":  "Wave_AddWaypoint",
+    "script_id":  "push_waypoint",
+    "type":  "Action"
+}

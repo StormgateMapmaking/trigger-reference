@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Send Alert",
+    "grammar_text":  "Sends alert of type {alert_type} for player {player} at location {location}",
+    "id":  "UI_SendAlert",
+    "script_id":  "Shim::UI::send_alert",
+    "type":  "Action"
+}

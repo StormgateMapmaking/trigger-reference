@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Move To Position Instant",
+    "grammar_text":  "Move camera for player {player} to {pos} instantly",
+    "id":  "Camera_MoveToPositionInstant",
+    "script_id":  "move_camera_to_location",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Debug - Enable/Disable Debug Message Tag",
+    "grammar_text":  "{state|Enable/Disable} debug message tag {tag}",
+    "id":  "Debug_SetDebugMessageTagEnabled",
+    "script_id":  "Shim::Debug::set_debug_message_tag_enabled",
+    "type":  "Action"
+}

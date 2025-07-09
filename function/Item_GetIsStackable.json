@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Is Stackable",
+    "grammar_text":  "{item} is stackable",
+    "id":  "Item_GetIsStackable",
+    "script_id":  "can_be_stacked",
+    "type":  "Function"
+}

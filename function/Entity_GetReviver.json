@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Reviver",
+    "grammar_text":  "Reviver",
+    "id":  "Entity_GetReviver",
+    "script_id":  "Events::EventData::get_reviver_entity",
+    "type":  "Function"
+}

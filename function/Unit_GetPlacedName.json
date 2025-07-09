@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Placed Name",
+    "grammar_text":  "Placed name of {unit}",
+    "id":  "Unit_GetPlacedName",
+    "script_id":  "get_placed_name",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Skip Remaining Actions",
+    "grammar_text":  "Skip remaining actions",
+    "id":  "General_SkipRemainingActions",
+    "script_id":  "",
+    "type":  "Action"
+}

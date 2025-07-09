@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Random - Point In Extents",
+    "grammar_text":  "Random point in extents [{min}, {max}]",
+    "id":  "Random_PointInExtents",
+    "script_id":  "random_point_in_extents",
+    "type":  "Function"
+}

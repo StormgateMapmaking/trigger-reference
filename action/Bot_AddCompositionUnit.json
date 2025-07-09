@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Add Composition Unit",
+    "grammar_text":  "Add unit {unit_descriptor} with weight {weight} to {bot}\u0027s unit composition.",
+    "id":  "Bot_AddCompositionUnit",
+    "script_id":  "add_composition_unit",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Revealer - Destroy Revealer",
+    "grammar_text":  "Destroy {revealer}",
+    "id":  "Revealer_DestroyRevealer",
+    "script_id":  "release",
+    "type":  "Action"
+}

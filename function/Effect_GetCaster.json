@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Caster",
+    "grammar_text":  "Effect caster",
+    "id":  "Effect_GetCaster",
+    "script_id":  "Shim::Effect::get_caster",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Stop State Machine",
+    "grammar_text":  "{stop_behavior} {state_machine}",
+    "id":  "FSM_Stop",
+    "script_id":  "stop",
+    "type":  "Action"
+}

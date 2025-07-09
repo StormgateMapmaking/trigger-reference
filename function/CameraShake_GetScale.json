@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Scale",
+    "grammar_text":  "Get the scale of {camera_shake_source}",
+    "id":  "CameraShake_GetScale",
+    "script_id":  "get_scale",
+    "type":  "Function"
+}

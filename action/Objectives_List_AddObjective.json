@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - Add Objective To List",
+    "grammar_text":  "Add objective {objective} to list {list}",
+    "id":  "Objectives_List_AddObjective",
+    "script_id":  "Shim::Objectives::add_list_objective",
+    "type":  "Action"
+}

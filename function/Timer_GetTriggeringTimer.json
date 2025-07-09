@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Timer",
+    "grammar_text":  "Triggering timer",
+    "id":  "Timer_GetTriggeringTimer",
+    "script_id":  "Events::EventData::get_triggering_timer",
+    "type":  "Function"
+}

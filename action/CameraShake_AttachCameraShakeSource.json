@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Attach Camera Shake Source to Actor",
+    "grammar_text":  "Attach {camera_shake_source} to {actor}",
+    "id":  "CameraShake_AttachCameraShakeSource",
+    "script_id":  "attach",
+    "type":  "Action"
+}

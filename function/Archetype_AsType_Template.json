@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Archetype - As \u003c\u003cType\u003e\u003e",
+    "grammar_text":  "{archetype} as a \u003c\u003cType\u003e\u003e",
+    "id":  "Archetype_AsType_Template",
+    "script_id":  "",
+    "type":  "Function"
+}

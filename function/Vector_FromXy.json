@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Vector From XY",
+    "grammar_text":  "Vector({x}, {y})",
+    "id":  "Vector_FromXy",
+    "script_id":  "",
+    "type":  "Function"
+}

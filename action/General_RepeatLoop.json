@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Repeat Loop",
+    "grammar_text":  "Repeat (Actions) {count} times",
+    "id":  "General_RepeatLoop",
+    "script_id":  "",
+    "type":  "Action"
+}

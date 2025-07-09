@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UnitGroup - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "UnitGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

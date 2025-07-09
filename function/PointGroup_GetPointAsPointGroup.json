@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Point As Point Group",
+    "grammar_text":  "{point} as a Point Group",
+    "id":  "PointGroup_GetPointAsPointGroup",
+    "script_id":  "Shim::PointGroup::get_point_as_point_group",
+    "type":  "Function"
+}

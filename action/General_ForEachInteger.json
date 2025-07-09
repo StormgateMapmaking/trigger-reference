@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - For Each Integer",
+    "grammar_text":  "For each integer {variable} from {start} to {end} with increment {increment}, do (Actions)",
+    "id":  "General_ForEachInteger",
+    "script_id":  "",
+    "type":  "Action"
+}

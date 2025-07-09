@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - For Each Camera Shake Source In Group",
+    "grammar_text":  "For each unit in {group} do (Actions)",
+    "id":  "CameraShakeSourceGroup_ForEachCameraShakeSourceInGroup",
+    "script_id":  "",
+    "type":  "Action"
+}

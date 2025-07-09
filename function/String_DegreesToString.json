@@ -1,0 +1,7 @@
+﻿{
+    "name":  "String - Degrees To String",
+    "grammar_text":  "Convert {value} to string",
+    "id":  "String_DegreesToString",
+    "script_id":  "String::to_string",
+    "type":  "Function"
+}

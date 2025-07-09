@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Is Running",
+    "grammar_text":  "{timer} is running",
+    "id":  "Timer_IsRunning",
+    "script_id":  "is_running",
+    "type":  "Function"
+}

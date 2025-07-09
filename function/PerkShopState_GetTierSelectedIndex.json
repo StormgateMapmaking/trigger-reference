@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Get Tier Selected Index",
+    "grammar_text":  "Get the selected index of perk shop state {state} tier {tier}.",
+    "id":  "PerkShopState_GetTierSelectedIndex",
+    "script_id":  "get_tier_selected_index",
+    "type":  "Function"
+}

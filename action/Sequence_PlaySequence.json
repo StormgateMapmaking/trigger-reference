@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Play Sequence",
+    "grammar_text":  "Play {sequence} in the {sequence_player}",
+    "id":  "Sequence_PlaySequence",
+    "script_id":  "play",
+    "type":  "Action"
+}

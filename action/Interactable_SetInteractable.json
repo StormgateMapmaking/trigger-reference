@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Make Interactable/Non-Interactable",
+    "grammar_text":  "Make {actor} {interactable}",
+    "id":  "Interactable_SetInteractable",
+    "script_id":  "",
+    "type":  "Action"
+}

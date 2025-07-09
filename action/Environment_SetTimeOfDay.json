@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Set Time of Day",
+    "grammar_text":  "Set time of day to {time} over {duration} seconds",
+    "id":  "Environment_SetTimeOfDay",
+    "script_id":  "TimeOfDay::set_time_of_day",
+    "type":  "Action"
+}

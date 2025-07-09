@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Scale",
+    "grammar_text":  "{vector} {op} {scalar}",
+    "id":  "Vector_Scale",
+    "script_id":  "",
+    "type":  "Function"
+}

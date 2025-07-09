@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Respawnable",
+    "grammar_text":  "Turn respawn {respawn} for {unit} ",
+    "id":  "Unit_SetRespawnable",
+    "script_id":  "set_respawn_enabled",
+    "type":  "Action"
+}

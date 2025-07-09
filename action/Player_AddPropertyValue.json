@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Add Value to Property",
+    "grammar_text":  "Add {value} to player {player} property {property}",
+    "id":  "Player_AddPropertyValue",
+    "script_id":  "Shim::Player::add_property_value",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Set Animation Rate",
+    "grammar_text":  "Set {animation} rate to {rate} for {destructible}",
+    "id":  "Destructible_SetAnimationRate",
+    "script_id":  "set_animation_rate",
+    "type":  "Action"
+}

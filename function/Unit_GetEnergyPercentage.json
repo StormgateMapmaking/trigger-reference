@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Energy (Percentage)",
+    "grammar_text":  "Energy % of {unit}",
+    "id":  "Unit_GetEnergyPercentage",
+    "script_id":  "get_energy_percentage",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Is \u003c\u003cType\u003e\u003e",
+    "grammar_text":  "{entity} is a \u003c\u003cType\u003e\u003e",
+    "id":  "Entity_IsType_Template",
+    "script_id":  "is\u003c\u003c\u003cNativeType\u003e\u003e\u003e",
+    "type":  "Function"
+}

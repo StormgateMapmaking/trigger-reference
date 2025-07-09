@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Veterancy Tier Limit",
+    "grammar_text":  "Set {unit} veterancy tier limit to {veterancy_tier}",
+    "id":  "Unit_SetVeterancyTierLimit",
+    "script_id":  "set_veterancy_tier_limit",
+    "type":  "Action"
+}

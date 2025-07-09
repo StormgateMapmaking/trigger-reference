@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Set Interaction Position Overrides",
+    "grammar_text":  "Set interaction override of {interactable} to {position} and {direction}",
+    "id":  "Interactable_SetInteractionPositionOverride",
+    "script_id":  "",
+    "type":  "Action"
+}

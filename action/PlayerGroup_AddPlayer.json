@@ -1,0 +1,7 @@
+﻿{
+    "name":  "PlayerGroup - Add Player",
+    "grammar_text":  "Add {player} to {group}",
+    "id":  "PlayerGroup_AddPlayer",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

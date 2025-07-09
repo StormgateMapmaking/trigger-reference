@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Points In Region",
+    "grammar_text":  "Points in {region}",
+    "id":  "PointGroup_GetPointsInRegion",
+    "script_id":  "Shim::PointGroup::get_points_in_region",
+    "type":  "Function"
+}

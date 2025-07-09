@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Set Scale",
+    "grammar_text":  "Set the scale of {camera_shake_source} to {scale}",
+    "id":  "CameraShake_SetScale",
+    "script_id":  "set_scale",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - New Unit Group",
+    "grammar_text":  "Empty unit group",
+    "id":  "UnitGroup_GetNewUnitGroup",
+    "script_id":  "Shim::UnitGroup::create",
+    "type":  "Function"
+}

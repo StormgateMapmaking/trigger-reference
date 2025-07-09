@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Last Wait Timed-Out",
+    "grammar_text":  "Last Wait Timed-Out",
+    "id":  "General_GetLastWaitTimedOut",
+    "script_id":  "TriggerInstance::self().get_last_wait_action_timed_out",
+    "type":  "Function"
+}

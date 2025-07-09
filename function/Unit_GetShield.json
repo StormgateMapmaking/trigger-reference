@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Shield",
+    "grammar_text":  "Shield of {unit}",
+    "id":  "Unit_GetShield",
+    "script_id":  "get_shield",
+    "type":  "Function"
+}

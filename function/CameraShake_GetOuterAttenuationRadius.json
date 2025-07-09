@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Outer Attenuation Radius",
+    "grammar_text":  "Get the outer attenuation radius of {camera_shake_source}",
+    "id":  "CameraShake_GetOuterAttenuationRadius",
+    "script_id":  "get_outer_attenuation_radius",
+    "type":  "Function"
+}

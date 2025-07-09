@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Clear Formation Speed",
+    "grammar_text":  "Clear the formation speed of {unit}",
+    "id":  "Unit_ClearFormationSpeed",
+    "script_id":  "clear_formation_speed",
+    "type":  "Action"
+}

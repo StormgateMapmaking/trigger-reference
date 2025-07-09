@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "DestructibleGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

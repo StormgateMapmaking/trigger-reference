@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Set Health",
+    "grammar_text":  "Set destructible {destructible} health to {health}",
+    "id":  "Destructible_SetHealth",
+    "script_id":  "set_health",
+    "type":  "Action"
+}

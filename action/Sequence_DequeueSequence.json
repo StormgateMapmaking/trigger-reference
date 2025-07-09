@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Remove Sequence from Queue",
+    "grammar_text":  "Remove {sequence} from the {sequence_player}",
+    "id":  "Sequence_DequeueSequence",
+    "script_id":  "dequeue",
+    "type":  "Action"
+}

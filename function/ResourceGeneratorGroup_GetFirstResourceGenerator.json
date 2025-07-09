@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - First Resource Generator in Resource Generator Group",
+    "grammar_text":  "First Resource Generator of {group}",
+    "id":  "ResourceGeneratorGroup_GetFirstResourceGenerator",
+    "script_id":  "first",
+    "type":  "Function"
+}

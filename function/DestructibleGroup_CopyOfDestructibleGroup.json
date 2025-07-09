@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Copy Of Destructible Group",
+    "grammar_text":  "Copy of {group}",
+    "id":  "DestructibleGroup_CopyOfDestructibleGroup",
+    "script_id":  "Shim::DestructibleGroup::get_copy_of_destructible_group",
+    "type":  "Function"
+}

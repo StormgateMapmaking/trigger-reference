@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Close Perk Shop Dialog",
+    "grammar_text":  "Close the perk shop dialog for player {player}.",
+    "id":  "UI_ClosePerkShopDialog",
+    "script_id":  "UI::PerkShopDialog::hide",
+    "type":  "Action"
+}

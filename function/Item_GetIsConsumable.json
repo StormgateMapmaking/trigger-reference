@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Is Consumable",
+    "grammar_text":  "{item} is consumable",
+    "id":  "Item_GetIsConsumable",
+    "script_id":  "get_is_consumable",
+    "type":  "Function"
+}

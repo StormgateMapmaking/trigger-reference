@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Clear Selection",
+    "grammar_text":  "Clear player {player} selection.",
+    "id":  "Player_ClearSelection",
+    "script_id":  "",
+    "type":  "Action"
+}

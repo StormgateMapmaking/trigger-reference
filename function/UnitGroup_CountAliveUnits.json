@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Count Alive Units",
+    "grammar_text":  "Number of alive units in {group}",
+    "id":  "UnitGroup_CountAliveUnits",
+    "script_id":  "count_alive_units",
+    "type":  "Function"
+}

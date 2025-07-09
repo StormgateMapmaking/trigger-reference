@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Interaction Position",
+    "grammar_text":  "Interaction position of {interactable}",
+    "id":  "Interactable_GetInteractionPosition",
+    "script_id":  "",
+    "type":  "Function"
+}

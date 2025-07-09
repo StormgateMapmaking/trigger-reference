@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Can Receive Veterancy Experience",
+    "grammar_text":  "{unit} can receive veterancy experience",
+    "id":  "Unit_CanReceiveVeterancyXP",
+    "script_id":  "can_receive_veterancy_xp",
+    "type":  "Function"
+}

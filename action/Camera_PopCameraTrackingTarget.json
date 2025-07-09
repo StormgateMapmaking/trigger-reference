@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Pop Camera Tracking Target",
+    "grammar_text":  "Removes most recent tracking target for {camera}",
+    "id":  "Camera_PopCameraTrackingTarget",
+    "script_id":  "pop_tracking_target",
+    "type":  "Action"
+}

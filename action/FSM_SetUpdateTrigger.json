@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Set Update Trigger",
+    "grammar_text":  "Set {trigger} as Update trigger of {state_machine}",
+    "id":  "FSM_SetUpdateTrigger",
+    "script_id":  "set_on_update",
+    "type":  "Action"
+}

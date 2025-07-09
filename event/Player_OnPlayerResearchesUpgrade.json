@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Researches Upgrade",
+    "grammar_text":  "Player {player|Any Player} finishes researching {upgrade}",
+    "id":  "Player_OnPlayerResearchesUpgrade",
+    "script_id":  "",
+    "type":  "Event"
+}

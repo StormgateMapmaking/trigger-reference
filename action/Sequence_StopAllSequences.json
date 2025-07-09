@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Stop All Sequences",
+    "grammar_text":  "Stop all sequences in the {sequence_player}",
+    "id":  "Sequence_StopAllSequences",
+    "script_id":  "clear_queue_and_stop",
+    "type":  "Action"
+}

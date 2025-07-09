@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Set Grid Formation Max Width",
+    "grammar_text":  "Set {wave} to the centered grid formation at most {columns} wide",
+    "id":  "Wave_SetFormationCenteredGridColumns",
+    "script_id":  "set_columns",
+    "type":  "Action"
+}

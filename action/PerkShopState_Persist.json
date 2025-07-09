@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Persist",
+    "grammar_text":  "Stores perk shop state to the cloud blackboard of player {owner} with key {key}.",
+    "id":  "PerkShopState_Persist",
+    "script_id":  "persist",
+    "type":  "Action"
+}

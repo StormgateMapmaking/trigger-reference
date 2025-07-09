@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Music - Set Trigger Parameter",
+    "grammar_text":  "Set music trigger parameter to {value}",
+    "id":  "Music_SetTriggerParameter",
+    "script_id":  "SoundEmitter::get_or_create_music_sound_emitter().set_trigger_parameter",
+    "type":  "Action"
+}

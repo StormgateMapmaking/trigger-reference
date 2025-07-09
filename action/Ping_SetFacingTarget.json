@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Set Facing Target",
+    "grammar_text":  "Set {ping} Facing Target {actor} or {angle} degrees",
+    "id":  "Ping_SetFacingTarget",
+    "script_id":  "set_face_target",
+    "type":  "Action"
+}

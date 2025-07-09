@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Clear Camera Z Limits",
+    "grammar_text":  "Remove Z limits for {camera}",
+    "id":  "Camera_ClearZLimits",
+    "script_id":  "clear_z_limits",
+    "type":  "Action"
+}

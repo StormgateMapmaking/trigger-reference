@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Set Army Supply Cap",
+    "grammar_text":  "Set army cap to {cap} for {bot}.",
+    "id":  "Bot_SetArmySupplyCap",
+    "script_id":  "set_army_supply_high_watermark",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Set Enter Trigger",
+    "grammar_text":  "Set {trigger} as Enter trigger of {state_machine}",
+    "id":  "FSM_SetEnterTrigger",
+    "script_id":  "set_on_enter",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Item Removed",
+    "grammar_text":  "{item|Any Item} is removed from the game",
+    "id":  "Item_OnItemRemoved",
+    "script_id":  "Events::ItemRemovedEvent::create",
+    "type":  "Event"
+}

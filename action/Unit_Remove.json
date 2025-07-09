@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Remove",
+    "grammar_text":  "Remove {unit} from the game",
+    "id":  "Unit_Remove",
+    "script_id":  "remove",
+    "type":  "Action"
+}

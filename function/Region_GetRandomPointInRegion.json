@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region - Random Point",
+    "grammar_text":  "Random point in region {region}",
+    "id":  "Region_GetRandomPointInRegion",
+    "script_id":  "get_random_point",
+    "type":  "Function"
+}

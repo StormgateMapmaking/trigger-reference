@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Items With Placed Name",
+    "grammar_text":  "Pre-placed Items named {name}",
+    "id":  "ItemGroup_GetItemsFromPlacedName",
+    "script_id":  "Shim::ItemGroup::get_items_with_placed_name",
+    "type":  "Function"
+}

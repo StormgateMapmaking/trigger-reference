@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Blackboard - Remove Value",
+    "grammar_text":  "Remove value of {key} from {blackboard}",
+    "id":  "Blackboard_RemoveValue",
+    "script_id":  "Shim::Blackboard::remove_key",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Remove Action(s)",
+    "grammar_text":  "Remove action(s) {action} from {bot}",
+    "id":  "Bot_RemoveAction",
+    "script_id":  "remove_actions",
+    "type":  "Action"
+}

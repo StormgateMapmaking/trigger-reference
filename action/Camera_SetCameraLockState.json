@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Set Camera Lock State",
+    "grammar_text":  "{state|Unlock/Lock} camera for player {player}",
+    "id":  "Camera_SetCameraLockState",
+    "script_id":  "set_camera_lock_state",
+    "type":  "Action"
+}

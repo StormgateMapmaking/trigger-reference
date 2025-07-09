@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Time - Current Game Time",
+    "grammar_text":  "Current game time",
+    "id":  "Time_GetCurrentGameTime",
+    "script_id":  "clock",
+    "type":  "Function"
+}

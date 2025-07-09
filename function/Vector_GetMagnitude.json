@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Magnitude",
+    "grammar_text":  "Magnitude of {vector} ",
+    "id":  "Vector_GetMagnitude",
+    "script_id":  "magnitude",
+    "type":  "Function"
+}

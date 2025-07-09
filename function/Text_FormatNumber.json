@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Text - Format Number",
+    "grammar_text":  "{value} to formatted text",
+    "id":  "Text_FormatNumber",
+    "script_id":  "Text::to_text_formatted",
+    "type":  "Function"
+}

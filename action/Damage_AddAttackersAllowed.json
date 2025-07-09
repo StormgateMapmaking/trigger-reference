@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Damage - Add Attackers Allowed",
+    "grammar_text":  "For entity {entity}, allow attacks from {group}",
+    "id":  "Damage_AddAttackersAllowed",
+    "script_id":  "Shim::Damage::add_allowed_attackers",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Type Name",
+    "grammar_text":  "Type name of {unit}",
+    "id":  "Unit_GetTypeName",
+    "script_id":  "get_type_name",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Change Owner",
+    "grammar_text":  "Change owner of {unit} to player {new_owner} and {clear_orders|Clear Orders/Don\u0027t Clear Orders}",
+    "id":  "Unit_ChangeOwner",
+    "script_id":  "change_owner",
+    "type":  "Action"
+}

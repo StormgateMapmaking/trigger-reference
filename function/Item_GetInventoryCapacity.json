@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Capacity of Inventory",
+    "grammar_text":  "Capacity of inventory for {unit}",
+    "id":  "Item_GetInventoryCapacity",
+    "script_id":  "",
+    "type":  "Function"
+}

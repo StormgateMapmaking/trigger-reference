@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Add Resource Generators",
+    "grammar_text":  "Add {source} to {destination}",
+    "id":  "ResourceGeneratorGroup_AddResourceGenerators",
+    "script_id":  "add_group",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Add Credits",
+    "grammar_text":  "Add {credits} credits to perk shop state {state}.",
+    "id":  "PerkShopState_AddCredits",
+    "script_id":  "add_credits",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Damage - Response Source Of Damage (Unit)",
+    "grammar_text":  "Response source of {damage}",
+    "id":  "Damage_GetResponseSourceUnit",
+    "script_id":  "get_response_source_unit",
+    "type":  "Function"
+}

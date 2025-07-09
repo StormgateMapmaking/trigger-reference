@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Creep Camp - Capture Point",
+    "grammar_text":  "{creep_camp} capture point",
+    "id":  "CreepCamp_GetCapturePoint",
+    "script_id":  "get_capture_point",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Item Carried By Unit",
+    "grammar_text":  "Item carried by {unit} in slot {slot}",
+    "id":  "Item_GetCarriedItemInSlot",
+    "script_id":  "",
+    "type":  "Function"
+}

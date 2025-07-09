@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Picked Integer",
+    "grammar_text":  "Picked Integer",
+    "id":  "General_GetPickedInteger",
+    "script_id":  "",
+    "type":  "Function"
+}

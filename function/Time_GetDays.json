@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Time - Days",
+    "grammar_text":  "Days of {time}",
+    "id":  "Time_GetDays",
+    "script_id":  "get_days",
+    "type":  "Function"
+}

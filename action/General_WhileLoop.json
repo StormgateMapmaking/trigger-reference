@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - While Loop",
+    "grammar_text":  "While (Conditions) do (Actions)",
+    "id":  "General_WhileLoop",
+    "script_id":  "",
+    "type":  "Action"
+}

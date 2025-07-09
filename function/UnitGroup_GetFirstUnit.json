@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - First Unit in Unit Group",
+    "grammar_text":  "First unit of {group}",
+    "id":  "UnitGroup_GetFirstUnit",
+    "script_id":  "first",
+    "type":  "Function"
+}

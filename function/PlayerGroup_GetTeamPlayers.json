@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Players On Team",
+    "grammar_text":  "Players on team {team}",
+    "id":  "PlayerGroup_GetTeamPlayers",
+    "script_id":  "Shim::PlayerGroup::get_team_players",
+    "type":  "Function"
+}

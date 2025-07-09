@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Clear All Sequences from Queue",
+    "grammar_text":  "Clears all sequences from the {sequence_player}",
+    "id":  "Sequence_ClearQueue",
+    "script_id":  "clear_queue",
+    "type":  "Action"
+}

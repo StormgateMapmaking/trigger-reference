@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Damage - Target Of Damage (Unit)",
+    "grammar_text":  "Target of {damage}",
+    "id":  "Damage_GetTargetUnit",
+    "script_id":  "get_target_unit",
+    "type":  "Function"
+}

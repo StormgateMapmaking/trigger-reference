@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Text - Convert To Text",
+    "grammar_text":  "Convert {value} to text",
+    "id":  "Text_ToText",
+    "script_id":  "Text::to_text",
+    "type":  "Function"
+}

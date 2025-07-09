@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Finished Construction",
+    "grammar_text":  "{unit|Any Unit} finished construction",
+    "id":  "Unit_OnConstructed",
+    "script_id":  "",
+    "type":  "Event"
+}

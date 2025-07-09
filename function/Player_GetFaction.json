@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Faction",
+    "grammar_text":  "Faction of player {player}",
+    "id":  "Player_GetFaction",
+    "script_id":  "Shim::Faction::get_player_faction",
+    "type":  "Function"
+}

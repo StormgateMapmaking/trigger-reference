@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Response Source Of Triggering Damage (Unit)",
+    "grammar_text":  "Response source of triggering damage",
+    "id":  "Damage_GetTriggeringDamageResponseSourceUnit",
+    "script_id":  "Shim::Damage::get_triggering_damage_response_source_unit",
+    "type":  "Function"
+}

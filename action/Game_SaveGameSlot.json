@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Save Game Slot",
+    "grammar_text":  "Save game in slot {slot}",
+    "id":  "Game_SaveGameSlot",
+    "script_id":  "_snow_save_game_slot",
+    "type":  "Action"
+}

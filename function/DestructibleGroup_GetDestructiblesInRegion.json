@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Destructibles In Region",
+    "grammar_text":  "Destructibles in {region}",
+    "id":  "DestructibleGroup_GetDestructiblesInRegion",
+    "script_id":  "Shim::DestructibleGroup::get_destructibles_in_region",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Volume",
+    "grammar_text":  "Set volume of {sound_emitter} to {value}",
+    "id":  "SoundEmitter_SetVolumeMultiplier",
+    "script_id":  "set_volume_multiplier",
+    "type":  "Action"
+}

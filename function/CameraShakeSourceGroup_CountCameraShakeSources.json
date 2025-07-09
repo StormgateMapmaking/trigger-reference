@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Count Camera Shake Sources",
+    "grammar_text":  "Number of camerashakesources in {group}",
+    "id":  "CameraShakeSourceGroup_CountCameraShakeSources",
+    "script_id":  "size",
+    "type":  "Function"
+}

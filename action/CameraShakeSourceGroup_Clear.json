@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "CameraShakeSourceGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

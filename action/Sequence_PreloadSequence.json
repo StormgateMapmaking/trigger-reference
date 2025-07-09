@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Preload Sequence",
+    "grammar_text":  "Preload {sequence} in the {sequence_player}",
+    "id":  "Sequence_PreloadSequence",
+    "script_id":  "preload",
+    "type":  "Action"
+}

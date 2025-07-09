@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Custom Event Triggered",
+    "grammar_text":  "{sequence} in {sequence_player} triggers a custom event with data {data} for player {player}",
+    "id":  "Sequence_OnSequenceCustomEvent",
+    "script_id":  "Events::SequenceCustomEvent::create",
+    "type":  "Event"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Count Items",
+    "grammar_text":  "Number of items in {group}",
+    "id":  "ItemGroup_CountItems",
+    "script_id":  "size",
+    "type":  "Function"
+}

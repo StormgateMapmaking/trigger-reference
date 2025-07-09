@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Is Veterancy Capped",
+    "grammar_text":  "{unit} is veterancy xp capped",
+    "id":  "Unit_IsVeterancyCapped",
+    "script_id":  "is_max_veterancy",
+    "type":  "Function"
+}

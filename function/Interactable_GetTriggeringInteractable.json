@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Interactable",
+    "grammar_text":  "Triggering interactable",
+    "id":  "Interactable_GetTriggeringInteractable",
+    "script_id":  "Events::EventData::get_triggering_interactable",
+    "type":  "Function"
+}

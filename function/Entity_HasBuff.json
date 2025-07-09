@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Has Buff",
+    "grammar_text":  "{entity} has {buff} from {source}",
+    "id":  "Entity_HasBuff",
+    "script_id":  "Buffs::entity_has_buff",
+    "type":  "Function"
+}

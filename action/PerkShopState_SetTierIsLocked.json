@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Set Tier Is Locked",
+    "grammar_text":  "Set locked state of perk shop state {state} tier {tier} to {is_locked}.",
+    "id":  "PerkShopState_SetTierIsLocked",
+    "script_id":  "set_tier_is_locked",
+    "type":  "Action"
+}

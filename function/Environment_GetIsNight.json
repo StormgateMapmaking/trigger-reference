@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Is Night In-Game",
+    "grammar_text":  "Is night in-game",
+    "id":  "Environment_GetIsNight",
+    "script_id":  "TimeOfDay::is_night",
+    "type":  "Function"
+}

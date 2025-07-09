@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - New Objectives List",
+    "grammar_text":  "Create Objectives List with title {title}, enabled {enabled}, and visibility {visible} for players {player_group}",
+    "id":  "Objectives_List_Create",
+    "script_id":  "UI::ObjectivesList::create",
+    "type":  "Function"
+}

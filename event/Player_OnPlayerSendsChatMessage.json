@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Sends Chat Message",
+    "grammar_text":  "Player {player|Any Player} sends {message} as a chat message",
+    "id":  "Player_OnPlayerSendsChatMessage",
+    "script_id":  "",
+    "type":  "Event"
+}

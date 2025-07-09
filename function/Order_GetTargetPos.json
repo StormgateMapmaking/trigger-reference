@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Target Position of Order",
+    "grammar_text":  "Target position of {order}",
+    "id":  "Order_GetTargetPos",
+    "script_id":  "get_target_location",
+    "type":  "Function"
+}

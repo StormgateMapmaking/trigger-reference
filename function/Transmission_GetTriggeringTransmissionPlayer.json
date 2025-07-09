@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Triggering Transmission Player",
+    "grammar_text":  "Triggering transmission player",
+    "id":  "Transmission_GetTriggeringTransmissionPlayer",
+    "script_id":  "Events::EventData::get_triggering_transmission_player",
+    "type":  "Function"
+}

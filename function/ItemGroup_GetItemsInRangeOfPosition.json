@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Item In Range Of Position",
+    "grammar_text":  "Items within {radius} of {position}",
+    "id":  "ItemGroup_GetItemsInRangeOfPosition",
+    "script_id":  "Shim::ItemGroup::get_items_in_range_of_position",
+    "type":  "Function"
+}

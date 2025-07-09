@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Resource Generator As Resource Generator Group",
+    "grammar_text":  "{resourcegenerator} as a Resource Generator Group",
+    "id":  "ResourceGeneratorGroup_GetResourceGeneratorAsResourceGeneratorGroup",
+    "script_id":  "Shim::ResourceGeneratorGroup::get_resource_generator_as_resource_generator_group",
+    "type":  "Function"
+}

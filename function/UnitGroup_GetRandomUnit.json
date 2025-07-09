@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Random Unit",
+    "grammar_text":  "Random unit from {group}",
+    "id":  "UnitGroup_GetRandomUnit",
+    "script_id":  "random",
+    "type":  "Function"
+}

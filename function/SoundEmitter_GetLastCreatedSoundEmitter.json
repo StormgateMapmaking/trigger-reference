@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Last Created Sound Emitter",
+    "grammar_text":  "Last created sound emitter",
+    "id":  "SoundEmitter_GetLastCreatedSoundEmitter",
+    "script_id":  "Shim::SoundEmitter::get_last_created_sound_emitter",
+    "type":  "Function"
+}

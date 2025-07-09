@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Resume",
+    "grammar_text":  "Resume {sound_emitter}",
+    "id":  "SoundEmitter_Resume",
+    "script_id":  "resume",
+    "type":  "Action"
+}

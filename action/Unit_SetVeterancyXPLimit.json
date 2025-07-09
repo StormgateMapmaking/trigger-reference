@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Veterancy XP Limit",
+    "grammar_text":  "Set {unit} veterancy xp limit to {veterancy}",
+    "id":  "Unit_SetVeterancyXPLimit",
+    "script_id":  "set_veterancy_xp_limit",
+    "type":  "Action"
+}

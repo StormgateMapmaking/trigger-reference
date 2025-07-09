@@ -1,0 +1,7 @@
+﻿{
+    "name":  "String - Concatenate",
+    "grammar_text":  "Concatenate {strings}",
+    "id":  "String_Concat",
+    "script_id":  "String::concat",
+    "type":  "Function"
+}

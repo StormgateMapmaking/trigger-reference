@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Set Current Day",
+    "grammar_text":  "Set in-game day to {day}",
+    "id":  "Environment_SetCurrentDay",
+    "script_id":  "TimeOfDay::set_days",
+    "type":  "Action"
+}

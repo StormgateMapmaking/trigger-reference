@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Archetype - Is Based On",
+    "grammar_text":  "{archetype} is based on {base_archetype}",
+    "id":  "Archetype_IsBasedOn",
+    "script_id":  "is_based_on",
+    "type":  "Function"
+}

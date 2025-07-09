@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Veterancy Tier",
+    "grammar_text":  "Veterancy tier of {unit}",
+    "id":  "Unit_GetVeterancyTier",
+    "script_id":  "get_veterancy_tier",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Archetype of Entity",
+    "grammar_text":  "Archetype of {entity}",
+    "id":  "Entity_GetKindAsArchetype",
+    "script_id":  "get_kind_as_archetype",
+    "type":  "Function"
+}

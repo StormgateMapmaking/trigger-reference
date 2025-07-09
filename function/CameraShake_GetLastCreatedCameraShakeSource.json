@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Last Created Camera Shake Source",
+    "grammar_text":  "Last created camera shake source",
+    "id":  "CameraShake_GetLastCreatedCameraShakeSource",
+    "script_id":  "Shim::CameraShake::get_last_created_camera_shake_source",
+    "type":  "Function"
+}

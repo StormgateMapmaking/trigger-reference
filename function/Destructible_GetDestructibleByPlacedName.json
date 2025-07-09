@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - From Placed Name",
+    "grammar_text":  "Pre-placed destructible named {name}",
+    "id":  "Destructible_GetDestructibleByPlacedName",
+    "script_id":  "Destructible::find_by_placed_name",
+    "type":  "Function"
+}

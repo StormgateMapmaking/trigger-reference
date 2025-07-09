@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Command Index of Ability Command",
+    "grammar_text":  "Command index of {ability_command}",
+    "id":  "Order_GetAbilityCommandIndex",
+    "script_id":  "get_command_index",
+    "type":  "Function"
+}

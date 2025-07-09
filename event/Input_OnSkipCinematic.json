@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Input - On Skip Cinematic Input Received",
+    "grammar_text":  "Input received from {player} to skip cinematic",
+    "id":  "Input_OnSkipCinematic",
+    "script_id":  "",
+    "type":  "Event"
+}

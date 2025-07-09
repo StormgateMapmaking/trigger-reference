@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Time Since Last Damage Taken",
+    "grammar_text":  "Time since {entity} was last damaged",
+    "id":  "Entity_GetTimeSinceLastDamageTaken",
+    "script_id":  "get_time_since_last_damage_taken",
+    "type":  "Function"
+}

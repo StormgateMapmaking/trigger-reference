@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Health (Percentage)",
+    "grammar_text":  "Health % of {actor}",
+    "id":  "Actor_GetHealthPercentage",
+    "script_id":  "get_health_percentage",
+    "type":  "Function"
+}

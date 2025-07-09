@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Get Tier Selected Perk",
+    "grammar_text":  "Get the selected perk of perk shop state {state} tier {tier}.",
+    "id":  "PerkShopState_GetTierSelectedPerk",
+    "script_id":  "get_tier_selected_perk",
+    "type":  "Function"
+}

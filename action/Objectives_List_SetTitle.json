@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - Set List Title",
+    "grammar_text":  "Set list {list} title to {title}",
+    "id":  "Objectives_List_SetTitle",
+    "script_id":  "Shim::Objectives::set_list_title",
+    "type":  "Action"
+}

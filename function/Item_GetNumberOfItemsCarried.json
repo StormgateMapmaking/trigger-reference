@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Number of Items Carried",
+    "grammar_text":  "Number of items carried by {unit}",
+    "id":  "Item_GetNumberOfItemsCarried",
+    "script_id":  "",
+    "type":  "Function"
+}

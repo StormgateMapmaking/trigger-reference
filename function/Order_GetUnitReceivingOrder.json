@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Unit Receiving Order",
+    "grammar_text":  "Unit receiving order",
+    "id":  "Order_GetUnitReceivingOrder",
+    "script_id":  "Events::EventData::get_ordered_unit",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Units In Range Of Position",
+    "grammar_text":  "Units within {radius} of {position}",
+    "id":  "UnitGroup_GetUnitsInRangeOfPosition",
+    "script_id":  "Shim::UnitGroup::get_units_in_range_of_position",
+    "type":  "Function"
+}

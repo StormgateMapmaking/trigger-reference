@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Item Acquired/Dropped",
+    "grammar_text":  "{unit|Any Unit} {type} {item|Any Item}",
+    "id":  "Item_OnItemManipulated",
+    "script_id":  "Events::ItemManipulatedEvent::create",
+    "type":  "Event"
+}

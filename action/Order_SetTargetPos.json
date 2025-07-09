@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Set Target Position",
+    "grammar_text":  "Set the target position of {order} to {target}",
+    "id":  "Order_SetTargetPos",
+    "script_id":  "",
+    "type":  "Action"
+}

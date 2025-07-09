@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Power Produced",
+    "grammar_text":  "Get power currently produced by player\u0027s units.",
+    "id":  "Player_GetPowerProduced",
+    "script_id":  "PlayerTask::get_power_produced",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Award Team Victory Points At Location",
+    "grammar_text":  "Award {points} victory points for team {team} at {location}",
+    "id":  "Game_AwardVictoryPointsAtLocation",
+    "script_id":  "VictoryPointsManager::award_victory_points_at_location",
+    "type":  "Action"
+}

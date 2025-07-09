@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Random - Random Integer",
+    "grammar_text":  "Random({min}, {max})",
+    "id":  "Random_Integer",
+    "script_id":  "random_range\u003ci32\u003e",
+    "type":  "Function"
+}

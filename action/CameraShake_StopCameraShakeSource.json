@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Stop Camera Shake Source",
+    "grammar_text":  "Stop {camera_shake_source}",
+    "id":  "CameraShake_StopCameraShakeSource",
+    "script_id":  "stop",
+    "type":  "Action"
+}

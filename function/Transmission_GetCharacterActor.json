@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Actor of Character",
+    "grammar_text":  "Actor of {character} in the {player}",
+    "id":  "Transmission_GetCharacterActor",
+    "script_id":  "get_character_actor",
+    "type":  "Function"
+}

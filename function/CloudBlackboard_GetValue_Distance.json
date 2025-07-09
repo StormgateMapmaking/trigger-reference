@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Get Value (Distance)",
+    "grammar_text":  "Get value {key} from cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_GetValue_Distance",
+    "script_id":  "Shim::CloudBlackboard::get_value_as\u003cDistance\u003e",
+    "type":  "Function"
+}

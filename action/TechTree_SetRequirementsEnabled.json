@@ -1,0 +1,7 @@
+﻿{
+    "name":  "TechTree - Unlock / Lock All Abilities/Units/Upgrades in  Tech Tree ",
+    "grammar_text":  "{state|Unlock/Lock} all abilities/units/upgrades from the tech tree for player {player}",
+    "id":  "TechTree_SetRequirementsEnabled",
+    "script_id":  "Shim::TechTree::set_requirements_enabled",
+    "type":  "Action"
+}

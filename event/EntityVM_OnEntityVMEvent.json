@@ -1,0 +1,7 @@
+﻿{
+    "name":  "EntityVM - Event Received",
+    "grammar_text":  "Event {command} received from {entity} initiated by {player}",
+    "id":  "EntityVM_OnEntityVMEvent",
+    "script_id":  "Events::EntityVMEvent::create",
+    "type":  "Event"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Uses an Ability",
+    "grammar_text":  "{unit|Any Unit} uses an ability",
+    "id":  "Unit_OnAbilityUsed",
+    "script_id":  "",
+    "type":  "Event"
+}

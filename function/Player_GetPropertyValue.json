@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Property Value",
+    "grammar_text":  "Property {property} of player {player}",
+    "id":  "Player_GetPropertyValue",
+    "script_id":  "PlayerTask::get_property_value",
+    "type":  "Function"
+}

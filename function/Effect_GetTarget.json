@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Target",
+    "grammar_text":  "Effect target of {effect_parent}",
+    "id":  "Effect_GetTarget",
+    "script_id":  "Shim::Entity::get_target",
+    "type":  "Function"
+}

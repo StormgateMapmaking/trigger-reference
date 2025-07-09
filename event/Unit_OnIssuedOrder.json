@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit is Issued an Order",
+    "grammar_text":  "{unit|Any Unit} is issued an order",
+    "id":  "Unit_OnIssuedOrder",
+    "script_id":  "Events::UnitIssuedOrderEvent::create",
+    "type":  "Event"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Remove Buff",
+    "grammar_text":  "Remove {stacks} stacks of {buff} applied by {source} from {target}",
+    "id":  "Actor_RemoveBuff",
+    "script_id":  "Buffs::remove_from_source",
+    "type":  "Action"
+}

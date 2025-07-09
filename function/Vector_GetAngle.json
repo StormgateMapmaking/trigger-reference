@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Angle of Vector",
+    "grammar_text":  "Angle of {vector}",
+    "id":  "Vector_GetAngle",
+    "script_id":  "Vec::get_angle_360",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Last Created Banter Player",
+    "grammar_text":  "Last created banter player",
+    "id":  "Transmission_GetLastCreatedBanterPlayer",
+    "script_id":  "Shim::Transmission::get_last_created_banter_player",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "TechTree - Require / Don\u0027t Require a Tech Tree Requirement",
+    "grammar_text":  "{state|Require/Don\u0027t Require} the tech tree requirement {requirement} for player {player}",
+    "id":  "TechTree_SetSpecificRequirementEnabled",
+    "script_id":  "Shim::TechTree::set_requirement_enabled",
+    "type":  "Action"
+}

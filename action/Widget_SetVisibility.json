@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Widget - Set Visibility",
+    "grammar_text":  "Set visibility of {widget} to {visibility}",
+    "id":  "Widget_SetVisibility",
+    "script_id":  "set_visibility",
+    "type":  "Action"
+}

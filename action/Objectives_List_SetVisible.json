@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - Set List Visible",
+    "grammar_text":  "Set list {list} to {visible}",
+    "id":  "Objectives_List_SetVisible",
+    "script_id":  "Shim::Objectives::set_list_visible",
+    "type":  "Action"
+}

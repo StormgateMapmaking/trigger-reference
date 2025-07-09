@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Show/Hide Highlight on Quick Macro Button",
+    "grammar_text":  "{state} highlight on quick macro {index} for {players}",
+    "id":  "UI_SetQuickMacroButtonHighlightVisibility",
+    "script_id":  "Shim::UI::set_quick_macro_highlight_visibility",
+    "type":  "Action"
+}

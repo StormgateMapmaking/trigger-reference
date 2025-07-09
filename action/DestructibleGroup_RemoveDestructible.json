@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Remove Destructible",
+    "grammar_text":  "Remove {destructible} from {group}",
+    "id":  "DestructibleGroup_RemoveDestructible",
+    "script_id":  "remove",
+    "type":  "Action"
+}

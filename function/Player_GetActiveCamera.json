@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Active Camera",
+    "grammar_text":  "Active camera of player {player}",
+    "id":  "Player_GetActiveCamera",
+    "script_id":  "",
+    "type":  "Function"
+}

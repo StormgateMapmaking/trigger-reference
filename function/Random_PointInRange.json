@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Random - Point In Range",
+    "grammar_text":  "Random point in {range} of {point}",
+    "id":  "Random_PointInRange",
+    "script_id":  "Shim::Vector::get_random_point_in_range",
+    "type":  "Function"
+}

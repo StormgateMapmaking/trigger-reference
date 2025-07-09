@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Resource Generators With Placed Name",
+    "grammar_text":  "Pre-placed Resource Generators named {name}",
+    "id":  "ResourceGeneratorGroup_GetResourceGeneratorsFromPlacedName",
+    "script_id":  "Shim::ResourceGeneratorGroup::get_resource_generators_with_placed_name",
+    "type":  "Function"
+}

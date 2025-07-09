@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Ability Command of Item",
+    "grammar_text":  "Ability command of {item}",
+    "id":  "Order_GetActiveAbilityCommandOfItem",
+    "script_id":  "get_ability_command",
+    "type":  "Function"
+}

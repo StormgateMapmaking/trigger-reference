@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Units With Placed Name owned by a Player",
+    "grammar_text":  "Pre-placed units owned by player {player} named {name}",
+    "id":  "UnitGroup_GetUnitsFromPlacedName",
+    "script_id":  "Shim::UnitGroup::get_units_with_placed_name",
+    "type":  "Function"
+}

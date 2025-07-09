@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Set Maximum Number of Stacks",
+    "grammar_text":  "Set max number of stacks of {item} to {stacks}",
+    "id":  "Item_SetMaxStacks",
+    "script_id":  "set_max_stacks",
+    "type":  "Action"
+}

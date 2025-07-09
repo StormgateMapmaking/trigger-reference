@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Command",
+    "grammar_text":  "Triggering UI Message Command",
+    "id":  "UI_GetTriggeringUIMessageCommand",
+    "script_id":  "Events::EventData::get_triggering_ui_event_command",
+    "type":  "Function"
+}

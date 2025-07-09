@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Restore",
+    "grammar_text":  "Restore perk shop state from player {source} with key {key} for player {owner}.",
+    "id":  "PerkShopState_Restore",
+    "script_id":  "UI::PerkShopState::restore",
+    "type":  "Function"
+}

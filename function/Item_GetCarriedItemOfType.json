@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Item Carried By Unit of Type",
+    "grammar_text":  "Item carried by {unit} of type {type}",
+    "id":  "Item_GetCarriedItemOfType",
+    "script_id":  "",
+    "type":  "Function"
+}

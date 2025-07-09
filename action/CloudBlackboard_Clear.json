@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Clear All Values",
+    "grammar_text":  "Clear all values from cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_Clear",
+    "script_id":  "Shim::CloudBlackboard::clear",
+    "type":  "Action"
+}

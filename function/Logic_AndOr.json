@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Logic - And/Or",
+    "grammar_text":  "{op} combine {conditions}",
+    "id":  "Logic_AndOr",
+    "script_id":  "",
+    "type":  "Function"
+}

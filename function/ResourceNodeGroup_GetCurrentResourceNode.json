@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Current Resource Node (For Each)",
+    "grammar_text":  "Current Resource Node",
+    "id":  "ResourceNodeGroup_GetCurrentResourceNode",
+    "script_id":  "",
+    "type":  "Function"
+}

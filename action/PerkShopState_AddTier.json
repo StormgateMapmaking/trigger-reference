@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Add Tier",
+    "grammar_text":  "Add tier to perk shop state {state}.",
+    "id":  "PerkShopState_AddTier",
+    "script_id":  "add_tier",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Sphere Inner Radius",
+    "grammar_text":  "Set sphere inner radius of {sound_emitter} to {inner_radius}",
+    "id":  "SoundEmitter_SetSphereInnerRadius",
+    "script_id":  "set_sphere_inner_radius",
+    "type":  "Action"
+}

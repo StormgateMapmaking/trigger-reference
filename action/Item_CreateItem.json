@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Create Item(s)",
+    "grammar_text":  "Create {count|1} item(s) of type {type} at {position} facing {facing|0} degrees",
+    "id":  "Item_CreateItem",
+    "script_id":  "Shim::Item::create_items",
+    "type":  "Action"
+}

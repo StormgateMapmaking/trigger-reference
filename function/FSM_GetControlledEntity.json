@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Entity Controlled by State Machine",
+    "grammar_text":  "Entity controlled by {state_machine}",
+    "id":  "FSM_GetControlledEntity",
+    "script_id":  "get_entity",
+    "type":  "Function"
+}

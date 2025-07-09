@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Item Used",
+    "grammar_text":  "{item|Any Item} is used by {unit|Any Unit}",
+    "id":  "Unit_OnItemUsed",
+    "script_id":  "Events::ItemUsedEvent::create",
+    "type":  "Event"
+}

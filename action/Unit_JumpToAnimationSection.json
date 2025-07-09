@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Jump to Animation Section",
+    "grammar_text":  "Jump to {section_name} in {animation} for {unit}",
+    "id":  "Unit_JumpToAnimationSection",
+    "script_id":  "jump_to_animation_section",
+    "type":  "Action"
+}

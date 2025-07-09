@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Target Sorting - Invert Score",
+    "grammar_text":  "Invert a sorting score {score}",
+    "id":  "TargetSorting_GetScoreInverted",
+    "script_id":  "Shim::TargetSorting::invert_score",
+    "type":  "Function"
+}

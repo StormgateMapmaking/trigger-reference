@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Destructible In Destructible Group",
+    "grammar_text":  "{destructible} is in {group}",
+    "id":  "DestructibleGroup_ContainsDestructible",
+    "script_id":  "contains",
+    "type":  "Function"
+}

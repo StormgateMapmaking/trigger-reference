@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Box Extent Z",
+    "grammar_text":  "Set box extent z of {sound_emitter} to {extent_z}",
+    "id":  "SoundEmitter_SetBoxExtentZ",
+    "script_id":  "set_box_extent_z",
+    "type":  "Action"
+}

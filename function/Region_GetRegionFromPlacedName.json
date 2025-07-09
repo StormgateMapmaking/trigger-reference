@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region - Region From Placed Name",
+    "grammar_text":  "Pre-placed region named {name}",
+    "id":  "Region_GetRegionFromPlacedName",
+    "script_id":  "Region::find_by_placed_name",
+    "type":  "Function"
+}

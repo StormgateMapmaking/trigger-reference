@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Create Start Match Countdown",
+    "grammar_text":  "Starts a countdown to begin match for {players}",
+    "id":  "UI_StartMatchCountdown",
+    "script_id":  "Shim::UI::start_match_countdown",
+    "type":  "Action"
+}

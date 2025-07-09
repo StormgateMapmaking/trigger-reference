@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Swap Default Starting Resource Node",
+    "grammar_text":  "Swap starting resource node for {player_group}",
+    "id":  "Game_SwapStartingResourceNode",
+    "script_id":  "GameWorld::swap_default_player_starting_resource_node",
+    "type":  "Action"
+}

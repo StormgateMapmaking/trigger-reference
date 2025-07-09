@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Start Location",
+    "grammar_text":  "Start Location of player {player}",
+    "id":  "Player_GetStartLocation",
+    "script_id":  "Shim::Player::get_start_location",
+    "type":  "Function"
+}

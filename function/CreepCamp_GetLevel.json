@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Creep Camp - Get Level",
+    "grammar_text":  "Level of {creep_camp}",
+    "id":  "CreepCamp_GetLevel",
+    "script_id":  "Creeps::get_level",
+    "type":  "Function"
+}

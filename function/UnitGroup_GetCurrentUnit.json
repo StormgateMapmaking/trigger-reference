@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Current Unit (For Each)",
+    "grammar_text":  "Current unit",
+    "id":  "UnitGroup_GetCurrentUnit",
+    "script_id":  "",
+    "type":  "Function"
+}

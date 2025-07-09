@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Detach Sequence Player from Actor",
+    "grammar_text":  "Detach {sequence_player}",
+    "id":  "Sequence_DetachPlayerFromActor",
+    "script_id":  "detach",
+    "type":  "Action"
+}

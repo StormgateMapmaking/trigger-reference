@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Of Triggering Damage (Entity)",
+    "grammar_text":  "Target of triggering damage",
+    "id":  "Damage_GetTriggeringDamageTargetEntity",
+    "script_id":  "Shim::Damage::get_triggering_damage_target_entity",
+    "type":  "Function"
+}

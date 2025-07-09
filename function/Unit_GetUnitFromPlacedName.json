@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit With Placed Name",
+    "grammar_text":  "Pre-placed unit owned by player {player} named {name}",
+    "id":  "Unit_GetUnitFromPlacedName",
+    "script_id":  "Unit::find_by_placed_name",
+    "type":  "Function"
+}

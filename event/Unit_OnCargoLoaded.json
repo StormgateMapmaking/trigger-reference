@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Cargo Loaded/Unloaded",
+    "grammar_text":  "{cargo_unit|Any Unit} is {state|Loaded Into} {transport_unit|Transport Unit}",
+    "id":  "Unit_OnCargoLoaded",
+    "script_id":  "",
+    "type":  "Event"
+}

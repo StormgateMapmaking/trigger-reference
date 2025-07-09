@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Blackboard - New Blackboard",
+    "grammar_text":  "New Blackboard",
+    "id":  "Blackboard_GetNewBlackboard",
+    "script_id":  "Blackboard::create",
+    "type":  "Function"
+}

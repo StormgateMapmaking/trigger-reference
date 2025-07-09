@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Random Resource Node",
+    "grammar_text":  "Random Resource Node from {group}",
+    "id":  "ResourceNodeGroup_GetRandomResourceNode",
+    "script_id":  "random",
+    "type":  "Function"
+}

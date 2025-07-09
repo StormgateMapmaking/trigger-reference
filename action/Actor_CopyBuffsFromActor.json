@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Copy Buffs From Actor",
+    "grammar_text":  "Copy all buffs from {from} to {to}. {do_copy_durations} copy remaining duration times.",
+    "id":  "Actor_CopyBuffsFromActor",
+    "script_id":  "Buffs::copy_to",
+    "type":  "Action"
+}

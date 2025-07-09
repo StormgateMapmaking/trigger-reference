@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Default Faction Town Hall",
+    "grammar_text":  "Default town hall of {faction}",
+    "id":  "Player_GetFactionTownHall",
+    "script_id":  "Shim::Faction::get_faction_town_hall",
+    "type":  "Function"
+}

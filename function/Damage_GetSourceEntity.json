@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Damage - Source Of Damage (Entity)",
+    "grammar_text":  "Source of {damage}",
+    "id":  "Damage_GetSourceEntity",
+    "script_id":  "get_source_entity",
+    "type":  "Function"
+}

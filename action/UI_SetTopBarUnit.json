@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Set Top Bar Unit",
+    "grammar_text":  "Set player {player} top bar unit to {unit}",
+    "id":  "UI_SetTopBarUnit",
+    "script_id":  "Shim::UI::set_topbar_unit",
+    "type":  "Action"
+}

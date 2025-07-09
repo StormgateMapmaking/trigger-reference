@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Current Player (For Each)",
+    "grammar_text":  "Current player",
+    "id":  "PlayerGroup_GetCurrentPlayer",
+    "script_id":  "",
+    "type":  "Function"
+}

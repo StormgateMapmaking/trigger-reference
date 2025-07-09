@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Last Created Sequence Player",
+    "grammar_text":  "Last created sequence player",
+    "id":  "Sequence_GetLastCreatedSequencePlayer",
+    "script_id":  "Shim::SequencePlayer::get_last_created_sequence_player",
+    "type":  "Function"
+}

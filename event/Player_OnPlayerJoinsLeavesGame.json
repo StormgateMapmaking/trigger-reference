@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Joins/Leaves Game",
+    "grammar_text":  "Player {player|Any Player} {state|Joins/Leaves} the game",
+    "id":  "Player_OnPlayerJoinsLeavesGame",
+    "script_id":  "",
+    "type":  "Event"
+}

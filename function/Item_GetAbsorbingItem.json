@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Absorbing Item",
+    "grammar_text":  "Absorbing item",
+    "id":  "Item_GetAbsorbingItem",
+    "script_id":  "Events::EventData::get_absorbing_item",
+    "type":  "Function"
+}

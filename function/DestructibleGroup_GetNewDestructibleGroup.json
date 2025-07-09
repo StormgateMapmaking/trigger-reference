@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Empty Destructible Group",
+    "grammar_text":  "Empty Destructible Group",
+    "id":  "DestructibleGroup_GetNewDestructibleGroup",
+    "script_id":  "Shim::DestructibleGroup::create",
+    "type":  "Function"
+}

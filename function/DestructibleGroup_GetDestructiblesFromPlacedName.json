@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Destructibles With Placed Name",
+    "grammar_text":  "Pre-placed Destructibles named {name}",
+    "id":  "DestructibleGroup_GetDestructiblesFromPlacedName",
+    "script_id":  "Shim::DestructibleGroup::get_destructibles_with_placed_name",
+    "type":  "Function"
+}

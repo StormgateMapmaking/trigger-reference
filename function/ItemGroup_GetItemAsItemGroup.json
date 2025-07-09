@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Item As Item Group",
+    "grammar_text":  "{item} as a Item Group",
+    "id":  "ItemGroup_GetItemAsItemGroup",
+    "script_id":  "Shim::ItemGroup::get_item_as_item_group",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Resume Timer",
+    "grammar_text":  "Resume {timer}",
+    "id":  "Timer_ResumeTimer",
+    "script_id":  "resume",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Periodic Event",
+    "grammar_text":  "Every {duration} seconds of mission time",
+    "id":  "Timer_OnPeriodicEvent",
+    "script_id":  "",
+    "type":  "Event"
+}

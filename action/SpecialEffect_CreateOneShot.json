@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Special Effect - Create One-Shot",
+    "grammar_text":  "Create {effect} as a one-shot special effect from {source} on {target}",
+    "id":  "SpecialEffect_CreateOneShot",
+    "script_id":  "SpecialEffect::create_oneshot",
+    "type":  "Action"
+}

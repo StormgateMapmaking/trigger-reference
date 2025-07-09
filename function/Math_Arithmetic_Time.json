@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Arithmetic (Time)",
+    "grammar_text":  "{value1} {op} {value2}",
+    "id":  "Math_Arithmetic_Time",
+    "script_id":  "",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Variable - Modify Variable",
+    "grammar_text":  "{variable} {op}= {value}",
+    "id":  "Variable_ModifyVariable",
+    "script_id":  "",
+    "type":  "Action"
+}

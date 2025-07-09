@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Empty Point Group",
+    "grammar_text":  "Empty Point Group",
+    "id":  "PointGroup_GetNewPointGroup",
+    "script_id":  "Shim::PointGroup::create",
+    "type":  "Function"
+}

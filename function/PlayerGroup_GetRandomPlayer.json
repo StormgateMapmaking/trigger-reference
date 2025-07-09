@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Random Player",
+    "grammar_text":  "Random player from {group}",
+    "id":  "PlayerGroup_GetRandomPlayer",
+    "script_id":  "random",
+    "type":  "Function"
+}

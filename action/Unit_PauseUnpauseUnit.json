@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Pause/Unpause Unit",
+    "grammar_text":  "{state} {unit}",
+    "id":  "Unit_PauseUnpauseUnit",
+    "script_id":  "set_paused",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Stop Current Transmission",
+    "grammar_text":  "Stop the current transmission in the {player}",
+    "id":  "Transmission_Stop",
+    "script_id":  "stop",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Source",
+    "grammar_text":  "Effect source of {effect_parent}",
+    "id":  "Effect_GetSource",
+    "script_id":  "Shim::Effect::get_source",
+    "type":  "Function"
+}

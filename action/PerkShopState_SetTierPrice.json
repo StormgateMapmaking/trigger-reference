@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Set Tier Price",
+    "grammar_text":  "Set price of perk shop state {state} tier {tier} to {price}.",
+    "id":  "PerkShopState_SetTierPrice",
+    "script_id":  "set_tier_price",
+    "type":  "Action"
+}

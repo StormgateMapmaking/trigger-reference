@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Revealer - Create Revealer",
+    "grammar_text":  "Create a revealer for player {player} at {position} with a vision radius of {vision_radius} and a lifetime of {lifetime} seconds",
+    "id":  "Revealer_CreateRevealer",
+    "script_id":  "Shim::Revealer::create_revealer",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Vector With Offset",
+    "grammar_text":  "{position} offset by {offset}",
+    "id":  "Vector_GetVectorWithOffset",
+    "script_id":  "Shim::Vector::get_vector_with_offset",
+    "type":  "Function"
+}

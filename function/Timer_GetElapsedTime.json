@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Elapsed Time",
+    "grammar_text":  "{timer} elapsed time",
+    "id":  "Timer_GetElapsedTime",
+    "script_id":  "get_time_elapsed",
+    "type":  "Function"
+}

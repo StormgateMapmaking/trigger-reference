@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Make Consumable",
+    "grammar_text":  "Make {item} {state}",
+    "id":  "Item_SetIsConsumable",
+    "script_id":  "set_is_consumable",
+    "type":  "Action"
+}

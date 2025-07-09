@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Owning Player",
+    "grammar_text":  "Owner of {unit}",
+    "id":  "Unit_GetOwningPlayer",
+    "script_id":  "get_owning_player_slot",
+    "type":  "Function"
+}

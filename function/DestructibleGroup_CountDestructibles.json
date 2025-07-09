@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Count Destructibles",
+    "grammar_text":  "Number of destructibles in {group}",
+    "id":  "DestructibleGroup_CountDestructibles",
+    "script_id":  "size",
+    "type":  "Function"
+}

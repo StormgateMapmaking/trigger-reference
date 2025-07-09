@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - New Sound Emitter",
+    "grammar_text":  "Spawn sound emitter {archetype} at {location} facing {facing}",
+    "id":  "SoundEmitter_CreateSoundEmitter",
+    "script_id":  "Shim::SoundEmitter::create",
+    "type":  "Action"
+}

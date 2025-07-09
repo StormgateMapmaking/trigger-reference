@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Trigger",
+    "grammar_text":  "Triggering trigger",
+    "id":  "Trigger_GetTriggeringTrigger",
+    "script_id":  "Triggers::Trigger::get_triggering_trigger_archetype",
+    "type":  "Function"
+}

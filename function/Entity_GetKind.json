@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Kind",
+    "grammar_text":  "Kind of {entity}",
+    "id":  "Entity_GetKind",
+    "script_id":  "get_kind",
+    "type":  "Function"
+}

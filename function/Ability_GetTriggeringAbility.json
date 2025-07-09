@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Ability",
+    "grammar_text":  "Triggering ability",
+    "id":  "Ability_GetTriggeringAbility",
+    "script_id":  "Events::EventData::get_triggering_ability",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - For Each Region In Group",
+    "grammar_text":  "For each unit in {group} do (Actions)",
+    "id":  "RegionGroup_ForEachRegionInGroup",
+    "script_id":  "",
+    "type":  "Action"
+}

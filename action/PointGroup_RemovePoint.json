@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Remove Point",
+    "grammar_text":  "Remove {point} from {group}",
+    "id":  "PointGroup_RemovePoint",
+    "script_id":  "remove",
+    "type":  "Action"
+}

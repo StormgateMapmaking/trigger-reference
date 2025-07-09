@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Region",
+    "grammar_text":  "Triggering Region",
+    "id":  "Region_GetTriggeringRegion",
+    "script_id":  "Events::EventData::get_triggering_region",
+    "type":  "Function"
+}

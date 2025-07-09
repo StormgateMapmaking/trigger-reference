@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Play Animation",
+    "grammar_text":  "Play {animation} for {unit} for {players}",
+    "id":  "Unit_PlayAnimation",
+    "script_id":  "play_animation",
+    "type":  "Action"
+}

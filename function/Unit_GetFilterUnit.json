@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Filter Unit",
+    "grammar_text":  "Filter unit",
+    "id":  "Unit_GetFilterUnit",
+    "script_id":  "Events::EventData::get_filter_unit",
+    "type":  "Function"
+}

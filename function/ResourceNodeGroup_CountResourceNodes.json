@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Count Resource Nodes",
+    "grammar_text":  "Number of resourcenodes in {group}",
+    "id":  "ResourceNodeGroup_CountResourceNodes",
+    "script_id":  "size",
+    "type":  "Function"
+}

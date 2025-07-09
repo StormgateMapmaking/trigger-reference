@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Resource Nodes Of Type",
+    "grammar_text":  "Resource nodes owned by player {player} of type {resource_type}",
+    "id":  "ResourceNodeGroup_GetResourceNodesOfType",
+    "script_id":  "Shim::ResourceNodeGroup::get_resource_nodes_of_type",
+    "type":  "Function"
+}

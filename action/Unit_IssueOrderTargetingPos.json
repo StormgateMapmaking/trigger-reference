@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Issue Order (Targeting Position)",
+    "grammar_text":  "Issue {order} with index {order_index} to {unit} targeting {target_pos} {queue_order}",
+    "id":  "Unit_IssueOrderTargetingPos",
+    "script_id":  "issue_order_targeting_pos",
+    "type":  "Action"
+}

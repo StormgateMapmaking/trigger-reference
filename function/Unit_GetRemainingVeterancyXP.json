@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Remaining Veterancy XP",
+    "grammar_text":  "Remaining veterancy xp of {unit}",
+    "id":  "Unit_GetRemainingVeterancyXP",
+    "script_id":  "get_remaining_veterancy_xp",
+    "type":  "Function"
+}

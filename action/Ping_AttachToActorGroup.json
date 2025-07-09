@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Attach to Actor Group",
+    "grammar_text":  "Attach {ping} to {actor_group}",
+    "id":  "Ping_AttachToActorGroup",
+    "script_id":  "attach_to_group",
+    "type":  "Action"
+}

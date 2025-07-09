@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Send Wave",
+    "grammar_text":  "Order {wave} to follow its waypoints after a {delay} second delay",
+    "id":  "Wave_Send",
+    "script_id":  "send",
+    "type":  "Action"
+}

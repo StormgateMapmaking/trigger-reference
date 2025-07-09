@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Entity Of Triggering Ability",
+    "grammar_text":  "Target entity of triggering ability",
+    "id":  "Ability_GetTargetEntityOfTriggeringAbility",
+    "script_id":  "Events::EventData::get_target_of_ability_being_used",
+    "type":  "Function"
+}

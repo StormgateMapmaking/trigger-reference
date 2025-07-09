@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Actor Of Triggering Ability",
+    "grammar_text":  "Target actor of triggering ability",
+    "id":  "Ability_GetTargetActorOfTriggeringAbility",
+    "script_id":  "Events::EventData::get_target_actor_of_ability_being_used",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Revealer - Attach to Actor",
+    "grammar_text":  "Attach {revealer} to {actor}",
+    "id":  "Revealer_Attach",
+    "script_id":  "attach",
+    "type":  "Action"
+}

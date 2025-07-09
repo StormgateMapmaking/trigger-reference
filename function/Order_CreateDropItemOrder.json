@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Drop Item Order",
+    "grammar_text":  "Drop {item} at {target}",
+    "id":  "Order_CreateDropItemOrder",
+    "script_id":  "DropItemOrder::create",
+    "type":  "Function"
+}

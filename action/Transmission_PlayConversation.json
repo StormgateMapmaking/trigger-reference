@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Play Conversation",
+    "grammar_text":  "Play {conversation} in the {player}",
+    "id":  "Transmission_PlayConversation",
+    "script_id":  "play",
+    "type":  "Action"
+}

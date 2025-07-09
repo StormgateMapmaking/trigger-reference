@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Shape",
+    "grammar_text":  "Set attenuation shape of {sound_emitter} to {attenuation_shape}",
+    "id":  "SoundEmitter_SetAttenuationShape",
+    "script_id":  "set_attenuation_shape",
+    "type":  "Action"
+}

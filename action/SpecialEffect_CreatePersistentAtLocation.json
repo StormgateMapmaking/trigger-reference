@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Special Effect - Create Persistent at Location",
+    "grammar_text":  "Create {effect} as a persistent special effect from {source} at {location} visible for players {player_group}",
+    "id":  "SpecialEffect_CreatePersistentAtLocation",
+    "script_id":  "SpecialEffect::create_persistent",
+    "type":  "Action"
+}

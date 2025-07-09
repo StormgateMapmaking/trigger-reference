@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Copy Of Unit Group",
+    "grammar_text":  "Copy of {unit_group}",
+    "id":  "UnitGroup_CopyOfUnitGroup",
+    "script_id":  "Shim::UnitGroup::get_copy_of_unit_group",
+    "type":  "Function"
+}

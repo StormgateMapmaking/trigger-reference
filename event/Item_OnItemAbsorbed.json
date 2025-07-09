@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Item Stacks Absorbed",
+    "grammar_text":  "{absorbed_item|Any Item} is absorbed by {absorbing_item|Any Item}",
+    "id":  "Item_OnItemAbsorbed",
+    "script_id":  "Events::ItemAbsorbedEvent::create",
+    "type":  "Event"
+}

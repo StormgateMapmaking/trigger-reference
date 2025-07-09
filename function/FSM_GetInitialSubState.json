@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Initial Sub State",
+    "grammar_text":  "Initial sub state of {state_machine}",
+    "id":  "FSM_GetInitialSubState",
+    "script_id":  "get_initial_sub_state",
+    "type":  "Function"
+}

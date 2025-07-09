@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Continue",
+    "grammar_text":  "Continue",
+    "id":  "General_Continue",
+    "script_id":  "Continue",
+    "type":  "Action"
+}

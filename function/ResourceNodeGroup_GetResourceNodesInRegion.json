@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Resource Nodes In Region",
+    "grammar_text":  "Resource Nodes in {region}",
+    "id":  "ResourceNodeGroup_GetResourceNodesInRegion",
+    "script_id":  "Shim::ResourceNodeGroup::get_resource_nodes_in_region",
+    "type":  "Function"
+}

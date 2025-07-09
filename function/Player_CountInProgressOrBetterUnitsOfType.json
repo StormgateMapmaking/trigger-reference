@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Count In Progress Or Better Units Of Type",
+    "grammar_text":  "Count {unit_type} in progress or better by {player}",
+    "id":  "Player_CountInProgressOrBetterUnitsOfType",
+    "script_id":  "Shim::Player::count_in_progress_or_better_units_of_type",
+    "type":  "Function"
+}

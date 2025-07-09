@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Creep Camp - Camp Defeated",
+    "grammar_text":  "Player {player} defeated camp {creepcamp}",
+    "id":  "CreepCamp_OnCampDefeated",
+    "script_id":  "",
+    "type":  "Event"
+}

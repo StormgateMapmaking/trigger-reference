@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Target Player",
+    "grammar_text":  "Target player of effect {effect_parent}",
+    "id":  "Effect_GetTargetPlayer",
+    "script_id":  "Shim::Effect::get_target_player_slot",
+    "type":  "Function"
+}

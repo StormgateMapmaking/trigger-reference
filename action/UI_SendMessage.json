@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Send UI Message to Players",
+    "grammar_text":  "Send UI Message to {players} containing Command: {command} and Data: {data}",
+    "id":  "UI_SendMessage",
+    "script_id":  "Shim::UI::send_ui_message",
+    "type":  "Action"
+}

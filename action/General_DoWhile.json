@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Do-While Loop",
+    "grammar_text":  "Do (Actions) while (Conditions) are true",
+    "id":  "General_DoWhile",
+    "script_id":  "",
+    "type":  "Action"
+}

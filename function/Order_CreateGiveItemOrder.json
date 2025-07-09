@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Give Item Order",
+    "grammar_text":  "Give {item} to {target_actor}",
+    "id":  "Order_CreateGiveItemOrder",
+    "script_id":  "DropItemOrder::create",
+    "type":  "Function"
+}

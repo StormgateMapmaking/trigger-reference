@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Music - Music Sound Emitter",
+    "grammar_text":  "Music Sound Emitter",
+    "id":  "Music_GetMusicSoundEmitter",
+    "script_id":  "SoundEmitter::get_or_create_music_sound_emitter",
+    "type":  "Function"
+}

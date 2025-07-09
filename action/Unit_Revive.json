@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Revive",
+    "grammar_text":  "Revive {unit}",
+    "id":  "Unit_Revive",
+    "script_id":  "revive",
+    "type":  "Action"
+}

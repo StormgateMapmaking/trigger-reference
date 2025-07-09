@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Selected",
+    "grammar_text":  "{unit|Any Unit} owned by player {player|Any Player} is {state|Selected/Deselected}",
+    "id":  "Unit_OnSelected",
+    "script_id":  "",
+    "type":  "Event"
+}

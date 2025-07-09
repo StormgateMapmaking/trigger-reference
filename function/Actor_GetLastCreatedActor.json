@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Last Created Actor",
+    "grammar_text":  "Last created actor",
+    "id":  "Actor_GetLastCreatedActor",
+    "script_id":  "Triggers::Shim::Actor::get_last_created_actor",
+    "type":  "Function"
+}

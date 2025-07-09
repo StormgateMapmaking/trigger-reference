@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Number of Stacks",
+    "grammar_text":  "Number of stacks of {item}",
+    "id":  "Item_GetStacks",
+    "script_id":  "get_stacks",
+    "type":  "Function"
+}

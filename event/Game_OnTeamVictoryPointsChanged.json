@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Team Victory Points Changed",
+    "grammar_text":  "Team {team|Any Team} victory points changed",
+    "id":  "Game_OnTeamVictoryPointsChanged",
+    "script_id":  "",
+    "type":  "Event"
+}

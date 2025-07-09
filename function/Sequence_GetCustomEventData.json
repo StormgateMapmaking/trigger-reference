@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Sequence Custom Event Data",
+    "grammar_text":  "Sequence Custom Event Data",
+    "id":  "Sequence_GetCustomEventData",
+    "script_id":  "Events::EventData::get_sequence_custom_event_data",
+    "type":  "Function"
+}

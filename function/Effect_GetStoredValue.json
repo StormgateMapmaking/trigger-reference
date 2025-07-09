@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Stored Value",
+    "grammar_text":  "Value of {key} of {effect_parent}",
+    "id":  "Effect_GetStoredValue",
+    "script_id":  "Shim::Effect::get_stored_value",
+    "type":  "Function"
+}

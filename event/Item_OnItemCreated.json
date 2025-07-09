@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Item Created",
+    "grammar_text":  "{item|Any Item} is created",
+    "id":  "Item_OnItemCreated",
+    "script_id":  "Events::ItemCreatedEvent::create",
+    "type":  "Event"
+}

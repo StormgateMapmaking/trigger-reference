@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Power Consumed",
+    "grammar_text":  "Get power currently consumed by player\u0027s units.",
+    "id":  "Player_GetPowerConsumed",
+    "script_id":  "PlayerTask::get_power_consumed",
+    "type":  "Function"
+}

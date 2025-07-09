@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Capsule Radius",
+    "grammar_text":  "Set capsule radius of {sound_emitter} to {radius}",
+    "id":  "SoundEmitter_SetCapsuleRadius",
+    "script_id":  "set_capsule_radius",
+    "type":  "Action"
+}

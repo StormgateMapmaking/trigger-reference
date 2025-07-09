@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Interaction Direction",
+    "grammar_text":  "Interaction direction of {interactable}",
+    "id":  "Interactable_GetInteractionDirection",
+    "script_id":  "",
+    "type":  "Function"
+}

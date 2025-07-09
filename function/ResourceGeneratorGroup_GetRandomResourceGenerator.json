@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Random Resource Generator",
+    "grammar_text":  "Random Resource Generator from {group}",
+    "id":  "ResourceGeneratorGroup_GetRandomResourceGenerator",
+    "script_id":  "random",
+    "type":  "Function"
+}

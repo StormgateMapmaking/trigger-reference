@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Use Item Order With No Target",
+    "grammar_text":  "Use {item}",
+    "id":  "Order_CreateUseItemOrderWithNoTarget",
+    "script_id":  "UseItemOrder::create",
+    "type":  "Function"
+}

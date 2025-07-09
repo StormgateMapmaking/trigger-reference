@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Position Of Issued Order",
+    "grammar_text":  "Target position of issued order",
+    "id":  "Order_GetTargetPositionOfIssuedOrder",
+    "script_id":  "Events::EventData::get_target_point_of_issued_order",
+    "type":  "Function"
+}

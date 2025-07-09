@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Unit Veterancy Tiers Gained or Lost",
+    "grammar_text":  "Unit Veterancy Tiers Gained or Lost",
+    "id":  "Unit_GetUnitTiersGainedOrLost",
+    "script_id":  "Events::EventData::get_unit_tiers_gained_or_lost",
+    "type":  "Function"
+}

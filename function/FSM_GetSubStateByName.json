@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Get Sub State by Name",
+    "grammar_text":  "Sub state of {state_machine} named {name}",
+    "id":  "FSM_GetSubStateByName",
+    "script_id":  "get_sub_state_by_name",
+    "type":  "Function"
+}

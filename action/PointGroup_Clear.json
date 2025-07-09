@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "PointGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

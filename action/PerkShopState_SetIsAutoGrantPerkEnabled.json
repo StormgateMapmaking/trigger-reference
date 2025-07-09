@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Set Is Auto Grant Perk Enabled",
+    "grammar_text":  "Set that perk shop state {state} automatically grants selected perks to {enabled}",
+    "id":  "PerkShopState_SetIsAutoGrantPerkEnabled",
+    "script_id":  "set_is_auto_grant_perk_enabled",
+    "type":  "Action"
+}

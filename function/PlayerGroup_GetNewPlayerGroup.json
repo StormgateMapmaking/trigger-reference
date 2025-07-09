@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Empty Player Group",
+    "grammar_text":  "Empty player group",
+    "id":  "PlayerGroup_GetNewPlayerGroup",
+    "script_id":  "Shim::PlayerGroup::create",
+    "type":  "Function"
+}

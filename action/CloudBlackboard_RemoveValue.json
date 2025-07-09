@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Remove Value",
+    "grammar_text":  "Remove value of {key} from cloud blackboard for player {player}",
+    "id":  "CloudBlackboard_RemoveValue",
+    "script_id":  "Shim::CloudBlackboard::remove_key",
+    "type":  "Action"
+}

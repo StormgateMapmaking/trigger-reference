@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Model",
+    "grammar_text":  "Set attenuation model of {sound_emitter} to {attenuation_model}",
+    "id":  "SoundEmitter_SetAttenuationModel",
+    "script_id":  "set_attenuation_model",
+    "type":  "Action"
+}

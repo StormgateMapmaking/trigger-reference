@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Send Chat Message to Player Group",
+    "grammar_text":  "Send the chat message {message} to {group}",
+    "id":  "UI_SendChatMessage",
+    "script_id":  "Triggers::Shim::UI::send_system_chat_message",
+    "type":  "Action"
+}

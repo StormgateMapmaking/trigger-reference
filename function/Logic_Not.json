@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Logic - Not",
+    "grammar_text":  "Not {value}",
+    "id":  "Logic_Not",
+    "script_id":  "",
+    "type":  "Function"
+}

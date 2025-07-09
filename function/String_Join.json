@@ -1,0 +1,7 @@
+﻿{
+    "name":  "String - Join",
+    "grammar_text":  "Join {strings} separated by {separator}",
+    "id":  "String_Join",
+    "script_id":  "String::join",
+    "type":  "Function"
+}

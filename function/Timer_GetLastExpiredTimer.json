@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Last Expired Timer",
+    "grammar_text":  "Last expired timer",
+    "id":  "Timer_GetLastExpiredTimer",
+    "script_id":  "Timer::get_last_expired_timer",
+    "type":  "Function"
+}

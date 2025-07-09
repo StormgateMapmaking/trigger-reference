@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Random Camera Shake Source",
+    "grammar_text":  "Random Camera Shake Source from {group}",
+    "id":  "CameraShakeSourceGroup_GetRandomCameraShakeSource",
+    "script_id":  "random",
+    "type":  "Function"
+}

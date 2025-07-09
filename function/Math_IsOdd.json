@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Is Odd",
+    "grammar_text":  "{value} is odd",
+    "id":  "Math_IsOdd",
+    "script_id":  "is_odd",
+    "type":  "Function"
+}

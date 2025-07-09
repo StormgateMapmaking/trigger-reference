@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Starts/Stops Playing",
+    "grammar_text":  "{sequence} in {sequence_player} {state} playing for player {player}",
+    "id":  "Sequence_OnSequencePlaybackChanged",
+    "script_id":  "Events::SequencePlaybackChanged::create",
+    "type":  "Event"
+}

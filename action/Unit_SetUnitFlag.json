@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Unit Flag",
+    "grammar_text":  "Make {unit} {flag}",
+    "id":  "Unit_SetUnitFlag",
+    "script_id":  "set_flag",
+    "type":  "Action"
+}

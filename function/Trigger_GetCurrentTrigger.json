@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Current Trigger",
+    "grammar_text":  "Current trigger",
+    "id":  "Trigger_GetCurrentTrigger",
+    "script_id":  "Triggers::Trigger::get_current_trigger_archetype",
+    "type":  "Function"
+}

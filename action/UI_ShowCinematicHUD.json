@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Show Cinematic HUD",
+    "grammar_text":  "{show} the Cinematic HUD for {players}",
+    "id":  "UI_ShowCinematicHUD",
+    "script_id":  "Shim::UI::show_cinematic_hud",
+    "type":  "Action"
+}

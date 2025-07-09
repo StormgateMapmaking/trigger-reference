@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Random Region",
+    "grammar_text":  "Random Region from {group}",
+    "id":  "RegionGroup_GetRandomRegion",
+    "script_id":  "random",
+    "type":  "Function"
+}

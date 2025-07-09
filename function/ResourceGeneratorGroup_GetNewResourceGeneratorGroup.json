@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Empty Resource Generator Group",
+    "grammar_text":  "Empty Resource Generator Group",
+    "id":  "ResourceGeneratorGroup_GetNewResourceGeneratorGroup",
+    "script_id":  "Shim::ResourceGeneratorGroup::create",
+    "type":  "Function"
+}

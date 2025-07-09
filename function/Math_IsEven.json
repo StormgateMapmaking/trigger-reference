@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Is Even",
+    "grammar_text":  "{value} is even",
+    "id":  "Math_IsEven",
+    "script_id":  "is_even",
+    "type":  "Function"
+}

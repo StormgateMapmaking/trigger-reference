@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Currently Selected Units",
+    "grammar_text":  "Units selected by player {player}",
+    "id":  "Player_CurrentlySelectedUnits",
+    "script_id":  "PlayerTask::get_current_selection",
+    "type":  "Function"
+}

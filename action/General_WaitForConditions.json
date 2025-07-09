@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Wait For Conditions (Multiple)",
+    "grammar_text":  "Wait for {op} (Conditions) to become true, checking every {interval} seconds",
+    "id":  "General_WaitForConditions",
+    "script_id":  "",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Set Actor Position",
+    "grammar_text":  "Set position of {actor} to {pos}",
+    "id":  "Actor_SetPosition",
+    "script_id":  "set_position",
+    "type":  "Action"
+}

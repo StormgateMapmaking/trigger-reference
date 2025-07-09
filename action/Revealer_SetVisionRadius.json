@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Revealer - Set Vision Radius",
+    "grammar_text":  "Set {revealer} vision radius to {vision_radius}",
+    "id":  "Revealer_SetVisionRadius",
+    "script_id":  "set_vision_radius",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Targeting Event Ability Command",
+    "grammar_text":  "Ability command of targeting event",
+    "id":  "Targeting_GetTargetingAbilityCommand",
+    "script_id":  "Events::EventData::get_targeting_ability_command",
+    "type":  "Function"
+}

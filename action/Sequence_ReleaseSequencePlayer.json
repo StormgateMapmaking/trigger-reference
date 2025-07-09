@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Release Sequence Player",
+    "grammar_text":  "Release {sequence_player}",
+    "id":  "Sequence_ReleaseSequencePlayer",
+    "script_id":  "release",
+    "type":  "Action"
+}

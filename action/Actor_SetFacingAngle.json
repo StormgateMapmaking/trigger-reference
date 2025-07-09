@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Set Facing Angle",
+    "grammar_text":  "Set the facing angle of {actor} to {angle}",
+    "id":  "Actor_SetFacingAngle",
+    "script_id":  "set_facing_angle",
+    "type":  "Action"
+}

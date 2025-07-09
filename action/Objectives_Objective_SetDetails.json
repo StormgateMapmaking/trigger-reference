@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - Set Objective Details",
+    "grammar_text":  "For objective {objective}, set details to {details}",
+    "id":  "Objectives_Objective_SetDetails",
+    "script_id":  "Shim::Objectives::set_objective_details",
+    "type":  "Action"
+}

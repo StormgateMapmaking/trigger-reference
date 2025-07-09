@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Type of Unit",
+    "grammar_text":  "Type of {unit}",
+    "id":  "Unit_GetType",
+    "script_id":  "Shim::Unit::get_data",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Has Footprint",
+    "grammar_text":  "{entity} has a footprint",
+    "id":  "Entity_HasFootprint",
+    "script_id":  "entity_data_has_footprint",
+    "type":  "Function"
+}

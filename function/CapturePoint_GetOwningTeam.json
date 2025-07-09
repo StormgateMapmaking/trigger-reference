@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Capture Point - Owning Team",
+    "grammar_text":  "Owning Team of {capturepoint}",
+    "id":  "CapturePoint_GetOwningTeam",
+    "script_id":  "get_fully_owning_team",
+    "type":  "Function"
+}

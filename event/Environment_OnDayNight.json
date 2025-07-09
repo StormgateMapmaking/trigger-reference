@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Day/Night",
+    "grammar_text":  "Time of day becomes {day_night}",
+    "id":  "Environment_OnDayNight",
+    "script_id":  "",
+    "type":  "Event"
+}

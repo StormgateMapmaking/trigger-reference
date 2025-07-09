@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Copy Of Item Group",
+    "grammar_text":  "Copy of {group}",
+    "id":  "ItemGroup_CopyOfItemGroup",
+    "script_id":  "Shim::ItemGroup::get_copy_of_item_group",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Set Power Consumed",
+    "grammar_text":  "Set power currently consumed by player\u0027s units.",
+    "id":  "Player_SetPowerConsumed",
+    "script_id":  "PlayerTask::set_power_consumed",
+    "type":  "Action"
+}

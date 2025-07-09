@@ -1,0 +1,7 @@
+﻿{
+    "name":  "TechTree - Add / Remove Upgrade from Tech Tree for Player",
+    "grammar_text":  "{state|Add/Remove} the upgrade {upgrade_data} from the tech tree for player {player}",
+    "id":  "TechTree_SetUpgradeAllowed",
+    "script_id":  "Shim::TechTree::set_tech_allowed",
+    "type":  "Action"
+}

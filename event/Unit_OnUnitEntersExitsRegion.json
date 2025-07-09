@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Enters/Exits Region",
+    "grammar_text":  "{unit|Any Unit} {state|Enters/Exits} {region}",
+    "id":  "Unit_OnUnitEntersExitsRegion",
+    "script_id":  "",
+    "type":  "Event"
+}

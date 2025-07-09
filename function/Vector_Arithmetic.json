@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Arithmetic",
+    "grammar_text":  "{vector1} {op} {vector2}",
+    "id":  "Vector_Arithmetic",
+    "script_id":  "",
+    "type":  "Function"
+}

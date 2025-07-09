@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Health",
+    "grammar_text":  "Health of {unit}",
+    "id":  "Unit_GetHealth",
+    "script_id":  "get_health",
+    "type":  "Function"
+}

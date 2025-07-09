@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Chat Message",
+    "grammar_text":  "Triggering chat message",
+    "id":  "Player_GetTriggeringChatMessage",
+    "script_id":  "Events::EventData::get_triggering_chat_message",
+    "type":  "Function"
+}

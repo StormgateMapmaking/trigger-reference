@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Create State Machine",
+    "grammar_text":  "Create {state_machine} named {name}",
+    "id":  "FSM_CreateStateMachine",
+    "script_id":  "Shim::FSM::create_state_machine",
+    "type":  "Action"
+}

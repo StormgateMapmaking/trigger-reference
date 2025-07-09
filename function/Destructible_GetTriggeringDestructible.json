@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Destructible",
+    "grammar_text":  "Triggering Destructible",
+    "id":  "Destructible_GetTriggeringDestructible",
+    "script_id":  "Events::EventData::get_triggering_destructible",
+    "type":  "Function"
+}

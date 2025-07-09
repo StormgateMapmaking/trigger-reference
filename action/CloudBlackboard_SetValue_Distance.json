@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Set Value (Distance)",
+    "grammar_text":  "Set {value} as {key} in cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_SetValue_Distance",
+    "script_id":  "Shim::CloudBlackboard::set_value_as\u003cDistance\u003e",
+    "type":  "Action"
+}

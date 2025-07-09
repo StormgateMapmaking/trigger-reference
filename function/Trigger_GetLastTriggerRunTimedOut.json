@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Last Trigger Run Timed Out",
+    "grammar_text":  "Last trigger run timed out",
+    "id":  "Trigger_GetLastTriggerRunTimedOut",
+    "script_id":  "Triggers::Trigger::get_last_trigger_run_timed_out",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Resource Generator In Resource Generator Group",
+    "grammar_text":  "{resourcegenerator} is in {group}",
+    "id":  "ResourceGeneratorGroup_ContainsResourceGenerator",
+    "script_id":  "contains",
+    "type":  "Function"
+}

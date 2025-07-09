@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Empty Item Group",
+    "grammar_text":  "Empty Item Group",
+    "id":  "ItemGroup_GetNewItemGroup",
+    "script_id":  "Shim::ItemGroup::create",
+    "type":  "Function"
+}

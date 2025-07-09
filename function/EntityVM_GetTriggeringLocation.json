@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity VM Event - Triggering Location",
+    "grammar_text":  "Triggering Entity VM location",
+    "id":  "EntityVM_GetTriggeringLocation",
+    "script_id":  "Events::EventData::get_triggering_entity_vm_event_location",
+    "type":  "Function"
+}

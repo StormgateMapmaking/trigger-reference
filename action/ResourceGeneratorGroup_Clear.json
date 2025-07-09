@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "ResourceGeneratorGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

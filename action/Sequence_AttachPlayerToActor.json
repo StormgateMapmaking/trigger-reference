@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Attach Sequence Player to Actor",
+    "grammar_text":  "Attach {sequence_player} to {actor}",
+    "id":  "Sequence_AttachPlayerToActor",
+    "script_id":  "attach",
+    "type":  "Action"
+}

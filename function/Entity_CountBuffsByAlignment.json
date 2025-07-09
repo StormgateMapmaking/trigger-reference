@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Count Buffs By Alignment",
+    "grammar_text":  "Number of {alignment|Neutral} buffs on {entity}",
+    "id":  "Entity_CountBuffsByAlignment",
+    "script_id":  "Buffs::entity_get_enabled_buff_number_by_alignment",
+    "type":  "Function"
+}

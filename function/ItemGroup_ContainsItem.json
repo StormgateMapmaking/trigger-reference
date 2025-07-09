@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Item In Item Group",
+    "grammar_text":  "{item} is in {group}",
+    "id":  "ItemGroup_ContainsItem",
+    "script_id":  "contains",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Add Point",
+    "grammar_text":  "Add {point} to {group}",
+    "id":  "PointGroup_AddPoint",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

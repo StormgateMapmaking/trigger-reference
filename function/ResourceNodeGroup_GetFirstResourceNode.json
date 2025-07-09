@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - First Resource Node in Resource Node Group",
+    "grammar_text":  "First Resource Node of {group}",
+    "id":  "ResourceNodeGroup_GetFirstResourceNode",
+    "script_id":  "first",
+    "type":  "Function"
+}

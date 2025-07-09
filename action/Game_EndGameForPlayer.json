@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - End Game For Player",
+    "grammar_text":  "End game in {outcome|Victory} for player {player} and {kick|Kick/Don\u0027t Kick} the player",
+    "id":  "Game_EndGameForPlayer",
+    "script_id":  "Shim::Game::end_game_for_player",
+    "type":  "Action"
+}

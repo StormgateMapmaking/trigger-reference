@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Current Day",
+    "grammar_text":  "Current Day",
+    "id":  "Environment_GetCurrentDay",
+    "script_id":  "TimeOfDay::get_day",
+    "type":  "Function"
+}

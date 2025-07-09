@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "RegionGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

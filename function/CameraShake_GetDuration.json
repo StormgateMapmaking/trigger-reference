@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Duration",
+    "grammar_text":  "Get the duration of {camera_shake_source}",
+    "id":  "CameraShake_GetDuration",
+    "script_id":  "get_duration",
+    "type":  "Function"
+}

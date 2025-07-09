@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Lerp",
+    "grammar_text":  "Lerp from {start} to {end} by {t}",
+    "id":  "Vector_Lerp",
+    "script_id":  "Vec::lerp",
+    "type":  "Function"
+}

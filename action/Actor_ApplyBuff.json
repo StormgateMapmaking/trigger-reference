@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Apply Buff",
+    "grammar_text":  "Apply {stacks} stacks of {buff} to {target} from {source}",
+    "id":  "Actor_ApplyBuff",
+    "script_id":  "Buffs::apply_from_source",
+    "type":  "Action"
+}

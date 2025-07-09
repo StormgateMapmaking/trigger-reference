@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Get Value (Player)",
+    "grammar_text":  "Get value {key} from cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_GetValue_Player",
+    "script_id":  "Shim::CloudBlackboard::get_value_as\u003cint\u003e",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Evaluate Conditions",
+    "grammar_text":  "Evaluate {trigger} conditions",
+    "id":  "Trigger_EvaluateConditions",
+    "script_id":  "Triggers::Trigger::evaluate",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Input - Set Gameplay Input State",
+    "grammar_text":  "{state|Unlock/Lock} gameplay input for {player_group}",
+    "id":  "Input_SetGameplayInputState",
+    "script_id":  "Shim::Input::set_gameplay_input_state",
+    "type":  "Action"
+}

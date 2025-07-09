@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Create Unit(s)",
+    "grammar_text":  "Create {count|1} unit(s) of type {unit_data} for player {player} at {position} facing {facing|0} degrees.",
+    "id":  "Unit_CreateUnit",
+    "script_id":  "Shim::Unit::create_units",
+    "type":  "Action"
+}

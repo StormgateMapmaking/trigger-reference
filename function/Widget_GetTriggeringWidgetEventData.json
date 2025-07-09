@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Widget Event Data",
+    "grammar_text":  "Triggering widget event data",
+    "id":  "Widget_GetTriggeringWidgetEventData",
+    "script_id":  "Events::EventData::get_triggering_widget_event_data",
+    "type":  "Function"
+}

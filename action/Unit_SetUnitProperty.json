@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Unit Property",
+    "grammar_text":  "Set {property} of {unit} to {value}",
+    "id":  "Unit_SetUnitProperty",
+    "script_id":  "set_property",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Capture Point - Capture Point With Placed Name",
+    "grammar_text":  "Pre-placed capture point owned by player {player} named {name}",
+    "id":  "CapturePoint_GetCapturePointFromPlacedName",
+    "script_id":  "CapturePoint::find_by_placed_name",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Is Resource Generator of Type",
+    "grammar_text":  "Type of {entity} is {type}",
+    "id":  "Entity_IsResourceGeneratorOfType",
+    "script_id":  "Shim::ResourceGenerator::is_resource_generator_of_type",
+    "type":  "Function"
+}

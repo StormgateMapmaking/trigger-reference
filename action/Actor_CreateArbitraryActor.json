@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Create Actor",
+    "grammar_text":  "Create actor {unreal_actor} at {position} facing {facing|0} degrees.",
+    "id":  "Actor_CreateArbitraryActor",
+    "script_id":  "Triggers::Shim::Actor::create_arbitrary_actor",
+    "type":  "Action"
+}

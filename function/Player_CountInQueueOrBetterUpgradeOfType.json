@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Count In Queue Or Better Upgrade Of Type",
+    "grammar_text":  "Count {upgrade} in queue or better by {player}",
+    "id":  "Player_CountInQueueOrBetterUpgradeOfType",
+    "script_id":  "Shim::Player::count_in_queue_or_better_upgrade_of_type",
+    "type":  "Function"
+}

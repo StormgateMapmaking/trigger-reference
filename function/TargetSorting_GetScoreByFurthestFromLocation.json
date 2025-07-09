@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Target Sorting - Score By Furthest From Location",
+    "grammar_text":  "Score {sorted} by how far it is from {location}",
+    "id":  "TargetSorting_GetScoreByFurthestFromLocation",
+    "script_id":  "Shim::TargetSorting::score_by_furthest_from_location",
+    "type":  "Function"
+}

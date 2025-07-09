@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Get Tier Is Locked",
+    "grammar_text":  "Get locked state of perk shop state {state} tier {tier}.",
+    "id":  "PerkShopState_GetTierIsLocked",
+    "script_id":  "get_tier_is_locked",
+    "type":  "Function"
+}

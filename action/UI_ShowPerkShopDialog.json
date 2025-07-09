@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Show Perk Shop Dialog",
+    "grammar_text":  "Show the perk shop dialog {state} for player {player}.",
+    "id":  "UI_ShowPerkShopDialog",
+    "script_id":  "UI::PerkShopDialog::show",
+    "type":  "Action"
+}

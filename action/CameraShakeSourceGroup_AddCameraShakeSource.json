@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Add Camera Shake Source",
+    "grammar_text":  "Add {camerashakesource} to {group}",
+    "id":  "CameraShakeSourceGroup_AddCameraShakeSource",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

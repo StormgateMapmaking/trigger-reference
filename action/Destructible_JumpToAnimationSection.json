@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Jump to Animation Section",
+    "grammar_text":  "Jump to {section_name} in {animation} for {destructible}",
+    "id":  "Destructible_JumpToAnimationSection",
+    "script_id":  "jump_to_animation_section",
+    "type":  "Action"
+}

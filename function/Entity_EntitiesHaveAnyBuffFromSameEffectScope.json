@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Entities Have Any Buff from Same Effect Scope",
+    "grammar_text":  "{entity_a} and {entity_b} has {buff} from {source} in same effect scope",
+    "id":  "Entity_EntitiesHaveAnyBuffFromSameEffectScope",
+    "script_id":  "Buffs::entities_has_any_buff_from_same_effect_scope",
+    "type":  "Function"
+}

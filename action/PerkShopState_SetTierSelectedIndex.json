@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Set Tier Selected Index",
+    "grammar_text":  "Set the selected index of perk shop state {state} tier {tier} to {selected_index}.",
+    "id":  "PerkShopState_SetTierSelectedIndex",
+    "script_id":  "set_tier_selected_index",
+    "type":  "Action"
+}

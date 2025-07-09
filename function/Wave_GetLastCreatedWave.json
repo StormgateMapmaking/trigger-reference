@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Last Created Wave",
+    "grammar_text":  "Last created Wave",
+    "id":  "Wave_GetLastCreatedWave",
+    "script_id":  "Shim::Wave::get_last_created_wave",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Variable - Set Variable",
+    "grammar_text":  "{variable} = {value}",
+    "id":  "Variable_SetVariable",
+    "script_id":  "",
+    "type":  "Action"
+}

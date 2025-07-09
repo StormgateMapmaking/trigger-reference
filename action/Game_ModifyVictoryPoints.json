@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Modify Team Victory Points",
+    "grammar_text":  "Modify victory points for team {team} by {points}",
+    "id":  "Game_ModifyVictoryPoints",
+    "script_id":  "VictoryPointsManager::modify_victory_points",
+    "type":  "Action"
+}

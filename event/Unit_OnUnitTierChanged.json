@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Veterancy Tier Changed",
+    "grammar_text":  "{unit|Any Unit} {type} veterancy tiers",
+    "id":  "Unit_OnUnitTierChanged",
+    "script_id":  "Events::UnitTierChangedEvent::create",
+    "type":  "Event"
+}

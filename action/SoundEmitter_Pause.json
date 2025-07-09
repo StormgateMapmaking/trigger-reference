@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Pause",
+    "grammar_text":  "Pause {sound_emitter}",
+    "id":  "SoundEmitter_Pause",
+    "script_id":  "pause",
+    "type":  "Action"
+}

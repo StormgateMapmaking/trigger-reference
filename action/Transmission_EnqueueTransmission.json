@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Add Transmission to the Queue",
+    "grammar_text":  "Add {transmission} to the end of the {player} transmission queue",
+    "id":  "Transmission_EnqueueTransmission",
+    "script_id":  "enqueue",
+    "type":  "Action"
+}

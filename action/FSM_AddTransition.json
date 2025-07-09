@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Add Sub State Transition",
+    "grammar_text":  "Add transition to {state_machine} from {from} to {to} using signal {signal}",
+    "id":  "FSM_AddTransition",
+    "script_id":  "add_transition",
+    "type":  "Action"
+}

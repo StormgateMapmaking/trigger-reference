@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Unit In Unit Group",
+    "grammar_text":  "{unit} is in {group}",
+    "id":  "UnitGroup_ContainsUnit",
+    "script_id":  "contains",
+    "type":  "Function"
+}

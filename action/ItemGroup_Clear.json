@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Clear",
+    "grammar_text":  "Clear {group}",
+    "id":  "ItemGroup_Clear",
+    "script_id":  "clear",
+    "type":  "Action"
+}

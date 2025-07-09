@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Get Veterancy XP Given to Killer",
+    "grammar_text":  "Veterancy experience given to {killer} from killing {victim}",
+    "id":  "Unit_GetVeterancyXPGiven",
+    "script_id":  "get_veterancy_xp_given",
+    "type":  "Function"
+}

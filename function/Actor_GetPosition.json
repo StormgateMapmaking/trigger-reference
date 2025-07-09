@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Actor Position",
+    "grammar_text":  "Position of {actor}",
+    "id":  "Actor_GetPosition",
+    "script_id":  "get_position",
+    "type":  "Function"
+}

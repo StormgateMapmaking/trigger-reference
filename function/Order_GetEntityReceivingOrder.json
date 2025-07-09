@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Entity Receiving Order",
+    "grammar_text":  "Entity receiving order",
+    "id":  "Order_GetEntityReceivingOrder",
+    "script_id":  "Shim::Entity::get_entity_receiving_order",
+    "type":  "Function"
+}

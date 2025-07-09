@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Veterancy XP Limit",
+    "grammar_text":  "Veterancy xp limit of {unit}",
+    "id":  "Unit_GetVeterancyXPLimit",
+    "script_id":  "get_veterancy_xp_limit",
+    "type":  "Function"
+}

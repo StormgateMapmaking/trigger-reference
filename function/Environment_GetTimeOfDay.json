@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Time of Day",
+    "grammar_text":  "Time of Day",
+    "id":  "Environment_GetTimeOfDay",
+    "script_id":  "TimeOfDay::get_time_of_day",
+    "type":  "Function"
+}

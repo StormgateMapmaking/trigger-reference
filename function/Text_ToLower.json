@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Text - To Lowercase",
+    "grammar_text":  "{text} to lowercase",
+    "id":  "Text_ToLower",
+    "script_id":  "Text::to_lower",
+    "type":  "Function"
+}

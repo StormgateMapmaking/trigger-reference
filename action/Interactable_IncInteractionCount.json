@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Increment Interaction Count",
+    "grammar_text":  "Increment interaction count for {interactable} by {count}",
+    "id":  "Interactable_IncInteractionCount",
+    "script_id":  "",
+    "type":  "Action"
+}

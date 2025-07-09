@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Last Created Destructibles",
+    "grammar_text":  "Last created destructibles",
+    "id":  "DestructibleGroup_GetLastCreatedDestructibles",
+    "script_id":  "Shim::DestructibleGroup::get_last_created_units",
+    "type":  "Function"
+}

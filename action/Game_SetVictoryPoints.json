@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Set Team Victory Points",
+    "grammar_text":  "Set victory points for team {team} to {points}",
+    "id":  "Game_SetVictoryPoints",
+    "script_id":  "VictoryPointsManager::set_victory_points",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Max Veterancy XP",
+    "grammar_text":  "Max veterancy xp of {unit}",
+    "id":  "Unit_GetMaxVeterancyXP",
+    "script_id":  "get_max_veterancy_xp",
+    "type":  "Function"
+}

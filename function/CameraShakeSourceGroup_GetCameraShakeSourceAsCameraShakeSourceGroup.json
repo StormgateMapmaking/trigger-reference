@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Camera Shake Source As Camera Shake Source Group",
+    "grammar_text":  "{camerashakesource} as a Camera Shake Source Group",
+    "id":  "CameraShakeSourceGroup_GetCameraShakeSourceAsCameraShakeSourceGroup",
+    "script_id":  "Shim::CameraShakeSourceGroup::get_camera_shake_source_as_camera_shake_source_group",
+    "type":  "Function"
+}

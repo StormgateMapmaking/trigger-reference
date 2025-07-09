@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Current Index (For Each)",
+    "grammar_text":  "Current index (For Each)",
+    "id":  "ResourceNodeGroup_GetCurrentIndex",
+    "script_id":  "",
+    "type":  "Function"
+}

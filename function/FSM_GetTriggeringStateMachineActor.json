@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Triggering State Machine Actor",
+    "grammar_text":  "Triggering state machine actor",
+    "id":  "FSM_GetTriggeringStateMachineActor",
+    "script_id":  "Events::EventData::get_triggering_state_machine_actor",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Region In Region Group",
+    "grammar_text":  "{region} is in {group}",
+    "id":  "RegionGroup_ContainsRegion",
+    "script_id":  "contains",
+    "type":  "Function"
+}

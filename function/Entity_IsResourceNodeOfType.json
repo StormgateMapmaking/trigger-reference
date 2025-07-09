@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Is Resource Node of Type",
+    "grammar_text":  "Type of {entity} is {type}",
+    "id":  "Entity_IsResourceNodeOfType",
+    "script_id":  "Shim::ResourceNode::is_resource_node_of_type",
+    "type":  "Function"
+}

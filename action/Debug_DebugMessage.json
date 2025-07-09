@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Debug - Debug Message",
+    "grammar_text":  "Display {message} for {duration} seconds",
+    "id":  "Debug_DebugMessage",
+    "script_id":  "Shim::Debug::debug_message",
+    "type":  "Action"
+}

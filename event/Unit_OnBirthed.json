@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Created",
+    "grammar_text":  "{unit|Any Unit} is created",
+    "id":  "Unit_OnBirthed",
+    "script_id":  "",
+    "type":  "Event"
+}

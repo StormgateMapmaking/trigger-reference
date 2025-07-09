@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Dies",
+    "grammar_text":  "{unit|Any Unit} dies",
+    "id":  "Unit_OnKilled",
+    "script_id":  "",
+    "type":  "Event"
+}

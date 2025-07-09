@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Upgrade",
+    "grammar_text":  "Triggering upgrade",
+    "id":  "Unit_GetTriggeringUpgrade",
+    "script_id":  "Events::EventData::get_triggering_upgrade",
+    "type":  "Function"
+}

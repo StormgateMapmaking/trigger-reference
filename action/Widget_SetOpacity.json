@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Widget - Set Opacity",
+    "grammar_text":  "Set opacity of {widget} to {opacity}",
+    "id":  "Widget_SetOpacity",
+    "script_id":  "set_opacity",
+    "type":  "Action"
+}

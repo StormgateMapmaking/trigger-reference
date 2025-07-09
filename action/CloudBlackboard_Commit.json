@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Commit",
+    "grammar_text":  "Set commit status to {commit|Commit/Don\u0027t Commit} for cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_Commit",
+    "script_id":  "Shim::CloudBlackboard::commit",
+    "type":  "Action"
+}

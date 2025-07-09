@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Set Ability Command",
+    "grammar_text":  "Set the ability command of {order} to {ability_command}",
+    "id":  "Order_SetAbilityCommand",
+    "script_id":  "set_ability_command",
+    "type":  "Action"
+}

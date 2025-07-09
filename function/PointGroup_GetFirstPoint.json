@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - First Point in Point Group",
+    "grammar_text":  "First Point of {group}",
+    "id":  "PointGroup_GetFirstPoint",
+    "script_id":  "first",
+    "type":  "Function"
+}

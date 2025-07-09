@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Actor Is An Interactable",
+    "grammar_text":  "{actor} is an interactable",
+    "id":  "Interactable_IsInteractable",
+    "script_id":  "",
+    "type":  "Function"
+}

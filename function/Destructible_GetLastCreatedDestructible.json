@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Last Created Destructible",
+    "grammar_text":  "Last Created Destructible",
+    "id":  "Destructible_GetLastCreatedDestructible",
+    "script_id":  "Shim::Destructible::get_last_created_destructible",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - First Player in Player Group",
+    "grammar_text":  "First player of {group}",
+    "id":  "PlayerGroup_GetFirstPlayer",
+    "script_id":  "first",
+    "type":  "Function"
+}

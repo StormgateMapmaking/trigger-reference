@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Entity Of Issued Order",
+    "grammar_text":  "Target entity of issued order",
+    "id":  "Order_GetTargetEntityOfIssuedOrder",
+    "script_id":  "Events::EventData::get_target_entity_of_issued_order",
+    "type":  "Function"
+}

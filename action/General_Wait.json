@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Wait",
+    "grammar_text":  "Wait for {duration} seconds",
+    "id":  "General_Wait",
+    "script_id":  "TriggerInstance::wait",
+    "type":  "Action"
+}

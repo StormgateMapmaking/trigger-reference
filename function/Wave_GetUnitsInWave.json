@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Get Units In Wave",
+    "grammar_text":  "Units contained in {wave}",
+    "id":  "Wave_GetUnitsInWave",
+    "script_id":  "Shim::UnitGroup::get_units_in_wave",
+    "type":  "Function"
+}

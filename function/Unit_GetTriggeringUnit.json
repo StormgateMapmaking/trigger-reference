@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Unit",
+    "grammar_text":  "Triggering unit",
+    "id":  "Unit_GetTriggeringUnit",
+    "script_id":  "Events::EventData::get_triggering_unit",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Widget - Widget Event Received",
+    "grammar_text":  "Event {command} received from {widget} initiated by {player}",
+    "id":  "Widget_OnWidgetEvent",
+    "script_id":  "Events::WidgetEvent::create",
+    "type":  "Event"
+}

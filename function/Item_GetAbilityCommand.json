@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Ability Command",
+    "grammar_text":  "Ability command of {item}",
+    "id":  "Item_GetAbilityCommand",
+    "script_id":  "get_ability_command",
+    "type":  "Function"
+}

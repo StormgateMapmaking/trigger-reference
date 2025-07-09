@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Attribute Value",
+    "grammar_text":  "Value of attribute {attribute} for player {player}",
+    "id":  "Player_GetAttributeValue",
+    "script_id":  "Shim::Player::get_player_attribute_value",
+    "type":  "Function"
+}

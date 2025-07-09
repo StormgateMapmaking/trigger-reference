@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Release Banter Player",
+    "grammar_text":  "Release {player}",
+    "id":  "Transmission_ReleaseBanterPlayer",
+    "script_id":  "release",
+    "type":  "Action"
+}

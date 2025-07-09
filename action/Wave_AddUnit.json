@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Add Unit",
+    "grammar_text":  "Add {unit} to {Wave}",
+    "id":  "Wave_AddUnit",
+    "script_id":  "add",
+    "type":  "Action"
+}

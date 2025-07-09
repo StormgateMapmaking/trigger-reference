@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Count Dead Units",
+    "grammar_text":  "Number of dead units in {group}",
+    "id":  "UnitGroup_CountDeadUnits",
+    "script_id":  "count_dead_units",
+    "type":  "Function"
+}

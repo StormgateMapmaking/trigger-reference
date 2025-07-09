@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Pause/Resume Sequence",
+    "grammar_text":  "{pause} the playing sequence in the {sequence_player}",
+    "id":  "Sequence_PauseResumeSequence",
+    "script_id":  "set_paused",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Item Stacks Changed",
+    "grammar_text":  "{item|Any Item} {type} stacks",
+    "id":  "Item_OnItemStacksChanged",
+    "script_id":  "Events::ItemStacksChangedEvent::create",
+    "type":  "Event"
+}

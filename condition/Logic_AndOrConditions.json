@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Logic - And/Or (Conditions)",
+    "grammar_text":  "{op}",
+    "id":  "Logic_AndOrConditions",
+    "script_id":  "",
+    "type":  "Condition"
+}

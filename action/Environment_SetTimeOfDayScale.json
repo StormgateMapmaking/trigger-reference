@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Environment - Set Time of Day Scale",
+    "grammar_text":  "Set time of day scale to {scale}",
+    "id":  "Environment_SetTimeOfDayScale",
+    "script_id":  "TimeOfDay::set_scale",
+    "type":  "Action"
+}

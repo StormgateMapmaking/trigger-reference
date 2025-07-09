@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Set Score",
+    "grammar_text":  "Set {score} for player {player} to {value}",
+    "id":  "Player_SetScore",
+    "script_id":  "Shim::Player::set_score_value",
+    "type":  "Action"
+}

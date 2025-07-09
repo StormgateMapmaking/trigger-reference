@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Update Trigger",
+    "grammar_text":  "Update trigger of {state_machine}",
+    "id":  "FSM_GetUpdateTrigger",
+    "script_id":  "get_on_update",
+    "type":  "Function"
+}

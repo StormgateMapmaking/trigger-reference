@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Controller Is Human",
+    "grammar_text":  "Player {player} is controlled by a human",
+    "id":  "Player_IsHuman",
+    "script_id":  "::is_player_human",
+    "type":  "Function"
+}

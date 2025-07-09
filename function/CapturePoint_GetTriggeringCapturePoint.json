@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Capture Point",
+    "grammar_text":  "Triggering capture point",
+    "id":  "CapturePoint_GetTriggeringCapturePoint",
+    "script_id":  "Events::EventData::get_triggering_capture_point",
+    "type":  "Function"
+}

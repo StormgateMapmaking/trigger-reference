@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Resume Animation",
+    "grammar_text":  "Resume {animation} for {unit}",
+    "id":  "Unit_ResumeAnimation",
+    "script_id":  "resume_animation",
+    "type":  "Action"
+}

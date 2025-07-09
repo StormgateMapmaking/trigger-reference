@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Destructible In Range Of Position",
+    "grammar_text":  "Destructibles within {radius} of {position}",
+    "id":  "DestructibleGroup_GetDestructiblesInRangeOfPosition",
+    "script_id":  "Shim::DestructibleGroup::get_destructibles_in_range_of_position",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Default Camera",
+    "grammar_text":  "Default camera of player {player}",
+    "id":  "Player_GetDefaultCamera",
+    "script_id":  "",
+    "type":  "Function"
+}

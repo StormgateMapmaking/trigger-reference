@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Set Team Victory Point Range",
+    "grammar_text":  "Set the victory point range for team {team} to start at {start} and end at {end}",
+    "id":  "Game_SetVictoryPointsRange",
+    "script_id":  "VictoryPointsManager::set_victory_point_range",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UnitGroup - Remove Unit",
+    "grammar_text":  "Remove {unit} from {group}",
+    "id":  "UnitGroup_RemoveUnit",
+    "script_id":  "remove",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Starts/Stops Playing",
+    "grammar_text":  "Transmission {transmission} in the {transmission_player} {state} playing for player {player}",
+    "id":  "Transmission_OnPlaybackChanged",
+    "script_id":  "Events::TransmissionPlaybackChanged::create",
+    "type":  "Event"
+}

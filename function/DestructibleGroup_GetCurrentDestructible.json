@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Current Destructible (For Each)",
+    "grammar_text":  "Current Destructible",
+    "id":  "DestructibleGroup_GetCurrentDestructible",
+    "script_id":  "",
+    "type":  "Function"
+}

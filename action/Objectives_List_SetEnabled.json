@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - Set List Enabled",
+    "grammar_text":  "Set list {list} to {enabled}",
+    "id":  "Objectives_List_SetEnabled",
+    "script_id":  "Shim::Objectives::set_list_enabled",
+    "type":  "Action"
+}

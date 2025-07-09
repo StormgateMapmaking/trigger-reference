@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Order Targeting Actor",
+    "grammar_text":  "{ability_command} targeting {target}",
+    "id":  "Order_CreateOrderTargetingActor",
+    "script_id":  "Order::create",
+    "type":  "Function"
+}

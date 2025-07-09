@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Interaction Count",
+    "grammar_text":  "Number of times {interactable} has been interacted with",
+    "id":  "Interactable_GetInteractionCount",
+    "script_id":  "",
+    "type":  "Function"
+}

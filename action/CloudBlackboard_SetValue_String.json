@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Set Value (String)",
+    "grammar_text":  "Set {value} as {key} in cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_SetValue_String",
+    "script_id":  "Shim::CloudBlackboard::set_value_as\u003cString\u003e",
+    "type":  "Action"
+}

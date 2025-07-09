@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item Group - Random Item",
+    "grammar_text":  "Random Item from {group}",
+    "id":  "ItemGroup_GetRandomItem",
+    "script_id":  "random",
+    "type":  "Function"
+}

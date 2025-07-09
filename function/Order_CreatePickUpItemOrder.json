@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Pick Up Item Order",
+    "grammar_text":  "Pick up {item}",
+    "id":  "Order_CreatePickUpItemOrder",
+    "script_id":  "PickUpItemOrder::create",
+    "type":  "Function"
+}

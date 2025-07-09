@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit Group - Enemy Units of Player In Range Of Position ",
+    "grammar_text":  "Enemy Units of player {player} within {range} of {position}",
+    "id":  "UnitGroup_GetEnemyUnitsInRangeOfPosition",
+    "script_id":  "Shim::UnitGroup::get_enemy_units_in_range_of_position",
+    "type":  "Function"
+}

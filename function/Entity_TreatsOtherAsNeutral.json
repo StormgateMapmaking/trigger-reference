@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Entity Treats Other As Neutral",
+    "grammar_text":  "{entity} treats {other} as neutral",
+    "id":  "Entity_TreatsOtherAsNeutral",
+    "script_id":  "treats_as_neutral",
+    "type":  "Function"
+}

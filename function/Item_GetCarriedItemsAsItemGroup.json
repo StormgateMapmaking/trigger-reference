@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Items Carried",
+    "grammar_text":  "Items of {unit}",
+    "id":  "Item_GetCarriedItemsAsItemGroup",
+    "script_id":  "Shim::Item::get_inventory_as_item_group",
+    "type":  "Function"
+}

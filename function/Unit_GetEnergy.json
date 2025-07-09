@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Energy",
+    "grammar_text":  "Energy of {unit}",
+    "id":  "Unit_GetEnergy",
+    "script_id":  "get_energy",
+    "type":  "Function"
+}

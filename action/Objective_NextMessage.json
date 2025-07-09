@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objective - Next Message",
+    "grammar_text":  "Show the next objective message",
+    "id":  "Objective_NextMessage",
+    "script_id":  "next_screen_message",
+    "type":  "Action"
+}

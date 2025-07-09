@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Square Root (Integer)",
+    "grammar_text":  "Square root of {value}",
+    "id":  "Math_SquareRootInteger",
+    "script_id":  "sqrt",
+    "type":  "Function"
+}

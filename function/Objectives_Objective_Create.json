@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objectives - New Objective",
+    "grammar_text":  "Create Objective with text {text}, details {details}, state {state}, and visibility {visible} for players {player_group}",
+    "id":  "Objectives_Objective_Create",
+    "script_id":  "UI::Objective::create",
+    "type":  "Function"
+}

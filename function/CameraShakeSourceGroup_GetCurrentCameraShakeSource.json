@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Current Camera Shake Source (For Each)",
+    "grammar_text":  "Current Camera Shake Source",
+    "id":  "CameraShakeSourceGroup_GetCurrentCameraShakeSource",
+    "script_id":  "",
+    "type":  "Function"
+}

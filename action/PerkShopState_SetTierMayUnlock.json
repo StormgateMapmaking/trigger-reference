@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Set Tier May Unlock",
+    "grammar_text":  "Set may unlock state of perk shop state {state} tier {tier} to {is_locked}.",
+    "id":  "PerkShopState_SetTierMayUnlock",
+    "script_id":  "set_tier_may_unlock",
+    "type":  "Action"
+}

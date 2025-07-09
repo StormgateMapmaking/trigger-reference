@@ -1,0 +1,7 @@
+﻿{
+    "name":  "AI - Unit With Ability Thinks",
+    "grammar_text":  "{unit} with {ability} thinks",
+    "id":  "AI_OnUnitWithAbilityThink",
+    "script_id":  "",
+    "type":  "Event"
+}

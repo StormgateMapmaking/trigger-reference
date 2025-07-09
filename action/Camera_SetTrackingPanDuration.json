@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Set Camera Tracking Pan Duration",
+    "grammar_text":  "Set {camera} tracking pan duration to {duration} seconds.",
+    "id":  "Camera_SetTrackingPanDuration",
+    "script_id":  "set_tracking_pan_duration",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Special Effect - Destroy Persistent Special Effect",
+    "grammar_text":  "Destroy {effect}",
+    "id":  "SpecialEffect_DestroyPersistent",
+    "script_id":  "destroy",
+    "type":  "Action"
+}

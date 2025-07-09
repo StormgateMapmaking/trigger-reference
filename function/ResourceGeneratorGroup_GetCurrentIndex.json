@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Current Index (For Each)",
+    "grammar_text":  "Current index (For Each)",
+    "id":  "ResourceGeneratorGroup_GetCurrentIndex",
+    "script_id":  "",
+    "type":  "Function"
+}

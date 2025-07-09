@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Points With Placed Name",
+    "grammar_text":  "Pre-placed Points named {name}",
+    "id":  "PointGroup_GetPointsFromPlacedName",
+    "script_id":  "Shim::PointGroup::get_points_with_placed_name",
+    "type":  "Function"
+}

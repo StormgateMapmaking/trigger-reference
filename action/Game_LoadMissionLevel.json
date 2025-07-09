@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Stage Next Mission",
+    "grammar_text":  "End the current match and load mission {mission}.",
+    "id":  "Game_LoadMissionLevel",
+    "script_id":  "Shim::Game::stage_next_mission",
+    "type":  "Action"
+}

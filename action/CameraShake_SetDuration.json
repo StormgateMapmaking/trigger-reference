@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Set Duration",
+    "grammar_text":  "Set the duration of {camera_shake_source} to {duration}",
+    "id":  "CameraShake_SetDuration",
+    "script_id":  "set_duration",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Trigger Completed Execution",
+    "grammar_text":  "Trigger {trigger|Any Trigger} completes execution",
+    "id":  "Trigger_OnTriggerCompleted",
+    "script_id":  "",
+    "type":  "Event"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Team",
+    "grammar_text":  "Triggering team",
+    "id":  "Team_GetTriggeringTeam",
+    "script_id":  "Events::EventData::get_triggering_team",
+    "type":  "Function"
+}

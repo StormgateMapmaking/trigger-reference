@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Empty Camera Shake Source Group",
+    "grammar_text":  "Empty Camera Shake Source Group",
+    "id":  "CameraShakeSourceGroup_GetNewCameraShakeSourceGroup",
+    "script_id":  "Shim::CameraShakeSourceGroup::create",
+    "type":  "Function"
+}

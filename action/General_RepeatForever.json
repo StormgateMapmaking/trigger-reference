@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Repeat Forever",
+    "grammar_text":  "Repeat (Actions) Forever",
+    "id":  "General_RepeatForever",
+    "script_id":  "",
+    "type":  "Action"
+}

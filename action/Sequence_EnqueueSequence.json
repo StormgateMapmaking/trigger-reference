@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Add Sequence to Queue",
+    "grammar_text":  "Enqueue {sequence} to play in the {sequence_player}",
+    "id":  "Sequence_EnqueueSequence",
+    "script_id":  "enqueue",
+    "type":  "Action"
+}

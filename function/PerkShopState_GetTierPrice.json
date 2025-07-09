@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Get Tier Price",
+    "grammar_text":  "Get the price of perk shop state {state} tier {tier}.",
+    "id":  "PerkShopState_GetTierPrice",
+    "script_id":  "get_tier_price",
+    "type":  "Function"
+}

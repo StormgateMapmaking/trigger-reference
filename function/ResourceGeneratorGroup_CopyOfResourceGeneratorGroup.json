@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Copy Of Resource Generator Group",
+    "grammar_text":  "Copy of {group}",
+    "id":  "ResourceGeneratorGroup_CopyOfResourceGeneratorGroup",
+    "script_id":  "Shim::ResourceGeneratorGroup::get_copy_of_resource_generator_group",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Destroy Ping",
+    "grammar_text":  "Destroy {ping}",
+    "id":  "Ping_Destroy",
+    "script_id":  "release",
+    "type":  "Action"
+}

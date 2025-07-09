@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Vector - Rotate",
+    "grammar_text":  "Rotate {vec} by {angle}",
+    "id":  "Vector_Rotate",
+    "script_id":  "Vec::rotate",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Last Created Bot",
+    "grammar_text":  "Last created bot",
+    "id":  "Bot_GetLastCreatedBot",
+    "script_id":  "Shim::Bot::get_last_created_bot",
+    "type":  "Function"
+}

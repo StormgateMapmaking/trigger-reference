@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Set Player Build Speed",
+    "grammar_text":  "Set player {player} build speed to {speed}.",
+    "id":  "Player_SetBuildSpeed",
+    "script_id":  "Shim::Player::set_build_factor",
+    "type":  "Action"
+}

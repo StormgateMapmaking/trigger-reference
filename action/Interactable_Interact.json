@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Interact",
+    "grammar_text":  "Make {instigator} interact with {interactable}",
+    "id":  "Interactable_Interact",
+    "script_id":  "",
+    "type":  "Action"
+}

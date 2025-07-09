@@ -1,0 +1,7 @@
+﻿{
+    "name":  "TechTree - Add / Remove Unit from Tech Tree for Player",
+    "grammar_text":  "{state|Add/Remove} the unit {unit_data} from the tech tree for player {player}",
+    "id":  "TechTree_SetUnitAllowed",
+    "script_id":  "Shim::TechTree::set_tech_allowed",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Debug - Debug Message Tag Enabled/Disabled",
+    "grammar_text":  "Debug message tag {tag} is enabled",
+    "id":  "Debug_GetDebugMessageTagEnabled",
+    "script_id":  "Shim::Debug::get_debug_message_tag_enabled",
+    "type":  "Function"
+}

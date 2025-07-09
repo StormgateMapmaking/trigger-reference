@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Issued Order",
+    "grammar_text":  "Issued order",
+    "id":  "Order_GetIssuedOrder",
+    "script_id":  "Events::EventData::get_issued_order",
+    "type":  "Function"
+}

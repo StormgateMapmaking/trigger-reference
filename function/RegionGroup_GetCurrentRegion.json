@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Current Region (For Each)",
+    "grammar_text":  "Current Region",
+    "id":  "RegionGroup_GetCurrentRegion",
+    "script_id":  "",
+    "type":  "Function"
+}

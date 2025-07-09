@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Of Triggering Damage (Unit)",
+    "grammar_text":  "Target of triggering damage",
+    "id":  "Damage_GetTriggeringDamageTargetUnit",
+    "script_id":  "Shim::Damage::get_triggering_damage_target_unit",
+    "type":  "Function"
+}

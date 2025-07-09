@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Wait For Event",
+    "grammar_text":  "Wait for event",
+    "id":  "General_WaitForEvent",
+    "script_id":  "",
+    "type":  "Action"
+}

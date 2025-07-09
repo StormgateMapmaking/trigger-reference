@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Stop All Instances",
+    "grammar_text":  "Stop all instances of {trigger}",
+    "id":  "Trigger_StopAllInstances",
+    "script_id":  "",
+    "type":  "Action"
+}

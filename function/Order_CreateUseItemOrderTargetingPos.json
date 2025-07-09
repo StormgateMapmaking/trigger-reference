@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Use Item Order Targeting Position",
+    "grammar_text":  "Use {item} targeting {target}",
+    "id":  "Order_CreateUseItemOrderTargetingPos",
+    "script_id":  "UseItemOrder::create",
+    "type":  "Function"
+}

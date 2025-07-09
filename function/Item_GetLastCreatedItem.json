@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Last Created Item",
+    "grammar_text":  "Last created item",
+    "id":  "Item_GetLastCreatedItem",
+    "script_id":  "Shim::Item::get_last_created_item",
+    "type":  "Function"
+}

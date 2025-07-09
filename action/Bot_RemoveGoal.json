@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Remove Goal(s)",
+    "grammar_text":  "Remove goal(s) {goal} from {bot}",
+    "id":  "Bot_RemoveGoal",
+    "script_id":  "remove_goals",
+    "type":  "Action"
+}

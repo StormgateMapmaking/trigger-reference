@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Create Bot",
+    "grammar_text":  "Create {bot} for player {player}",
+    "id":  "Bot_CreateBot",
+    "script_id":  "Shim::Bot::create_and_start",
+    "type":  "Action"
+}

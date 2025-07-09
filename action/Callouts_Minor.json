@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Minor Callout",
+    "grammar_text":  "Display {message} in Minor Callout Box with Color {r} {g} {b} for {lifetime} seconds for {group}",
+    "id":  "Callouts_Minor",
+    "script_id":  "Shim::UI::minor_callout",
+    "type":  "Action"
+}

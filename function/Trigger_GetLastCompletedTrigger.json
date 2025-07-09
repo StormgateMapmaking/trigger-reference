@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Last Completed Trigger",
+    "grammar_text":  "Last completed trigger",
+    "id":  "Trigger_GetLastCompletedTrigger",
+    "script_id":  "Triggers::Trigger::get_last_completed_trigger_archetype",
+    "type":  "Function"
+}

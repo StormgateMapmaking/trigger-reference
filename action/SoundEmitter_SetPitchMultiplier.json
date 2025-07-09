@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Set Pitch",
+    "grammar_text":  "Set pitch of {sound_emitter} to {value}",
+    "id":  "SoundEmitter_SetPitchMultiplier",
+    "script_id":  "set_pitch_multiplier",
+    "type":  "Action"
+}

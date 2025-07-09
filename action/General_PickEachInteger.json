@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Pick Each Integer",
+    "grammar_text":  "Pick each integer from {start} to {end} and do (Actions)",
+    "id":  "General_PickEachInteger",
+    "script_id":  "",
+    "type":  "Action"
+}

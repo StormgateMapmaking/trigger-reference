@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity VM Event - Triggering Entity",
+    "grammar_text":  "Triggering Entity VM event entity",
+    "id":  "EntityVM_GetTriggeringEventEntity",
+    "script_id":  "Events::EventData::get_triggering_entity_vm_event_entity",
+    "type":  "Function"
+}

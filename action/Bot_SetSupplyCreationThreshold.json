@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Set Supply Creation Threshold",
+    "grammar_text":  "Set supply creation threhold to {threshold} for {bot}.",
+    "id":  "Bot_SetSupplyCreationThreshold",
+    "script_id":  "set_supply_creation_threshold",
+    "type":  "Action"
+}

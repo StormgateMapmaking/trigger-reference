@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator Group - Resource Generators In Region",
+    "grammar_text":  "Resource Generators in {region}",
+    "id":  "ResourceGeneratorGroup_GetResourceGeneratorsInRegion",
+    "script_id":  "Shim::ResourceGeneratorGroup::get_resource_generators_in_region",
+    "type":  "Function"
+}

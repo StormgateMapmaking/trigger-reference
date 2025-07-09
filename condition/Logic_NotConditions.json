@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Logic - Not (Conditions)",
+    "grammar_text":  "Not {op} (Conditions)",
+    "id":  "Logic_NotConditions",
+    "script_id":  "",
+    "type":  "Condition"
+}

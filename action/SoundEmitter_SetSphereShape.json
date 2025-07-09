@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Configure as a Sphere",
+    "grammar_text":  "Set the shape of {sound_emitter} to a sphere with an inner radius of {inner_radius}",
+    "id":  "SoundEmitter_SetSphereShape",
+    "script_id":  "set_sphere_attenuation_shape",
+    "type":  "Action"
+}

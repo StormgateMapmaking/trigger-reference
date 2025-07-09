@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CloudBlackboard - Set Value (Time)",
+    "grammar_text":  "Set {value} as {key} in cloud blackboard of player {player}",
+    "id":  "CloudBlackboard_SetValue_Time",
+    "script_id":  "Shim::CloudBlackboard::set_value_as\u003cTime\u003e",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - On Receive UI Message",
+    "grammar_text":  "{player} receives UI message {command} and {data}",
+    "id":  "UI_OnReceiveMessage",
+    "script_id":  "",
+    "type":  "Event"
+}

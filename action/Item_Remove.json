@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Remove",
+    "grammar_text":  "Remove {item} from the game",
+    "id":  "Item_Remove",
+    "script_id":  "remove",
+    "type":  "Action"
+}

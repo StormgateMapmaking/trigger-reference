@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Destructible Type",
+    "grammar_text":  "Type of {destructible}",
+    "id":  "Destructible_GetType",
+    "script_id":  "Shim::Destructible::get_type",
+    "type":  "Action"
+}

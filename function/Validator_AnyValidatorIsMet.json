@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Validator - Any Validators Is Met",
+    "grammar_text":  "Any validator {validators} is met",
+    "id":  "Validator_AnyValidatorIsMet",
+    "script_id":  "Shim::Validators::any_validators_pass_check",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Veterancy Tier XP Threshold",
+    "grammar_text":  "Veterancy XP threshold for tier {veterancy_tier} of {unit}",
+    "id":  "Unit_GetVeterancyTierXPThreshold",
+    "script_id":  "get_veterancy_tier_xp_threshold",
+    "type":  "Function"
+}

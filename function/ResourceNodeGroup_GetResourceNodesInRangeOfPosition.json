@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Resource Node In Range Of Position",
+    "grammar_text":  "Resource Nodes within {radius} of {position}",
+    "id":  "ResourceNodeGroup_GetResourceNodesInRangeOfPosition",
+    "script_id":  "Shim::ResourceNodeGroup::get_resource_nodes_in_range_of_position",
+    "type":  "Function"
+}

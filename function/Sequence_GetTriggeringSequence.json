@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Sequence",
+    "grammar_text":  "Triggering Sequence",
+    "id":  "Sequence_GetTriggeringSequence",
+    "script_id":  "Events::EventData::get_triggering_sequence",
+    "type":  "Function"
+}

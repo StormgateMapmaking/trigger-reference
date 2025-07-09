@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Destroy Wave",
+    "grammar_text":  "Destroy {wave}",
+    "id":  "Wave_DestroyWave",
+    "script_id":  "destroy",
+    "type":  "Action"
+}

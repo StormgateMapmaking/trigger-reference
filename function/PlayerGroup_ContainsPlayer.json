@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Player In Player Group",
+    "grammar_text":  "{player} is in {group}",
+    "id":  "PlayerGroup_ContainsPlayer",
+    "script_id":  "contains",
+    "type":  "Function"
+}

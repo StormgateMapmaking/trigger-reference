@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Animation Rate",
+    "grammar_text":  "Set {animation} rate to {rate} for {unit}",
+    "id":  "Unit_SetAnimationRate",
+    "script_id":  "set_animation_rate",
+    "type":  "Action"
+}

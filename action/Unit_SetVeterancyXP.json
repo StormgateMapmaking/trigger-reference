@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Veterancy XP",
+    "grammar_text":  "Set {unit} veterancy xp to {veterancy} ({adjust_player_score} adjust player score)",
+    "id":  "Unit_SetVeterancyXP",
+    "script_id":  "set_veterancy_xp",
+    "type":  "Action"
+}

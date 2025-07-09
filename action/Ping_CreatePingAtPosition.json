@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Create at Position",
+    "grammar_text":  "Create {type} at {pos} and play {global_sound} sound {sound} for {players}.",
+    "id":  "Ping_CreatePingAtPosition",
+    "script_id":  "Shim::Ping::create",
+    "type":  "Action"
+}

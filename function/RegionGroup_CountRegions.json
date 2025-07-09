@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Count Regions",
+    "grammar_text":  "Number of regions in {group}",
+    "id":  "RegionGroup_CountRegions",
+    "script_id":  "size",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Random - Point In Radius",
+    "grammar_text":  "Random point in radius {radius}",
+    "id":  "Random_PointInRadius",
+    "script_id":  "random_point_in_radius",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - Is Unit Of Type",
+    "grammar_text":  "{entity} is a unit of type {unit_type}",
+    "id":  "Entity_IsUnitOfType",
+    "script_id":  "Shim::Unit::is_unit_of_type",
+    "type":  "Function"
+}

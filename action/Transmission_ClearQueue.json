@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Clear Transmission Queue",
+    "grammar_text":  "Clear all queued transmissions in the {player}",
+    "id":  "Transmission_ClearQueue",
+    "script_id":  "clear_queue",
+    "type":  "Action"
+}

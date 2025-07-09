@@ -1,0 +1,7 @@
+﻿{
+    "name":  "PlayerGroup - For Each Player In Group",
+    "grammar_text":  "For each player in {players} do (Actions)",
+    "id":  "PlayerGroup_ForEachPlayerInGroup",
+    "script_id":  "",
+    "type":  "Action"
+}

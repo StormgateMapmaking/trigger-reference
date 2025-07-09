@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Point In Point Group",
+    "grammar_text":  "{point} is in {group}",
+    "id":  "PointGroup_ContainsPoint",
+    "script_id":  "contains",
+    "type":  "Function"
+}

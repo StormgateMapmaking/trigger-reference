@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Targeting Event Target Location",
+    "grammar_text":  "Target location of targeting event",
+    "id":  "Targeting_GetTargetingTargetLocation",
+    "script_id":  "Events::EventData::get_targeting_target_location",
+    "type":  "Function"
+}

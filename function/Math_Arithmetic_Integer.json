@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Math - Arithmetic (Integer)",
+    "grammar_text":  "{value1} {op} {value2}",
+    "id":  "Math_Arithmetic_Integer",
+    "script_id":  "",
+    "type":  "Function"
+}

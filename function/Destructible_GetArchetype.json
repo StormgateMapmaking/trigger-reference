@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Archetype",
+    "grammar_text":  "Archetype of {destructible}",
+    "id":  "Destructible_GetArchetype",
+    "script_id":  "get_archetype",
+    "type":  "Function"
+}

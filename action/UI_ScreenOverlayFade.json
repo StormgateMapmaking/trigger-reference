@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UI - Screen Overlay Fade",
+    "grammar_text":  "Fade screen overlay to {color} for {players} over {duration} seconds",
+    "id":  "UI_ScreenOverlayFade",
+    "script_id":  "Shim::UI::screen_overlay_fade",
+    "type":  "Action"
+}

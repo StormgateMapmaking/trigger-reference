@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Shield (Percentage)",
+    "grammar_text":  "Shield % of {unit}",
+    "id":  "Unit_GetShieldPercentage",
+    "script_id":  "get_shield_percentage",
+    "type":  "Function"
+}

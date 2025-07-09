@@ -1,0 +1,7 @@
+﻿{
+    "name":  "UnitGroup - Add Units",
+    "grammar_text":  "Add {source} to {destination}",
+    "id":  "UnitGroup_AddUnits",
+    "script_id":  "add_group",
+    "type":  "Action"
+}

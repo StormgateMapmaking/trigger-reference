@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Show/Hide",
+    "grammar_text":  "{show_actor} {actor}",
+    "id":  "Actor_ShowHide",
+    "script_id":  "set_visibility",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Text - Placeholder Text",
+    "grammar_text":  "Placeholder({string})",
+    "id":  "Text_PlaceholderText",
+    "script_id":  "",
+    "type":  "Function"
+}

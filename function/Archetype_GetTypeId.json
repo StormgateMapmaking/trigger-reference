@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Archetype - Type of Archetype",
+    "grammar_text":  "Type of {archetype}",
+    "id":  "Archetype_GetTypeId",
+    "script_id":  "get_type_id",
+    "type":  "Function"
+}

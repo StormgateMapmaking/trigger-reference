@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Resume Animation",
+    "grammar_text":  "Resume {animation} for {destructible}",
+    "id":  "Destructible_ResumeAnimation",
+    "script_id":  "resume_animation",
+    "type":  "Action"
+}

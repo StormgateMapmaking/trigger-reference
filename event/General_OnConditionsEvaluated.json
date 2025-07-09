@@ -1,0 +1,7 @@
+﻿{
+    "name":  "General - Conditions Evaluated",
+    "grammar_text":  "When (Conditions) become true, checking every {interval} seconds",
+    "id":  "General_OnConditionsEvaluated",
+    "script_id":  "",
+    "type":  "Event"
+}

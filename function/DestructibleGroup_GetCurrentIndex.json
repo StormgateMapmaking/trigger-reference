@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Current Index (For Each)",
+    "grammar_text":  "Current index (For Each)",
+    "id":  "DestructibleGroup_GetCurrentIndex",
+    "script_id":  "",
+    "type":  "Function"
+}

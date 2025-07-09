@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Push Camera Tracking Target",
+    "grammar_text":  "Make {camera} track {actor}",
+    "id":  "Camera_PushCameraTrackingTarget",
+    "script_id":  "push_tracking_target",
+    "type":  "Action"
+}

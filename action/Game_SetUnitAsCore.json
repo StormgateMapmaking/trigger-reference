@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Set Unit As Core",
+    "grammar_text":  "Set {unit} as the team {team} core",
+    "id":  "Game_SetUnitAsCore",
+    "script_id":  "VictoryPointsManager::set_core_entity",
+    "type":  "Action"
+}

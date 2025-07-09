@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Blackboard - Copy of Blackboard",
+    "grammar_text":  "Create copy of {blackboard}",
+    "id":  "Blackboard_GetCopyOfBlackboard",
+    "script_id":  "Shim::Blackboard::copy",
+    "type":  "Function"
+}

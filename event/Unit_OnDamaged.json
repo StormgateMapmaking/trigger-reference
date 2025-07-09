@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit is Damaged",
+    "grammar_text":  "{unit|Any Unit} is damaged by {source|Any Entity}",
+    "id":  "Unit_OnDamaged",
+    "script_id":  "",
+    "type":  "Event"
+}

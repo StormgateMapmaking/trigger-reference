@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Configure as a Box",
+    "grammar_text":  "Set the shape of {sound_emitter} to a box with the extents ({extent_x}, {extent_y}, {extent_z})",
+    "id":  "SoundEmitter_SetBoxShape",
+    "script_id":  "set_box_attenuation_shape",
+    "type":  "Action"
+}

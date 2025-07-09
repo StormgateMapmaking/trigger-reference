@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Create Wave",
+    "grammar_text":  "Create an attack wave of {units} at {position} facing {facing|0} degrees with an attached {ping} ping",
+    "id":  "Wave_CreateWave",
+    "script_id":  "Shim::Wave::create",
+    "type":  "Action"
+}

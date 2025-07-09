@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Perk Shop State - Get Tier May Unlock",
+    "grammar_text":  "Get the may unlock state of perk shop state {state} tier {tier}.",
+    "id":  "PerkShopState_GetTierMayUnlock",
+    "script_id":  "get_tier_may_unlock",
+    "type":  "Function"
+}

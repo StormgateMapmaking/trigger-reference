@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Get Hero Units",
+    "grammar_text":  "Hero Units of player {player}",
+    "id":  "Player_GetHeroUnits",
+    "script_id":  "Shim::Player::get_hero_units",
+    "type":  "Function"
+}

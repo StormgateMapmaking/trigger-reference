@@ -1,0 +1,1556 @@
+﻿{
+    "__base_type": "Trigger",
+    "actions": [
+        {
+            "function_id": "General_RepeatForever",
+            "guid": "D54F531DECAF334E955FD0DF0B2B2C03",
+            "is_enabled": true,
+            "parameters": [],
+            "sub_functions": [
+                {
+                    "functions": [
+                        {
+                            "function_id": "General_Wait",
+                            "guid": "378C3332FABA384389C60DDF1F6F945F",
+                            "is_enabled": true,
+                            "parameters": [
+                                {
+                                    "expressions": [
+                                        {
+                                            "function": {
+                                                "function_id": "",
+                                                "guid": "",
+                                                "is_enabled": true,
+                                                "parameters": [],
+                                                "sub_functions": []
+                                            },
+                                            "guid": "3B507F8CBA2C30698D9B1771A7CE37E5",
+                                            "preset": {
+                                                "guid": "",
+                                                "preset_id": "",
+                                                "value_id": ""
+                                            },
+                                            "script": "",
+                                            "type": "Value",
+                                            "value": {
+                                                "guid": "03227D3B3F3536D09CA7D478481F32CB",
+                                                "type": {
+                                                    "directive": "FunctionType",
+                                                    "implements": "",
+                                                    "inner_type": "",
+                                                    "param_id": "",
+                                                    "sub_directive": "None",
+                                                    "tags": [],
+                                                    "type": "Time"
+                                                },
+                                                "value": "5.0"
+                                            },
+                                            "variable": {
+                                                "guid": "",
+                                                "indices": [],
+                                                "variable_id": ""
+                                            }
+                                        }
+                                    ],
+                                    "guid": "1F94342674043F08816BD7BF75465E8D",
+                                    "id": "duration"
+                                }
+                            ],
+                            "sub_functions": []
+                        },
+                        {
+                            "function_id": "UnitGroup_ForEachUnitInGroup",
+                            "guid": "358FDFC47EA23F6AB7B9830E17CA861F",
+                            "is_enabled": true,
+                            "parameters": [
+                                {
+                                    "expressions": [
+                                        {
+                                            "function": {
+                                                "function_id": "UnitGroup_GetUnitsOfPlayersWithAbility",
+                                                "guid": "8F3C5BF747543062A478256E173FE409",
+                                                "is_enabled": true,
+                                                "parameters": [
+                                                    {
+                                                        "expressions": [
+                                                            {
+                                                                "function": {
+                                                                    "function_id": "PlayerGroup_GetAllAICastingPlayers",
+                                                                    "guid": "0CB2E88E8B6F33C69BF29E1A53DC3AD0",
+                                                                    "is_enabled": true,
+                                                                    "parameters": [],
+                                                                    "sub_functions": []
+                                                                },
+                                                                "guid": "29597280C5FA3447BE59F5DFB257F33B",
+                                                                "preset": {
+                                                                    "guid": "",
+                                                                    "preset_id": "",
+                                                                    "value_id": ""
+                                                                },
+                                                                "script": "",
+                                                                "type": "Function",
+                                                                "value": {
+                                                                    "guid": "",
+                                                                    "type": {
+                                                                        "directive": "None",
+                                                                        "implements": "",
+                                                                        "inner_type": "",
+                                                                        "param_id": "",
+                                                                        "sub_directive": "None",
+                                                                        "tags": [],
+                                                                        "type": ""
+                                                                    },
+                                                                    "value": ""
+                                                                },
+                                                                "variable": {
+                                                                    "guid": "",
+                                                                    "indices": [],
+                                                                    "variable_id": ""
+                                                                }
+                                                            }
+                                                        ],
+                                                        "guid": "E8B85F02E2A23E56B08E2BB430798A13",
+                                                        "id": "player_group"
+                                                    },
+                                                    {
+                                                        "expressions": [
+                                                            {
+                                                                "function": {
+                                                                    "function_id": "",
+                                                                    "guid": "",
+                                                                    "is_enabled": true,
+                                                                    "parameters": [],
+                                                                    "sub_functions": []
+                                                                },
+                                                                "guid": "0301C1A04CD794517C64B0A1D19FD134",
+                                                                "preset": {
+                                                                    "guid": "",
+                                                                    "preset_id": "",
+                                                                    "value_id": ""
+                                                                },
+                                                                "script": "",
+                                                                "type": "Value",
+                                                                "value": {
+                                                                    "guid": "CFF340FD4F5DB4BF0C48AE987841FBFD",
+                                                                    "type": {
+                                                                        "directive": "TypeRef",
+                                                                        "implements": "ability_data",
+                                                                        "inner_type": "",
+                                                                        "param_id": "",
+                                                                        "sub_directive": "None",
+                                                                        "tags": [],
+                                                                        "type": ""
+                                                                    },
+                                                                    "value": "CloneCreation"
+                                                                },
+                                                                "variable": {
+                                                                    "guid": "",
+                                                                    "indices": [],
+                                                                    "variable_id": ""
+                                                                }
+                                                            }
+                                                        ],
+                                                        "guid": "7DDCAF4E59493004B3EF108BA5964FEC",
+                                                        "id": "ability"
+                                                    }
+                                                ],
+                                                "sub_functions": []
+                                            },
+                                            "guid": "D4FC9D77C67C3D1EAD5F022841A006B8",
+                                            "preset": {
+                                                "guid": "",
+                                                "preset_id": "",
+                                                "value_id": ""
+                                            },
+                                            "script": "",
+                                            "type": "Function",
+                                            "value": {
+                                                "guid": "",
+                                                "type": {
+                                                    "directive": "None",
+                                                    "implements": "",
+                                                    "inner_type": "",
+                                                    "param_id": "",
+                                                    "sub_directive": "None",
+                                                    "tags": [],
+                                                    "type": ""
+                                                },
+                                                "value": ""
+                                            },
+                                            "variable": {
+                                                "guid": "",
+                                                "indices": [],
+                                                "variable_id": ""
+                                            }
+                                        }
+                                    ],
+                                    "guid": "5C1EBD1D0AF73E748926DAF3D5A68320",
+                                    "id": "units"
+                                }
+                            ],
+                            "sub_functions": [
+                                {
+                                    "functions": [
+                                        {
+                                            "function_id": "Variable_SetVariable",
+                                            "guid": "64684F014ACCED341960098D7D74ADAC",
+                                            "is_enabled": true,
+                                            "parameters": [
+                                                {
+                                                    "expressions": [
+                                                        {
+                                                            "function": {
+                                                                "function_id": "",
+                                                                "guid": "",
+                                                                "is_enabled": true,
+                                                                "parameters": [],
+                                                                "sub_functions": []
+                                                            },
+                                                            "guid": "66E57C634C1377142C1505BC5DDCA70A",
+                                                            "preset": {
+                                                                "guid": "",
+                                                                "preset_id": "",
+                                                                "value_id": ""
+                                                            },
+                                                            "script": "",
+                                                            "type": "Variable",
+                                                            "value": {
+                                                                "guid": "",
+                                                                "type": {
+                                                                    "directive": "None",
+                                                                    "implements": "",
+                                                                    "inner_type": "",
+                                                                    "param_id": "",
+                                                                    "sub_directive": "None",
+                                                                    "tags": [],
+                                                                    "type": ""
+                                                                },
+                                                                "value": ""
+                                                            },
+                                                            "variable": {
+                                                                "guid": "C77F9D7D44044AB6DE23A9886B5137E3",
+                                                                "indices": [],
+                                                                "variable_id": "casting_unit"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "guid": "119F84F945D8AE356492EEB269565B87",
+                                                    "id": "variable"
+                                                },
+                                                {
+                                                    "expressions": [
+                                                        {
+                                                            "function": {
+                                                                "function_id": "UnitGroup_GetCurrentUnit",
+                                                                "guid": "B988780C43AF81649E43B5BADCA91424",
+                                                                "is_enabled": true,
+                                                                "parameters": [],
+                                                                "sub_functions": []
+                                                            },
+                                                            "guid": "2D607BBD4BCEB4249CAB2D892905D277",
+                                                            "preset": {
+                                                                "guid": "",
+                                                                "preset_id": "",
+                                                                "value_id": ""
+                                                            },
+                                                            "script": "",
+                                                            "type": "Function",
+                                                            "value": {
+                                                                "guid": "",
+                                                                "type": {
+                                                                    "directive": "None",
+                                                                    "implements": "",
+                                                                    "inner_type": "",
+                                                                    "param_id": "",
+                                                                    "sub_directive": "None",
+                                                                    "tags": [],
+                                                                    "type": ""
+                                                                },
+                                                                "value": ""
+                                                            },
+                                                            "variable": {
+                                                                "guid": "",
+                                                                "indices": [],
+                                                                "variable_id": ""
+                                                            }
+                                                        }
+                                                    ],
+                                                    "guid": "7890E0E64E8E5D294B76C89AA57195ED",
+                                                    "id": "value"
+                                                }
+                                            ],
+                                            "sub_functions": []
+                                        },
+                                        {
+                                            "function_id": "Variable_SetVariable",
+                                            "guid": "391B2FA54F97935108E1B298FD1090C5",
+                                            "is_enabled": true,
+                                            "parameters": [
+                                                {
+                                                    "expressions": [
+                                                        {
+                                                            "function": {
+                                                                "function_id": "",
+                                                                "guid": "",
+                                                                "is_enabled": true,
+                                                                "parameters": [],
+                                                                "sub_functions": []
+                                                            },
+                                                            "guid": "18C7CB6D46082E70562BBD8747D5CA7E",
+                                                            "preset": {
+                                                                "guid": "",
+                                                                "preset_id": "",
+                                                                "value_id": ""
+                                                            },
+                                                            "script": "",
+                                                            "type": "Variable",
+                                                            "value": {
+                                                                "guid": "",
+                                                                "type": {
+                                                                    "directive": "None",
+                                                                    "implements": "",
+                                                                    "inner_type": "",
+                                                                    "param_id": "",
+                                                                    "sub_directive": "None",
+                                                                    "tags": [],
+                                                                    "type": ""
+                                                                },
+                                                                "value": ""
+                                                            },
+                                                            "variable": {
+                                                                "guid": "052F26754F639E554CC27BB1142D2A4B",
+                                                                "indices": [],
+                                                                "variable_id": "best_unit"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "guid": "18762E36421ABE75630E2692F08A1B5C",
+                                                    "id": "variable"
+                                                },
+                                                {
+                                                    "expressions": [
+                                                        {
+                                                            "function": {
+                                                                "function_id": "",
+                                                                "guid": "",
+                                                                "is_enabled": true,
+                                                                "parameters": [],
+                                                                "sub_functions": []
+                                                            },
+                                                            "guid": "E4C736F540C58FDD2527B39324DD3E65",
+                                                            "preset": {
+                                                                "guid": "6AF3D97242FB829542BB189AF1CA9CFF",
+                                                                "preset_id": "Unit_NoUnit",
+                                                                "value_id": "none"
+                                                            },
+                                                            "script": "",
+                                                            "type": "Preset",
+                                                            "value": {
+                                                                "guid": "",
+                                                                "type": {
+                                                                    "directive": "None",
+                                                                    "implements": "",
+                                                                    "inner_type": "",
+                                                                    "param_id": "",
+                                                                    "sub_directive": "None",
+                                                                    "tags": [],
+                                                                    "type": ""
+                                                                },
+                                                                "value": ""
+                                                            },
+                                                            "variable": {
+                                                                "guid": "",
+                                                                "indices": [],
+                                                                "variable_id": ""
+                                                            }
+                                                        }
+                                                    ],
+                                                    "guid": "66EA6DC24E9FEE8669552A931B90A220",
+                                                    "id": "value"
+                                                }
+                                            ],
+                                            "sub_functions": []
+                                        },
+                                        {
+                                            "function_id": "Trigger_AddActionsToQueue",
+                                            "guid": "863CA0B3D0293DFE98AA5F6CACE3F003",
+                                            "is_enabled": true,
+                                            "parameters": [],
+                                            "sub_functions": [
+                                                {
+                                                    "functions": [
+                                                        {
+                                                            "function_id": "UnitGroup_ForEachUnitInGroup",
+                                                            "guid": "93EF3D4684613374939ADE916CC56721",
+                                                            "is_enabled": true,
+                                                            "parameters": [
+                                                                {
+                                                                    "expressions": [
+                                                                        {
+                                                                            "function": {
+                                                                                "function_id": "UnitGroup_GetUnitsOfPlayer",
+                                                                                "guid": "D4EB848C4EB8DF1291F8FB90ADDC5D53",
+                                                                                "is_enabled": true,
+                                                                                "parameters": [
+                                                                                    {
+                                                                                        "expressions": [
+                                                                                            {
+                                                                                                "function": {
+                                                                                                    "function_id": "Unit_GetOwningPlayer",
+                                                                                                    "guid": "4F4EEBC04B0562FC744BA98303976C1C",
+                                                                                                    "is_enabled": true,
+                                                                                                    "parameters": [
+                                                                                                        {
+                                                                                                            "expressions": [
+                                                                                                                {
+                                                                                                                    "function": {
+                                                                                                                        "function_id": "",
+                                                                                                                        "guid": "",
+                                                                                                                        "is_enabled": true,
+                                                                                                                        "parameters": [],
+                                                                                                                        "sub_functions": []
+                                                                                                                    },
+                                                                                                                    "guid": "6AD1E6114F77E2B9E1E694ABBC4D00E9",
+                                                                                                                    "preset": {
+                                                                                                                        "guid": "",
+                                                                                                                        "preset_id": "",
+                                                                                                                        "value_id": ""
+                                                                                                                    },
+                                                                                                                    "script": "",
+                                                                                                                    "type": "Variable",
+                                                                                                                    "value": {
+                                                                                                                        "guid": "",
+                                                                                                                        "type": {
+                                                                                                                            "directive": "None",
+                                                                                                                            "implements": "",
+                                                                                                                            "inner_type": "",
+                                                                                                                            "param_id": "",
+                                                                                                                            "sub_directive": "None",
+                                                                                                                            "tags": [],
+                                                                                                                            "type": ""
+                                                                                                                        },
+                                                                                                                        "value": ""
+                                                                                                                    },
+                                                                                                                    "variable": {
+                                                                                                                        "guid": "84FCC7B340F56BE008A1508E39ADFF84",
+                                                                                                                        "indices": [],
+                                                                                                                        "variable_id": "casting_unit"
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            ],
+                                                                                                            "guid": "2801B52E406F3CC86BAD25BBA2EFDAF7",
+                                                                                                            "id": "unit"
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "sub_functions": []
+                                                                                                },
+                                                                                                "guid": "B07FEEF946A5D9A294BC2CBAC6FF2D18",
+                                                                                                "preset": {
+                                                                                                    "guid": "",
+                                                                                                    "preset_id": "",
+                                                                                                    "value_id": ""
+                                                                                                },
+                                                                                                "script": "",
+                                                                                                "type": "Function",
+                                                                                                "value": {
+                                                                                                    "guid": "",
+                                                                                                    "type": {
+                                                                                                        "directive": "None",
+                                                                                                        "implements": "",
+                                                                                                        "inner_type": "",
+                                                                                                        "param_id": "",
+                                                                                                        "sub_directive": "None",
+                                                                                                        "tags": [],
+                                                                                                        "type": ""
+                                                                                                    },
+                                                                                                    "value": ""
+                                                                                                },
+                                                                                                "variable": {
+                                                                                                    "guid": "",
+                                                                                                    "indices": [],
+                                                                                                    "variable_id": ""
+                                                                                                }
+                                                                                            }
+                                                                                        ],
+                                                                                        "guid": "8E8EE28E42A45DA65CCE74A89778A6CC",
+                                                                                        "id": "player"
+                                                                                    }
+                                                                                ],
+                                                                                "sub_functions": []
+                                                                            },
+                                                                            "guid": "A9980BDE4DB72F93354929BF1885C818",
+                                                                            "preset": {
+                                                                                "guid": "",
+                                                                                "preset_id": "",
+                                                                                "value_id": ""
+                                                                            },
+                                                                            "script": "",
+                                                                            "type": "Function",
+                                                                            "value": {
+                                                                                "guid": "",
+                                                                                "type": {
+                                                                                    "directive": "None",
+                                                                                    "implements": "",
+                                                                                    "inner_type": "",
+                                                                                    "param_id": "",
+                                                                                    "sub_directive": "None",
+                                                                                    "tags": [],
+                                                                                    "type": ""
+                                                                                },
+                                                                                "value": ""
+                                                                            },
+                                                                            "variable": {
+                                                                                "guid": "",
+                                                                                "indices": [],
+                                                                                "variable_id": ""
+                                                                            }
+                                                                        }
+                                                                    ],
+                                                                    "guid": "A0A436539AA3312AB629ECCBFC8DA0ED",
+                                                                    "id": "units"
+                                                                }
+                                                            ],
+                                                            "sub_functions": [
+                                                                {
+                                                                    "functions": [
+                                                                        {
+                                                                            "function_id": "General_IfThenElse",
+                                                                            "guid": "DC1FEECF7A2E36CBBAF14D64201375C7",
+                                                                            "is_enabled": true,
+                                                                            "parameters": [],
+                                                                            "sub_functions": [
+                                                                                {
+                                                                                    "functions": [
+                                                                                        {
+                                                                                            "function_id": "Logic_Comparison",
+                                                                                            "guid": "83FCA97E4D5B171AF5736F9D316F13B9",
+                                                                                            "is_enabled": true,
+                                                                                            "parameters": [
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "",
+                                                                                                                "guid": "",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "FC226B3A4BC27AA67BF117B8D7ABA553",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Variable",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "4106722D4F3511688BA5409A3EEEEA24",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": "casting_unit"
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "8399E9A34ED6F0D8E712FCA23EDFAF26",
+                                                                                                    "id": "value1"
+                                                                                                },
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "",
+                                                                                                                "guid": "",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "44F4BDA445DD927038960CA83B67A803",
+                                                                                                            "preset": {
+                                                                                                                "guid": "35080E164FEAA25CBB033A9FFC25B1CB",
+                                                                                                                "preset_id": "Logic_ComparisonOperator",
+                                                                                                                "value_id": "ne"
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Preset",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "83B3204F4B87933685E6A790E5B19EC2",
+                                                                                                    "id": "op"
+                                                                                                },
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "UnitGroup_GetCurrentUnit",
+                                                                                                                "guid": "A69D7B92484976D2E1E1AB9ADF6C1B5B",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "DFCA474A4B6DFFF04F3D26AFA8A9610F",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Function",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "313A111B4A4FA5234574B8A53BEA7099",
+                                                                                                    "id": "value2"
+                                                                                                }
+                                                                                            ],
+                                                                                            "sub_functions": []
+                                                                                        },
+                                                                                        {
+                                                                                            "function_id": "Entity_HasAnyTags",
+                                                                                            "guid": "2F8954FC453D3FA47B117DA62BF908F3",
+                                                                                            "is_enabled": true,
+                                                                                            "parameters": [
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "UnitGroup_GetCurrentUnit",
+                                                                                                                "guid": "7D72E71C4BA868C6487D3A913E31899D",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "4A16AC834F7069B677A7928AEA2E168E",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Function",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "7B2EA7BE4E6B6CA31370B08EE15C8558",
+                                                                                                    "id": "who"
+                                                                                                },
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "",
+                                                                                                                "guid": "",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "116809DB4ECCD6F45B7ED9BCB674E2FE",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Value",
+                                                                                                            "value": {
+                                                                                                                "guid": "7D103C02431EEEE80591209A1CBD2F8B",
+                                                                                                                "type": {
+                                                                                                                    "directive": "TypeRef",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": "SnowTag"
+                                                                                                                },
+                                                                                                                "value": "entity_unit"
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "FEF756E94113F14D7E0E4FB3530F87D6",
+                                                                                                    "id": "tags"
+                                                                                                }
+                                                                                            ],
+                                                                                            "sub_functions": []
+                                                                                        },
+                                                                                        {
+                                                                                            "function_id": "Logic_Comparison",
+                                                                                            "guid": "639E52F140128678CD452997AD78F0AC",
+                                                                                            "is_enabled": true,
+                                                                                            "parameters": [
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "Unit_GetSupplyCost",
+                                                                                                                "guid": "6BC93E1D4A4B8A59934D5A8567C6F01C",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [
+                                                                                                                    {
+                                                                                                                        "expressions": [
+                                                                                                                            {
+                                                                                                                                "function": {
+                                                                                                                                    "function_id": "UnitGroup_GetCurrentUnit",
+                                                                                                                                    "guid": "D552ABEE444BCCBB395963A345A660FC",
+                                                                                                                                    "is_enabled": true,
+                                                                                                                                    "parameters": [],
+                                                                                                                                    "sub_functions": []
+                                                                                                                                },
+                                                                                                                                "guid": "7201E25C46A44CC90B2D0FBB4D2DF10E",
+                                                                                                                                "preset": {
+                                                                                                                                    "guid": "",
+                                                                                                                                    "preset_id": "",
+                                                                                                                                    "value_id": ""
+                                                                                                                                },
+                                                                                                                                "script": "",
+                                                                                                                                "type": "Function",
+                                                                                                                                "value": {
+                                                                                                                                    "guid": "",
+                                                                                                                                    "type": {
+                                                                                                                                        "directive": "None",
+                                                                                                                                        "implements": "",
+                                                                                                                                        "inner_type": "",
+                                                                                                                                        "param_id": "",
+                                                                                                                                        "sub_directive": "None",
+                                                                                                                                        "tags": [],
+                                                                                                                                        "type": ""
+                                                                                                                                    },
+                                                                                                                                    "value": ""
+                                                                                                                                },
+                                                                                                                                "variable": {
+                                                                                                                                    "guid": "",
+                                                                                                                                    "indices": [],
+                                                                                                                                    "variable_id": ""
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        ],
+                                                                                                                        "guid": "9AD21EDC497B89A55665D79E7087E71A",
+                                                                                                                        "id": "unit"
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "CE847D04477B38D32F53D091DC2E2205",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Function",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "AB316DC54578D6D0AE17CBB0A99B3CE1",
+                                                                                                    "id": "value1"
+                                                                                                },
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "",
+                                                                                                                "guid": "",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "59FEAB004DC4A82D1E7FA9A3CC85DAA4",
+                                                                                                            "preset": {
+                                                                                                                "guid": "FE2E57064B1315C7CFA85FB729CDA05C",
+                                                                                                                "preset_id": "Logic_ComparisonOperator",
+                                                                                                                "value_id": "gre"
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Preset",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "28CB4301400C9485F8FD46B5B2C473A1",
+                                                                                                    "id": "op"
+                                                                                                },
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "Unit_GetSupplyCost",
+                                                                                                                "guid": "E518C070429A85423CDDF7ABF7ECF67D",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [
+                                                                                                                    {
+                                                                                                                        "expressions": [
+                                                                                                                            {
+                                                                                                                                "function": {
+                                                                                                                                    "function_id": "",
+                                                                                                                                    "guid": "",
+                                                                                                                                    "is_enabled": true,
+                                                                                                                                    "parameters": [],
+                                                                                                                                    "sub_functions": []
+                                                                                                                                },
+                                                                                                                                "guid": "D5E5E9B84AE3E79C3818DAB3BF9F0DE8",
+                                                                                                                                "preset": {
+                                                                                                                                    "guid": "",
+                                                                                                                                    "preset_id": "",
+                                                                                                                                    "value_id": ""
+                                                                                                                                },
+                                                                                                                                "script": "",
+                                                                                                                                "type": "Variable",
+                                                                                                                                "value": {
+                                                                                                                                    "guid": "",
+                                                                                                                                    "type": {
+                                                                                                                                        "directive": "None",
+                                                                                                                                        "implements": "",
+                                                                                                                                        "inner_type": "",
+                                                                                                                                        "param_id": "",
+                                                                                                                                        "sub_directive": "None",
+                                                                                                                                        "tags": [],
+                                                                                                                                        "type": ""
+                                                                                                                                    },
+                                                                                                                                    "value": ""
+                                                                                                                                },
+                                                                                                                                "variable": {
+                                                                                                                                    "guid": "F11B86FD484F856CD8E1E9B762D9BF82",
+                                                                                                                                    "indices": [],
+                                                                                                                                    "variable_id": "best_unit"
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        ],
+                                                                                                                        "guid": "F6AEB6CA4BF3D19AA23231B62E5AAC70",
+                                                                                                                        "id": "unit"
+                                                                                                                    }
+                                                                                                                ],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "BC9760D64DB045BCE40189821F2A7E28",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Function",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "5221EE054CDF49882D47159E1211A0A0",
+                                                                                                    "id": "value2"
+                                                                                                }
+                                                                                            ],
+                                                                                            "sub_functions": []
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "0545E0B705273F00930446290BB3585D",
+                                                                                    "id": "if"
+                                                                                },
+                                                                                {
+                                                                                    "functions": [
+                                                                                        {
+                                                                                            "function_id": "Variable_SetVariable",
+                                                                                            "guid": "8F9CFB2342EA459D8B6676804B05119A",
+                                                                                            "is_enabled": true,
+                                                                                            "parameters": [
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "",
+                                                                                                                "guid": "",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "5E503F6047D27E2544A808A43221E028",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Variable",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "9BC93DFE4EDBC1A726A8C9A2E57D0C07",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": "best_unit"
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "2FFBA5704C677463B7B1B2BABD1590CE",
+                                                                                                    "id": "variable"
+                                                                                                },
+                                                                                                {
+                                                                                                    "expressions": [
+                                                                                                        {
+                                                                                                            "function": {
+                                                                                                                "function_id": "UnitGroup_GetCurrentUnit",
+                                                                                                                "guid": "C414EB6A4BE977451D8DB0ABA3B415DE",
+                                                                                                                "is_enabled": true,
+                                                                                                                "parameters": [],
+                                                                                                                "sub_functions": []
+                                                                                                            },
+                                                                                                            "guid": "246F5B4741DEB3DFAC3111989541972F",
+                                                                                                            "preset": {
+                                                                                                                "guid": "",
+                                                                                                                "preset_id": "",
+                                                                                                                "value_id": ""
+                                                                                                            },
+                                                                                                            "script": "",
+                                                                                                            "type": "Function",
+                                                                                                            "value": {
+                                                                                                                "guid": "",
+                                                                                                                "type": {
+                                                                                                                    "directive": "None",
+                                                                                                                    "implements": "",
+                                                                                                                    "inner_type": "",
+                                                                                                                    "param_id": "",
+                                                                                                                    "sub_directive": "None",
+                                                                                                                    "tags": [],
+                                                                                                                    "type": ""
+                                                                                                                },
+                                                                                                                "value": ""
+                                                                                                            },
+                                                                                                            "variable": {
+                                                                                                                "guid": "",
+                                                                                                                "indices": [],
+                                                                                                                "variable_id": ""
+                                                                                                            }
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "guid": "C2533C3C423208017737FD90D533A2CD",
+                                                                                                    "id": "value"
+                                                                                                }
+                                                                                            ],
+                                                                                            "sub_functions": []
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "BEAF61656321335CA0E439C3EFF1FCCF",
+                                                                                    "id": "then"
+                                                                                },
+                                                                                {
+                                                                                    "functions": [],
+                                                                                    "guid": "C80B9A35E30239D88F32343465DB446C",
+                                                                                    "id": "else"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    "guid": "8EF24C06E07F38DBAD24D0F7A4DD0487",
+                                                                    "id": "actions"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "function_id": "General_IfThenElse",
+                                                            "guid": "7D08D254146E36828FD82452F1EDF9B5",
+                                                            "is_enabled": true,
+                                                            "parameters": [],
+                                                            "sub_functions": [
+                                                                {
+                                                                    "functions": [
+                                                                        {
+                                                                            "function_id": "Entity_IsValid",
+                                                                            "guid": "0ADAD5B84D175ABC0370B085D309F6A1",
+                                                                            "is_enabled": true,
+                                                                            "parameters": [
+                                                                                {
+                                                                                    "expressions": [
+                                                                                        {
+                                                                                            "function": {
+                                                                                                "function_id": "",
+                                                                                                "guid": "",
+                                                                                                "is_enabled": true,
+                                                                                                "parameters": [],
+                                                                                                "sub_functions": []
+                                                                                            },
+                                                                                            "guid": "4BBACB504806C101A48FE49E83C09971",
+                                                                                            "preset": {
+                                                                                                "guid": "",
+                                                                                                "preset_id": "",
+                                                                                                "value_id": ""
+                                                                                            },
+                                                                                            "script": "",
+                                                                                            "type": "Variable",
+                                                                                            "value": {
+                                                                                                "guid": "",
+                                                                                                "type": {
+                                                                                                    "directive": "None",
+                                                                                                    "implements": "",
+                                                                                                    "inner_type": "",
+                                                                                                    "param_id": "",
+                                                                                                    "sub_directive": "None",
+                                                                                                    "tags": [],
+                                                                                                    "type": ""
+                                                                                                },
+                                                                                                "value": ""
+                                                                                            },
+                                                                                            "variable": {
+                                                                                                "guid": "67E915B7405FAB97B6891A9E1E0A662B",
+                                                                                                "indices": [],
+                                                                                                "variable_id": "casting_unit"
+                                                                                            }
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "1CA5C64042666E4F3DC6578A2DD23E52",
+                                                                                    "id": "entity"
+                                                                                }
+                                                                            ],
+                                                                            "sub_functions": []
+                                                                        },
+                                                                        {
+                                                                            "function_id": "Entity_IsValid",
+                                                                            "guid": "017715EB405FED1BE0AD5CA4C3D3D26D",
+                                                                            "is_enabled": true,
+                                                                            "parameters": [
+                                                                                {
+                                                                                    "expressions": [
+                                                                                        {
+                                                                                            "function": {
+                                                                                                "function_id": "",
+                                                                                                "guid": "",
+                                                                                                "is_enabled": true,
+                                                                                                "parameters": [],
+                                                                                                "sub_functions": []
+                                                                                            },
+                                                                                            "guid": "C9DF8E964CC9EA9EFEEA3AA90C85FFD4",
+                                                                                            "preset": {
+                                                                                                "guid": "",
+                                                                                                "preset_id": "",
+                                                                                                "value_id": ""
+                                                                                            },
+                                                                                            "script": "",
+                                                                                            "type": "Variable",
+                                                                                            "value": {
+                                                                                                "guid": "",
+                                                                                                "type": {
+                                                                                                    "directive": "None",
+                                                                                                    "implements": "",
+                                                                                                    "inner_type": "",
+                                                                                                    "param_id": "",
+                                                                                                    "sub_directive": "None",
+                                                                                                    "tags": [],
+                                                                                                    "type": ""
+                                                                                                },
+                                                                                                "value": ""
+                                                                                            },
+                                                                                            "variable": {
+                                                                                                "guid": "19581A69412FD3F9675F0286FAF0EF30",
+                                                                                                "indices": [],
+                                                                                                "variable_id": "best_unit"
+                                                                                            }
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "D9137542484887DA22932BB7C56DE935",
+                                                                                    "id": "entity"
+                                                                                }
+                                                                            ],
+                                                                            "sub_functions": []
+                                                                        }
+                                                                    ],
+                                                                    "guid": "042F6D6F9CFC3580B4A30EE6A1C293A9",
+                                                                    "id": "if"
+                                                                },
+                                                                {
+                                                                    "functions": [
+                                                                        {
+                                                                            "function_id": "Unit_IssueOrderTargetingEntity",
+                                                                            "guid": "67FA9DF5444E8D7676BF2B84934A8C13",
+                                                                            "is_enabled": true,
+                                                                            "parameters": [
+                                                                                {
+                                                                                    "expressions": [
+                                                                                        {
+                                                                                            "function": {
+                                                                                                "function_id": "",
+                                                                                                "guid": "",
+                                                                                                "is_enabled": true,
+                                                                                                "parameters": [],
+                                                                                                "sub_functions": []
+                                                                                            },
+                                                                                            "guid": "956489AE4DCE6DDFBF8DC6B0BF92200D",
+                                                                                            "preset": {
+                                                                                                "guid": "",
+                                                                                                "preset_id": "",
+                                                                                                "value_id": ""
+                                                                                            },
+                                                                                            "script": "",
+                                                                                            "type": "Variable",
+                                                                                            "value": {
+                                                                                                "guid": "",
+                                                                                                "type": {
+                                                                                                    "directive": "None",
+                                                                                                    "implements": "",
+                                                                                                    "inner_type": "",
+                                                                                                    "param_id": "",
+                                                                                                    "sub_directive": "None",
+                                                                                                    "tags": [],
+                                                                                                    "type": ""
+                                                                                                },
+                                                                                                "value": ""
+                                                                                            },
+                                                                                            "variable": {
+                                                                                                "guid": "402749AD4A6D1AA687FA9EB36F19BBA3",
+                                                                                                "indices": [],
+                                                                                                "variable_id": "casting_unit"
+                                                                                            }
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "4AEE1AD144544F4CF3531C82EBC88328",
+                                                                                    "id": "unit"
+                                                                                },
+                                                                                {
+                                                                                    "expressions": [
+                                                                                        {
+                                                                                            "function": {
+                                                                                                "function_id": "",
+                                                                                                "guid": "",
+                                                                                                "is_enabled": true,
+                                                                                                "parameters": [],
+                                                                                                "sub_functions": []
+                                                                                            },
+                                                                                            "guid": "E55AB2574F79C135C64AC08B4DD6EA1A",
+                                                                                            "preset": {
+                                                                                                "guid": "",
+                                                                                                "preset_id": "",
+                                                                                                "value_id": ""
+                                                                                            },
+                                                                                            "script": "",
+                                                                                            "type": "Variable",
+                                                                                            "value": {
+                                                                                                "guid": "",
+                                                                                                "type": {
+                                                                                                    "directive": "None",
+                                                                                                    "implements": "",
+                                                                                                    "inner_type": "",
+                                                                                                    "param_id": "",
+                                                                                                    "sub_directive": "None",
+                                                                                                    "tags": [],
+                                                                                                    "type": ""
+                                                                                                },
+                                                                                                "value": ""
+                                                                                            },
+                                                                                            "variable": {
+                                                                                                "guid": "E8592A204E0F23D3F8BFA48621BB1FF5",
+                                                                                                "indices": [],
+                                                                                                "variable_id": "best_unit"
+                                                                                            }
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "71166B09457E0964859D3189336278AF",
+                                                                                    "id": "target_entity"
+                                                                                },
+                                                                                {
+                                                                                    "expressions": [
+                                                                                        {
+                                                                                            "function": {
+                                                                                                "function_id": "",
+                                                                                                "guid": "",
+                                                                                                "is_enabled": true,
+                                                                                                "parameters": [],
+                                                                                                "sub_functions": []
+                                                                                            },
+                                                                                            "guid": "1297023247D90F9A8EFFFC944B84EF47",
+                                                                                            "preset": {
+                                                                                                "guid": "",
+                                                                                                "preset_id": "",
+                                                                                                "value_id": ""
+                                                                                            },
+                                                                                            "script": "",
+                                                                                            "type": "Value",
+                                                                                            "value": {
+                                                                                                "guid": "5D8C02D947396845E896D99CF86F23B1",
+                                                                                                "type": {
+                                                                                                    "directive": "TypeRef",
+                                                                                                    "implements": "ability_data",
+                                                                                                    "inner_type": "",
+                                                                                                    "param_id": "",
+                                                                                                    "sub_directive": "None",
+                                                                                                    "tags": [],
+                                                                                                    "type": ""
+                                                                                                },
+                                                                                                "value": "CloneCreation"
+                                                                                            },
+                                                                                            "variable": {
+                                                                                                "guid": "",
+                                                                                                "indices": [],
+                                                                                                "variable_id": ""
+                                                                                            }
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "86D9D2444F7B35A5E7530A9821DBFAEC",
+                                                                                    "id": "order"
+                                                                                },
+                                                                                {
+                                                                                    "expressions": [
+                                                                                        {
+                                                                                            "function": {
+                                                                                                "function_id": "",
+                                                                                                "guid": "",
+                                                                                                "is_enabled": true,
+                                                                                                "parameters": [],
+                                                                                                "sub_functions": []
+                                                                                            },
+                                                                                            "guid": "6C0F673640F951C536D39C8CCE82F975",
+                                                                                            "preset": {
+                                                                                                "guid": "",
+                                                                                                "preset_id": "",
+                                                                                                "value_id": ""
+                                                                                            },
+                                                                                            "script": "",
+                                                                                            "type": "Value",
+                                                                                            "value": {
+                                                                                                "guid": "7F14D0C440941410301E8BAD20BED626",
+                                                                                                "type": {
+                                                                                                    "directive": "FunctionType",
+                                                                                                    "implements": "",
+                                                                                                    "inner_type": "",
+                                                                                                    "param_id": "",
+                                                                                                    "sub_directive": "None",
+                                                                                                    "tags": [],
+                                                                                                    "type": "Integer"
+                                                                                                },
+                                                                                                "value": "0"
+                                                                                            },
+                                                                                            "variable": {
+                                                                                                "guid": "",
+                                                                                                "indices": [],
+                                                                                                "variable_id": ""
+                                                                                            }
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "0EF2704F48F3920B27F535B8BB9D92CC",
+                                                                                    "id": "order_index"
+                                                                                },
+                                                                                {
+                                                                                    "expressions": [
+                                                                                        {
+                                                                                            "function": {
+                                                                                                "function_id": "",
+                                                                                                "guid": "",
+                                                                                                "is_enabled": true,
+                                                                                                "parameters": [],
+                                                                                                "sub_functions": []
+                                                                                            },
+                                                                                            "guid": "DEB0187A4F27E4ECF71D6E95459873A7",
+                                                                                            "preset": {
+                                                                                                "guid": "6701E7324BEAF3FB634213AD377B2301",
+                                                                                                "preset_id": "Unit_OrderQueueOptions",
+                                                                                                "value_id": "replace"
+                                                                                            },
+                                                                                            "script": "",
+                                                                                            "type": "Preset",
+                                                                                            "value": {
+                                                                                                "guid": "",
+                                                                                                "type": {
+                                                                                                    "directive": "None",
+                                                                                                    "implements": "",
+                                                                                                    "inner_type": "",
+                                                                                                    "param_id": "",
+                                                                                                    "sub_directive": "None",
+                                                                                                    "tags": [],
+                                                                                                    "type": ""
+                                                                                                },
+                                                                                                "value": ""
+                                                                                            },
+                                                                                            "variable": {
+                                                                                                "guid": "",
+                                                                                                "indices": [],
+                                                                                                "variable_id": ""
+                                                                                            }
+                                                                                        }
+                                                                                    ],
+                                                                                    "guid": "73E14F284D4D614EACBA8C8116A0D62F",
+                                                                                    "id": "queue_order"
+                                                                                }
+                                                                            ],
+                                                                            "sub_functions": []
+                                                                        }
+                                                                    ],
+                                                                    "guid": "6C91474AFBAE3903A4B8CD1C8D1B9DBF",
+                                                                    "id": "then"
+                                                                },
+                                                                {
+                                                                    "functions": [],
+                                                                    "guid": "B73FF120FCD3341E93922C7A7AF8CD6C",
+                                                                    "id": "else"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "guid": "5322E634D61C35B18F66657DEE290DAF",
+                                                    "id": "actions"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "guid": "5EAC4D54CBE3347A970317082C3EC99A",
+                                    "id": "actions"
+                                }
+                            ]
+                        }
+                    ],
+                    "guid": "E24B19B2C25333AA995ACACDEF1E5D5A",
+                    "id": "actions"
+                }
+            ]
+        }
+    ],
+    "based_on": "Trigger",
+    "conditions": [],
+    "dev_only": false,
+    "enabled": true,
+    "events": [
+        {
+            "function_id": "Game_OnMapInitialization",
+            "guid": "5D9D6F063DB635219FD443CD0C44328C",
+            "is_enabled": true,
+            "parameters": [],
+            "sub_functions": []
+        }
+    ],
+    "id": "AIAbility_CloneCreation",
+    "variables": [
+        {
+            "array_size": 1,
+            "guid": "5E29985E5E763C9CB5D856440E43424B",
+            "id": "casting_unit",
+            "initial_values": [
+                {
+                    "function": {
+                        "function_id": "",
+                        "guid": "",
+                        "is_enabled": true,
+                        "parameters": [],
+                        "sub_functions": []
+                    },
+                    "guid": "B7D58A5A448F9E42AE775F981122858F",
+                    "preset": {
+                        "guid": "1D5EE2A142922FEDE80BE1B8E8186E5E",
+                        "preset_id": "Unit_NoUnit",
+                        "value_id": "none"
+                    },
+                    "script": "",
+                    "type": "Preset",
+                    "value": {
+                        "guid": "",
+                        "type": {
+                            "directive": "None",
+                            "implements": "",
+                            "inner_type": "",
+                            "param_id": "",
+                            "sub_directive": "None",
+                            "tags": [],
+                            "type": ""
+                        },
+                        "value": ""
+                    },
+                    "variable": {
+                        "guid": "",
+                        "indices": [],
+                        "variable_id": ""
+                    }
+                }
+            ],
+            "is_array": false,
+            "is_constant": false,
+            "is_id_based_on_name": true,
+            "name": "casting_unit",
+            "per_element_initial_values": false,
+            "type": {
+                "directive": "FunctionType",
+                "implements": "",
+                "inner_type": "",
+                "param_id": "",
+                "sub_directive": "None",
+                "tags": [],
+                "type": "Unit"
+            }
+        },
+        {
+            "array_size": 1,
+            "guid": "0EDC4A504DDD2F60568BC7B0E79ED4A3",
+            "id": "best_unit",
+            "initial_values": [
+                {
+                    "function": {
+                        "function_id": "",
+                        "guid": "",
+                        "is_enabled": true,
+                        "parameters": [],
+                        "sub_functions": []
+                    },
+                    "guid": "3C8EDC034F193DEAA7E4D18AD1C86B97",
+                    "preset": {
+                        "guid": "99EDD8D34E5534DAC538FDAB18EA2DC3",
+                        "preset_id": "Unit_NoUnit",
+                        "value_id": "none"
+                    },
+                    "script": "",
+                    "type": "Preset",
+                    "value": {
+                        "guid": "",
+                        "type": {
+                            "directive": "None",
+                            "implements": "",
+                            "inner_type": "",
+                            "param_id": "",
+                            "sub_directive": "None",
+                            "tags": [],
+                            "type": ""
+                        },
+                        "value": ""
+                    },
+                    "variable": {
+                        "guid": "",
+                        "indices": [],
+                        "variable_id": ""
+                    }
+                }
+            ],
+            "is_array": false,
+            "is_constant": false,
+            "is_id_based_on_name": true,
+            "name": "best_unit",
+            "per_element_initial_values": false,
+            "type": {
+                "directive": "FunctionType",
+                "implements": "",
+                "inner_type": "",
+                "param_id": "",
+                "sub_directive": "None",
+                "tags": [],
+                "type": "Unit"
+            }
+        }
+    ]
+}

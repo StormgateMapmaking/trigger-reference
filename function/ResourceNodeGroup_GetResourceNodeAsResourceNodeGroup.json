@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Resource Node As Resource Node Group",
+    "grammar_text":  "{resourcenode} as a Resource Node Group",
+    "id":  "ResourceNodeGroup_GetResourceNodeAsResourceNodeGroup",
+    "script_id":  "Shim::ResourceNodeGroup::get_resource_node_as_group",
+    "type":  "Function"
+}

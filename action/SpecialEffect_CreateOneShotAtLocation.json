@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Special Effect - Create One-Shot at Location",
+    "grammar_text":  "Create {effect} as a one-shot special effect from {source} at {location}",
+    "id":  "SpecialEffect_CreateOneShotAtLocation",
+    "script_id":  "SpecialEffect::create_oneshot",
+    "type":  "Action"
+}

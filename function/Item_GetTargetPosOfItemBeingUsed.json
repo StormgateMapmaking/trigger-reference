@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Target Position of Item Being Used",
+    "grammar_text":  "Target position of item being used",
+    "id":  "Item_GetTargetPosOfItemBeingUsed",
+    "script_id":  "Events::EventData::get_target_position_of_item_used",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Add Region",
+    "grammar_text":  "Add {region} to {group}",
+    "id":  "RegionGroup_AddRegion",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

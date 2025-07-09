@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Creep Camp",
+    "grammar_text":  "Triggering creep camp",
+    "id":  "CreepCamp_GetTriggeringCreepCamp",
+    "script_id":  "Events::EventData::get_triggering_creep_camp",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - State Machine of Entity",
+    "grammar_text":  "State machine of {entity} named {name}",
+    "id":  "FSM_GetEntityStateMachine",
+    "script_id":  "Triggers::FSM::FiniteStateMachine::get_state_machine_controlling_entity",
+    "type":  "Function"
+}

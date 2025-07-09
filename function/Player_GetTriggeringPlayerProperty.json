@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Player Property",
+    "grammar_text":  "Triggering player property",
+    "id":  "Player_GetTriggeringPlayerProperty",
+    "script_id":  "Events::EventData::get_triggering_player_property",
+    "type":  "Function"
+}

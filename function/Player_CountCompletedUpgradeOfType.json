@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Count Completed Upgrade Of Type",
+    "grammar_text":  "Count {upgrade} completed by {player}",
+    "id":  "Player_CountCompletedUpgradeOfType",
+    "script_id":  "Shim::Player::count_completed_upgrade_of_type",
+    "type":  "Function"
+}

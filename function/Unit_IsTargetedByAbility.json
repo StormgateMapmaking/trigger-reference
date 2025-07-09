@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Is Targeted by Ability",
+    "grammar_text":  "{unit} Is Targeted by {ability}",
+    "id":  "Unit_IsTargetedByAbility",
+    "script_id":  "Shim::Unit::is_unit_targeted_by_ability",
+    "type":  "Function"
+}

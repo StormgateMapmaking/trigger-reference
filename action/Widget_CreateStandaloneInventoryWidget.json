@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Widget - Create Inventory Widget (Standalone)",
+    "grammar_text":  "Create an inventory panel widget for {inventory_owner} titled {title}",
+    "id":  "Widget_CreateStandaloneInventoryWidget",
+    "script_id":  "UI::InventoryPanelWidget::create_standalone",
+    "type":  "Action"
+}

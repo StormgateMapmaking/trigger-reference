@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Pause Timer",
+    "grammar_text":  "Pause {timer}",
+    "id":  "Timer_PauseTimer",
+    "script_id":  "pause",
+    "type":  "Action"
+}

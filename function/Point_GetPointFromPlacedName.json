@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point - Point From Name",
+    "grammar_text":  "Pre-placed point named {name}",
+    "id":  "Point_GetPointFromPlacedName",
+    "script_id":  "Point::find_by_placed_name",
+    "type":  "Function"
+}

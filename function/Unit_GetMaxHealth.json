@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Max Health",
+    "grammar_text":  "Max health of {unit}",
+    "id":  "Unit_GetMaxHealth",
+    "script_id":  "get_max_health",
+    "type":  "Function"
+}

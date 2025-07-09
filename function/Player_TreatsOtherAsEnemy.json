@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Treats Other As Enemy",
+    "grammar_text":  "Player {player} treats {other} as enemy",
+    "id":  "Player_TreatsOtherAsEnemy",
+    "script_id":  "treats_as_enemy",
+    "type":  "Function"
+}

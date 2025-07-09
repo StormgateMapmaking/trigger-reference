@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Is Active",
+    "grammar_text":  "Player {player} is actively playing",
+    "id":  "Player_IsActive",
+    "script_id":  "::is_player_activated",
+    "type":  "Function"
+}

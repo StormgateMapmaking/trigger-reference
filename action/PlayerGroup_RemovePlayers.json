@@ -1,0 +1,7 @@
+﻿{
+    "name":  "PlayerGroup - Remove Players",
+    "grammar_text":  "Remove {source} from {destination}",
+    "id":  "PlayerGroup_RemovePlayers",
+    "script_id":  "remove_group",
+    "type":  "Action"
+}

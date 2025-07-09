@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Remove Regions",
+    "grammar_text":  "Remove {source} from {destination}",
+    "id":  "RegionGroup_RemoveRegions",
+    "script_id":  "remove_group",
+    "type":  "Action"
+}

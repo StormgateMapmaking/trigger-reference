@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Item - Owning Unit",
+    "grammar_text":  "Owner of {item}",
+    "id":  "Item_GetOwningUnit",
+    "script_id":  "get_owning_unit",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Camera Shake Source From Placed Name",
+    "grammar_text":  "Pre-placed CameraShakeSource named {name}",
+    "id":  "CameraShake_GetCameraShakeSourceFromPlacedName",
+    "script_id":  "CameraShakeSource::find_by_placed_name",
+    "type":  "Function"
+}

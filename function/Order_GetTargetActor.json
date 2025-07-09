@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Target Actor of Order",
+    "grammar_text":  "Target actor of {order}",
+    "id":  "Order_GetTargetActor",
+    "script_id":  "get_target_actor",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Transmission - Set Actor for Character",
+    "grammar_text":  "Set {actor} as character {character} in the {player}",
+    "id":  "Transmission_SetCharacterActor",
+    "script_id":  "set_character_actor",
+    "type":  "Action"
+}

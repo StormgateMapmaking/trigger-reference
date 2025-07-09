@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Attribute Value As Archetype Ref",
+    "grammar_text":  "Value of attribute {attribute} for player {player} as a generic typeref.",
+    "id":  "Player_GetAttributeValueAsArchetypeRef",
+    "script_id":  "",
+    "type":  "Function"
+}

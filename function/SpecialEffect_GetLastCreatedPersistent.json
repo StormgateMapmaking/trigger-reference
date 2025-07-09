@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Special Effect - Last Created Persistent Special Effect",
+    "grammar_text":  "Last persistent special effect",
+    "id":  "SpecialEffect_GetLastCreatedPersistent",
+    "script_id":  "::SpecialEffect::get_last_created_persistent_special_effect",
+    "type":  "Function"
+}

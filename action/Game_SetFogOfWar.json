@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Set Fog Of War",
+    "grammar_text":  "{enabled} Fog of War for {player_group}",
+    "id":  "Game_SetFogOfWar",
+    "script_id":  "Shim::Game::set_fog_of_war",
+    "type":  "Action"
+}

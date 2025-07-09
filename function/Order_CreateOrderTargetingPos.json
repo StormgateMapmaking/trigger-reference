@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Order Targeting Position",
+    "grammar_text":  "{ability_command} targeting {target}",
+    "id":  "Order_CreateOrderTargetingPos",
+    "script_id":  "Order::create",
+    "type":  "Function"
+}

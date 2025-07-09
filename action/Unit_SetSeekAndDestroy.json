@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Seek and Destroy",
+    "grammar_text":  "Set seek and destroy behavior {on} for {unit}",
+    "id":  "Unit_SetSeekAndDestroy",
+    "script_id":  "seek_and_destroy",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Remove Resource Node",
+    "grammar_text":  "Remove {resourcenode} from {group}",
+    "id":  "ResourceNodeGroup_RemoveResourceNode",
+    "script_id":  "remove",
+    "type":  "Action"
+}

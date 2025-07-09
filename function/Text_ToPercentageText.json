@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Text - Convert To Text (Percentage)",
+    "grammar_text":  "Convert {value} to text",
+    "id":  "Text_ToPercentageText",
+    "script_id":  "Text::as_percentage",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Is Revived",
+    "grammar_text":  "{unit|Any Unit} is revived",
+    "id":  "Unit_OnRevived",
+    "script_id":  "",
+    "type":  "Event"
+}

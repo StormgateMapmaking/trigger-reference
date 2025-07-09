@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Trigger - Is Enabled",
+    "grammar_text":  "{trigger} is enabled",
+    "id":  "Trigger_IsEnabled",
+    "script_id":  "Triggers::Trigger::is_trigger_enabled",
+    "type":  "Function"
+}

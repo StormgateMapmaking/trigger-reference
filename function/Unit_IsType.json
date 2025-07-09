@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Is Type",
+    "grammar_text":  "Unit type of {unit} is {type}",
+    "id":  "Unit_IsType",
+    "script_id":  "Shim::Unit::is_unit_of_type",
+    "type":  "Function"
+}

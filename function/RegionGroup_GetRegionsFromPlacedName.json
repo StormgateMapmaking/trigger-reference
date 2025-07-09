@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - Regions With Placed Name",
+    "grammar_text":  "Pre-placed Regions named {name}",
+    "id":  "RegionGroup_GetRegionsFromPlacedName",
+    "script_id":  "Shim::RegionGroup::get_regions_with_placed_name",
+    "type":  "Function"
+}

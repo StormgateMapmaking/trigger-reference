@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Caster Point",
+    "grammar_text":  "Effect caster point of {effect_parent}",
+    "id":  "Effect_GetCasterPoint",
+    "script_id":  "Shim::Effect::get_caster_point",
+    "type":  "Function"
+}

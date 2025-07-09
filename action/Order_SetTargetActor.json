@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Set Target Actor",
+    "grammar_text":  "Set the target actor of {order} to {target}",
+    "id":  "Order_SetTargetActor",
+    "script_id":  "set_target_actor",
+    "type":  "Action"
+}

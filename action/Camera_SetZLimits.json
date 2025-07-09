@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Set Camera Z Limits",
+    "grammar_text":  "Limit {camera} Z to between {min} and {max}",
+    "id":  "Camera_SetZLimits",
+    "script_id":  "set_z_limits",
+    "type":  "Action"
+}

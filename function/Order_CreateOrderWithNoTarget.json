@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Order With No Target",
+    "grammar_text":  "{ability_command}",
+    "id":  "Order_CreateOrderWithNoTarget",
+    "script_id":  "Order::create",
+    "type":  "Function"
+}

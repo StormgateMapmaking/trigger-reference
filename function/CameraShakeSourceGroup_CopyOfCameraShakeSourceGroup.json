@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Copy Of Camera Shake Source Group",
+    "grammar_text":  "Copy of {group}",
+    "id":  "CameraShakeSourceGroup_CopyOfCameraShakeSourceGroup",
+    "script_id":  "Shim::CameraShakeSourceGroup::get_copy_of_camera_shake_source_group",
+    "type":  "Function"
+}

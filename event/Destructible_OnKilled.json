@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible - Destructible Dies",
+    "grammar_text":  "{destructible|Any Destructible} dies",
+    "id":  "Destructible_OnKilled",
+    "script_id":  "",
+    "type":  "Event"
+}

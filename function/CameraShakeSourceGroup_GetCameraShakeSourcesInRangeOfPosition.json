@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Camera Shake Source In Range Of Position",
+    "grammar_text":  "Camera Shake Sources within {radius} of {position}",
+    "id":  "CameraShakeSourceGroup_GetCameraShakeSourcesInRangeOfPosition",
+    "script_id":  "Shim::CameraShakeSourceGroup::get_camera_shake_sources_in_range_of_position",
+    "type":  "Function"
+}

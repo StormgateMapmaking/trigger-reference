@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Music - Clear Trigger Parameter",
+    "grammar_text":  "Clear music trigger parameter",
+    "id":  "Music_ClearTriggerParameter",
+    "script_id":  "SoundEmitter::get_or_create_music_sound_emitter().clear_trigger_parameter",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "State Machine - Create State Machine for Entity",
+    "grammar_text":  "Create {state_machine} named {name} for {entity}",
+    "id":  "FSM_CreateStateMachineForEntity",
+    "script_id":  "Shim::FSM::create_state_machine",
+    "type":  "Action"
+}

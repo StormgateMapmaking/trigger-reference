@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Entity - As \u003c\u003cType\u003e\u003e",
+    "grammar_text":  "{entity} as a \u003c\u003cType\u003e\u003e",
+    "id":  "Entity_AsType_Template",
+    "script_id":  "as\u003c\u003c\u003cNativeType\u003e\u003e\u003e",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Destructible Group - Add Destructible",
+    "grammar_text":  "Add {destructible} to {group}",
+    "id":  "DestructibleGroup_AddDestructible",
+    "script_id":  "add_unique",
+    "type":  "Action"
+}

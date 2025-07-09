@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Player Selection Changed",
+    "grammar_text":  "{player|Any Player} selection changes",
+    "id":  "Player_OnSelectionChanged",
+    "script_id":  "",
+    "type":  "Event"
+}

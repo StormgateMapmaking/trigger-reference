@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Bot - Add Action(s)",
+    "grammar_text":  "Add action(s) {action} to {bot}",
+    "id":  "Bot_AddAction",
+    "script_id":  "add_actions",
+    "type":  "Action"
+}

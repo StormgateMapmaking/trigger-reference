@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Point Group - Random Point",
+    "grammar_text":  "Random Point from {group}",
+    "id":  "PointGroup_GetRandomPoint",
+    "script_id":  "random",
+    "type":  "Function"
+}

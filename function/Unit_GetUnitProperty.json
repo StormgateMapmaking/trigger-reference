@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Property",
+    "grammar_text":  "{property} of {unit}",
+    "id":  "Unit_GetUnitProperty",
+    "script_id":  "get_property",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Empty Resource Node Group",
+    "grammar_text":  "Empty Resource Node Group",
+    "id":  "ResourceNodeGroup_GetNewResourceNodeGroup",
+    "script_id":  "Shim::ResourceNodeGroup::create",
+    "type":  "Function"
+}

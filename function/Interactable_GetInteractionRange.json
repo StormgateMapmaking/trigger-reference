@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Interaction Range Override",
+    "grammar_text":  "Interaction range of {interactable}",
+    "id":  "Interactable_GetInteractionRange",
+    "script_id":  "",
+    "type":  "Function"
+}

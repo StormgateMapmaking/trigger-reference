@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Blackboard - Blackboard of Entity",
+    "grammar_text":  "Blackboard of {entity}",
+    "id":  "Blackboard_GetBlackboardOfEntity",
+    "script_id":  "blackboard",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Get Duration",
+    "grammar_text":  "Duration of {ping}",
+    "id":  "Ping_GetDuration",
+    "script_id":  "get_duration",
+    "type":  "Function"
+}

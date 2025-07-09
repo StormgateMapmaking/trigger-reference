@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Interaction Instigator",
+    "grammar_text":  "Interaction instigating unit",
+    "id":  "Interactable_GetInstigatingUnit",
+    "script_id":  "Events::EventData::get_triggering_interaction_instigator",
+    "type":  "Function"
+}

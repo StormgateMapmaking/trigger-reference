@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Entity",
+    "grammar_text":  "Triggering entity",
+    "id":  "Entity_GetTriggeringEntity",
+    "script_id":  "Events::EventData::get_triggering_entity",
+    "type":  "Function"
+}

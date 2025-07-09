@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objective - Show Messages",
+    "grammar_text":  "Show objective messages",
+    "id":  "Objective_ShowMessages",
+    "script_id":  "show_screen_messages",
+    "type":  "Action"
+}

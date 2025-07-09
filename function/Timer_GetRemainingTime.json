@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Remaining Time",
+    "grammar_text":  "{timer} remaining time",
+    "id":  "Timer_GetRemainingTime",
+    "script_id":  "get_time_remaining",
+    "type":  "Function"
+}

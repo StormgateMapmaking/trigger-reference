@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Revealer - Attached to",
+    "grammar_text":  "Actor {revealer} is attached to",
+    "id":  "Revealer_GetAttachedTo",
+    "script_id":  "attached_to_actor",
+    "type":  "Function"
+}

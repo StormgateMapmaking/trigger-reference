@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Pause Fidgeting For All Units",
+    "grammar_text":  "{pause} fidgeting for all units",
+    "id":  "Unit_PauseFidgetingForAll",
+    "script_id":  "GameWorld::pause_all_unit_fidgets",
+    "type":  "Action"
+}

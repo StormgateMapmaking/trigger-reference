@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Actor - Is Hidden",
+    "grammar_text":  "Is {actor} Hidden",
+    "id":  "Actor_IsHidden",
+    "script_id":  "is_actor_hidden",
+    "type":  "Function"
+}

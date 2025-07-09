@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Generator - Placed Name",
+    "grammar_text":  "Placed name of {resource_generator}",
+    "id":  "ResourceGenerator_GetPlacedName",
+    "script_id":  "get_placed_name",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Interacted with Actor",
+    "grammar_text":  "{instigator} interacts with {interactable}",
+    "id":  "Interactable_OnInteraction",
+    "script_id":  "Events::InteractionEvent::create",
+    "type":  "Event"
+}

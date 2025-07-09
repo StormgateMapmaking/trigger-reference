@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Set Health (Percentage)",
+    "grammar_text":  "Set unit {unit} health to {health}%",
+    "id":  "Unit_SetHealthPercentage",
+    "script_id":  "set_health_percentage",
+    "type":  "Action"
+}

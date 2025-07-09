@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - All AI casting players",
+    "grammar_text":  "All AI casting players",
+    "id":  "PlayerGroup_GetAllAICastingPlayers",
+    "script_id":  "Shim::PlayerGroup::get_all_ai_casting_players",
+    "type":  "Function"
+}

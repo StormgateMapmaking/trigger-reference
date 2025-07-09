@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera - Set Camera Zoom Limits",
+    "grammar_text":  "Set camera zoom limits at {min}, {max} for {players}",
+    "id":  "Camera_SetCameraZoomLimits",
+    "script_id":  "Shim::Camera::set_camera_zoom_limits_for_players",
+    "type":  "Action"
+}

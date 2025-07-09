@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake Source Group - Camera Shake Sources With Placed Name",
+    "grammar_text":  "Pre-placed Camera Shake Sources named {name}",
+    "id":  "CameraShakeSourceGroup_GetCameraShakeSourcesFromPlacedName",
+    "script_id":  "Shim::CameraShakeSourceGroup::get_camera_shake_sources_with_placed_name",
+    "type":  "Function"
+}

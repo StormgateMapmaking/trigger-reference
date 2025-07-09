@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objective - Hide Messages",
+    "grammar_text":  "Hide objective messages",
+    "id":  "Objective_HideMessages",
+    "script_id":  "hide_screen_messages",
+    "type":  "Action"
+}

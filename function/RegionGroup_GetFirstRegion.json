@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region Group - First Region in Region Group",
+    "grammar_text":  "First Region of {group}",
+    "id":  "RegionGroup_GetFirstRegion",
+    "script_id":  "first",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "CapturePoint - Lock/Unlock Capture Point",
+    "grammar_text":  "{lock} {capturepoint}",
+    "id":  "CapturePoint_LockCapturePoint",
+    "script_id":  "lock",
+    "type":  "Action"
+}

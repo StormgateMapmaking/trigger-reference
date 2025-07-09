@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - For Each Resource Node In Group",
+    "grammar_text":  "For each unit in {group} do (Actions)",
+    "id":  "ResourceNodeGroup_ForEachResourceNodeInGroup",
+    "script_id":  "",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Order - Use Item Order Targeting Actor",
+    "grammar_text":  "Use {item} targeting {target}",
+    "id":  "Order_CreateUseItemOrderTargetingActor",
+    "script_id":  "UseItemOrder::create",
+    "type":  "Function"
+}

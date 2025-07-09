@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Interactable - Can Be Interacted With",
+    "grammar_text":  "{interactable} can be interacted with",
+    "id":  "Interactable_GetCanBeInteractedWith",
+    "script_id":  "",
+    "type":  "Function"
+}

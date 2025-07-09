@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sequence - Create Sequence Player",
+    "grammar_text":  "Create new sequence player {archetype} at {location} facing {facing}",
+    "id":  "Sequence_CreateSequencePlayer",
+    "script_id":  "Shim::SequencePlayer::create_sequence_player",
+    "type":  "Action"
+}

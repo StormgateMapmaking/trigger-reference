@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Effect - Effect Target Point",
+    "grammar_text":  "Effect target point of {effect_parent}",
+    "id":  "Effect_GetTargetPoint",
+    "script_id":  "Shim::Effect::get_target_point",
+    "type":  "Function"
+}

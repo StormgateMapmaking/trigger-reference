@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Wave - Set Grid Formation",
+    "grammar_text":  "Set {wave} to the centered grid formation with at most {columns} columns and {rows} rows",
+    "id":  "Wave_SetFormationCenteredGrid",
+    "script_id":  "set_columns_and_rows",
+    "type":  "Action"
+}

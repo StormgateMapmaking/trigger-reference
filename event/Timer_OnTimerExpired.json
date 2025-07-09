@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Timer - Timer Expired",
+    "grammar_text":  "Timer {timer|Any Timer} expires",
+    "id":  "Timer_OnTimerExpired",
+    "script_id":  "",
+    "type":  "Event"
+}

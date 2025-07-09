@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Resource Node Group - Resource Nodes With Placed Name",
+    "grammar_text":  "Pre-placed Resource Nodes named {name}",
+    "id":  "ResourceNodeGroup_GetResourceNodesFromPlacedName",
+    "script_id":  "Shim::ResourceNodeGroup::get_resource_nodes_with_placed_name",
+    "type":  "Function"
+}

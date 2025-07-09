@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Game - Save Game",
+    "grammar_text":  "Save game",
+    "id":  "SaveGame",
+    "script_id":  "Shim::Game::save_game",
+    "type":  "Action"
+}

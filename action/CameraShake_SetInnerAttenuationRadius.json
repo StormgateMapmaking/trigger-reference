@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Camera Shake - Set Inner Attenuation Radius",
+    "grammar_text":  "Set the inner attenuation radius of {camera_shake_source} to {radius}",
+    "id":  "CameraShake_SetInnerAttenuationRadius",
+    "script_id":  "set_inner_attenuation_radius",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Objective - Jump To Message",
+    "grammar_text":  "Jump to objective message {message}",
+    "id":  "Objective_JumpToMessage",
+    "script_id":  "jump_to_screen_message",
+    "type":  "Action"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Region - Get Max Extents",
+    "grammar_text":  "Max Extents of {region}",
+    "id":  "Region_GetMaxExtents",
+    "script_id":  "get_max_extents",
+    "type":  "Function"
+}

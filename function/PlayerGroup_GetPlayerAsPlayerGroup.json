@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player Group - Player As Player Group",
+    "grammar_text":  "{player} as a player group",
+    "id":  "PlayerGroup_GetPlayerAsPlayerGroup",
+    "script_id":  "Shim::PlayerGroup::get_player_as_player_group",
+    "type":  "Function"
+}

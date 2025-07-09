@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Player - Set Player Allows AI Ability Cast",
+    "grammar_text":  "{allow} AI Ability casting for Player {player}",
+    "id":  "Player_SetAllowsAIAbilityCast",
+    "script_id":  "Shim::Player::set_allows_ai_ability_cast",
+    "type":  "Action"
+}

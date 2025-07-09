@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Unit - Unit Recruited From Creep Camp",
+    "grammar_text":  "{unit|Any Unit} is recruited from {creepcamp}",
+    "id":  "Unit_OnCreepRecruited",
+    "script_id":  "Events::CreepRecruitedEvent::create",
+    "type":  "Event"
+}

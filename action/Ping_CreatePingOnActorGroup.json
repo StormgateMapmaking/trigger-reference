@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Ping - Create Attached to Actor Group",
+    "grammar_text":  "Create {type} on {actor_group} and play {global_sound} sound {sound} for {players}.",
+    "id":  "Ping_CreatePingOnActorGroup",
+    "script_id":  "Shim::Ping::create_attached_to_group",
+    "type":  "Action"
+}

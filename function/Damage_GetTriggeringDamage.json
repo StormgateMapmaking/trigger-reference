@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Event - Triggering Damage",
+    "grammar_text":  "Current damage instance",
+    "id":  "Damage_GetTriggeringDamage",
+    "script_id":  "Shim::Damage::get_triggering_damage",
+    "type":  "Function"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "name":  "Sound Emitter - Get Listening Players",
+    "grammar_text":  "Listening players of {sound_emitter}",
+    "id":  "SoundEmitter_GetPlayerGroup",
+    "script_id":  "Shim::SoundEmitter::get_player_group",
+    "type":  "Action"
+}
